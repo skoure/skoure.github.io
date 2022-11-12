@@ -1,3 +1,3 @@
 # skoure.github.io
 
-## https://skoure.github.io/index.m3u
+## https://skoure.github.io/iptv/index.m3u
