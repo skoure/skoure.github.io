@@ -17,6 +17,8 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="USA",NBC (WCAU)
 http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Movies",HBO
+https://live.tv247us.com/tv247/hbo.m3u8
 ########## Documentary ##########
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 HD
 http://109.105.205.250:8081/live/HISTORY2/playlist.m3u8
@@ -29,6 +31,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f
 ########## Entertainment ##########
 #EXTINF:-1 channel-id="pluto-628e685ba3811100070551a8" tvg-id="628e685ba3811100070551a8" tvg-chno="258" tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogoPNG.png" group-title="Entertainment", Hallmark Movies & More
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551a8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+########## Sports ##########
+#EXTINF:-1 tvg-logo="https://btn.com/wp-content/uploads/2020/10/B1G-Network_DOT-COM_Header_v1.jpg" group-title="Sports", BTN
+https://live.tv247us.com/tv247/btn.m3u8
 ########## GREEK ##########
 #EXTINF:-1 tvg-id="4E.gr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/4E_TV_logo.png" group-title="Greek",4E (720p)
 http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
