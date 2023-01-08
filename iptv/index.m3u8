@@ -315,11 +315,11 @@ https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-name="ant1europe" tvg-logo="https://i.imgur.com/lc0mZ4i.jpg" group-title="Greek",ANT1 EUROPE
 http://95.107.132.106/out/u/atsykmssuyrsyhth.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/wzk4Y0T.png" group-title="Greek",BCI GREEK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzk4Y0T.png" group-title="Greek",BCI GREEK
 https://channel.streams.ovh:1936/greekcinema/greekcinema/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA" tvg-logo="https://i.imgur.com/caWensC.png" group-title="Greek",BCI CINEMA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/caWensC.png" group-title="Greek",BCI CINEMA
 https://channel.streams.ovh:19360/cetn/cetn.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="ept-world-live" tvg-logo="https://i.imgur.com/WeJpLhK.png" group-title="Greek",ERT WORLD 
+#EXTINF:-1 tvg-name="ept-world-live" tvg-logo="https://i.imgur.com/WeJpLhK.png" group-title="Greek",ERT WORLD 
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist.m3u8
 #EXTINF:-1 tvg-name="hlektratv" tvg-logo="https://i.imgur.com/SI8Ny3X.png" group-title="Greek",HLEKTRA TV
 https://stream.sy3dud.com:5443/LiveApp/streams/929478179740925265301306.m3u8
