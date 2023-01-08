@@ -399,6 +399,8 @@ https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PoVImve.png" group-title="Greek Music",RED MUSIC
 http://s2.netmax-host.eu:5062/redlive/redlive/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AmW9d6H.jpg" group-title="Greek Music",ZOUGLA TV
+https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AmW9d6H.jpg" group-title="Greek Music",ZOUGLA TV
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wb4pLkW.jpg" group-title="Greek Music",TILEMOUSIKI
 http://65.108.62.57:8080/live/greekmusic.m3u8
@@ -416,8 +418,6 @@ http://176.9.123.140:1935/messinia/messinia/master.m3u8
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-id="Choice.gr" tvg-logo="https://i.imgur.com/m7gb941.png" group-title="Greek Music",Choice (956p) [Not 24/7]
 https://vod.streams.ovh:3528/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AmW9d6H.jpg" group-title="Greek",ZOUGLA TV
-https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 ##################################################
 #EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Ukraine",1+1 (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ/live
