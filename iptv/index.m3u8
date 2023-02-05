@@ -8,15 +8,23 @@ http://v-ny.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Noqqn46.png" group-title="New York",ABC 7 (WABC)
 http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/WWOR-TV_logo.svg/revision/latest?cb=20200601150713" group-title="New York",my9
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/WWOR-TV_logo.svg" group-title="New York",my9
 http://v-ny.theus6tv.duckdns.org/hls/9.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/WPIX#/media/File:PIX11_2017.svg" group-title="New York",The CW / PIX11
 http://v-ny.theus6tv.duckdns.org/hls/11.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Start_TV.svg" group-title="New York",StartTV
+http://v-ny.theus6tv.duckdns.org/hls/2.2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Dabl_logo.svg" group-title="New York",Dabl
+http://v-ny.theus6tv.duckdns.org/hls/2.3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/FAVE_TV.svg" group-title="New York",FAVE TV
+http://v-ny.theus6tv.duckdns.org/hls/2.4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-15675.png" group-title="New York",COZI
 http://v-ny.theus6tv.duckdns.org/hls/4.2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Movies!#/media/File:Movies!_logo.svg" group-title="New York",Movies!
 http://v-ny.theus6tv.duckdns.org/hls/5.2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fox_Weather_logo.svg" group-title="New York",Fox Weather
+http://v-ny.theus6tv.duckdns.org/hls/5.3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/TheGrio.png" group-title="New York",The grio
 http://v-ny.theus6tv.duckdns.org/hls/5.3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Decades_%28TV_network%29#/media/File:Decades_Logo.svg" group-title="New York",Decades
 http://v-ny.theus6tv.duckdns.org/hls/5.5/playlist.m3u8
@@ -38,12 +46,18 @@ http://v-ny.theus6tv.duckdns.org/hls/25.3/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/28.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WPXNDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="New York",Ion East
 http://v-ny.theus6tv.duckdns.org/hls/31.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bounce_2017.png" group-title="New York",Bounce TV
+http://v-ny.theus6tv.duckdns.org/hls/31.2/playlist.m3u8
 #EXTINF:-1 tvg-id="WPXNDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" group-title="New York",ION Mystery
 http://v-ny.theus6tv.duckdns.org/hls/31.3/playlist.m3u8
 #EXTINF:-1 tvg-id="WPXNDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Defy_TV_logo.png/512px-Defy_TV_logo.png" group-title="New York",Defy TV
 http://v-ny.theus6tv.duckdns.org/hls/31.4/playlist.m3u8
 #EXTINF:-1 tvg-id="WPXNDT5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="New York",Laff
 http://v-ny.theus6tv.duckdns.org/hls/31.5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/TrueReal_pink.jpg" group-title="New York",True Real
+http://v-ny.theus6tv.duckdns.org/hls/31.6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Scripps_News_2023.svg" group-title="New York",Scripps TV
+http://v-ny.theus6tv.duckdns.org/hls/31.7/playlist.m3u8
 #EXTINF:-1 tvg-id="WJLPDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/MeTV_logo_2014.svg" group-title="New York",MeTV New York
 http://v-ny.theus6tv.duckdns.org/hls/33.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WJLPDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="New York",Laff
@@ -56,6 +70,8 @@ http://v-ny.theus6tv.duckdns.org/hls/33.4/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/33.5/playlist.m3u8
 #EXTINF:-1 tvg-id="WJLPDT7.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Story_Television.png" group-title="New York",Story Television
 http://v-ny.theus6tv.duckdns.org/hls/33.7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Univision2019.svg" group-title="New York",Univision
+http://v-ny.theus6tv.duckdns.org/hls/41.1/playlist.m3u8
 #EXTINF:-1 tvg-id="WXTVDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png" group-title="New York",Bounce TV
 http://v-ny.theus6tv.duckdns.org/hls/41.2/playlist.m3u8
 #EXTINF:-1 tvg-id="WXTVDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Twist_logo.svg/512px-Twist_logo.svg.png" group-title="New York",Twist
@@ -66,43 +82,17 @@ http://v-ny.theus6tv.duckdns.org/hls/46.1/playlist.m3u8
 http://v-ny.theus6tv.duckdns.org/hls/47.2/playlist.m3u8
 #EXTINF:-1 tvg-id="WRNNDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/ShopHQ_2022.png" group-title="New York",ShopHQ
 http://v-ny.theus6tv.duckdns.org/hls/48.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.shophqhealth.com/images/store1/logos/health-logo-default-1.png" group-title="New York",ShopHQ Health
+http://v-ny.theus6tv.duckdns.org/hls/48.3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/QVC2_2019_II.svg" group-title="New York",QVC 2
+http://v-ny.theus6tv.duckdns.org/hls/48.4/playlist.m3u8
 #EXTINF:-1 tvg-id="WFUTDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/WFUT-DT_%282021%29.svg" group-title="New York", Unimas Nueva York
 http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/True_Crime_Network_logo_2020.png" group-title="New York",True Crime Network
 http://v-ny.theus6tv.duckdns.org/hls/68.2/playlist.m3u8
-############# Philadelphia ##############
-#EXTINF:-1 tvg-id="WACPDT1.us" tvg-logo="https://eadn-wc01-7593955.nxedge.io/wp-content/uploads/2015/03/tct-logo.jpg" group-title="Philadelphia",TCT
-http://v-pi.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Noqqn46.png" group-title="Philadelphia",ABC 6 (WPVI)
-http://v-pi.theus6tv.duckdns.org/hls/6.1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Ace_TV_USA.png/revision/latest?cb=20230102011117" group-title="Philadelphia",Ace
-http://v-pi.theus6tv.duckdns.org/hls/4.2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Logo_of_Liquidation_Channel.png" group-title="Philadelphia",ShopLC
-http://v-pi.theus6tv.duckdns.org/hls/4.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WCAUDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png" group-title="Philadelphia",COZI TV
-http://v-pi.theus6tv.duckdns.org/hls/10.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WNJSDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png" group-title="Philadelphia",NHK WORLD
-http://v-pi.theus6tv.duckdns.org/hls/23.2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media-usba.mybtv.net/logos/42.1.png" group-title="Philadelphia",SBN
-http://v-pi.theus6tv.duckdns.org/hls/25.2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="Philadelphia",Fox
-http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WMCNDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/ShopHQ_2019_Logo.png" group-title="Philadelphia",ShopHQ
-http://v-pi.theus6tv.duckdns.org/hls/44.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WELLLD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Daystar_TV.PNG/512px-Daystar_TV.PNG" group-title="Philadelphia",Daystar
-http://v-pi.theus6tv.duckdns.org/hls/45.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WTVEDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/WTVE51.png" group-title="Philadelphia",WTVE-DT1 (720p)
-http://v-pi.theus6tv.duckdns.org/hls/51.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WTVEDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/As_seen_on_TV.svg/512px-As_seen_on_TV.svg.png" group-title="Philadelphia",As seen on TV
-http://v-pi.theus6tv.duckdns.org/hls/51.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WPPXDT4.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Defy_2018.svg" group-title="Philadelphia",Defy
-http://v-pi.theus6tv.duckdns.org/hls/61.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WPPXDT5.us" tvg-logo="https://en.wikipedia.org/wiki/HSN#/media/File:HSN_logo.svg" group-title="Philadelphia",HSN
-http://v-pi.theus6tv.duckdns.org/hls/61.5/playlist.m3u8
-########################################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="USA",Fox (WNYW)
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
 ############# News ##############
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="News",Fox (WNYW)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png" group-title="News",CNN International Germany (720p)
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 ########## Documentary ##########
@@ -506,6 +496,35 @@ http://176.9.123.140:1935/messinia/messinia/master.m3u8
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-id="Choice.gr" tvg-logo="https://i.imgur.com/m7gb941.png" group-title="Greek Music",Choice (956p) [Not 24/7]
 https://vod.streams.ovh:3528/stream/play.m3u8
+############# Philadelphia ##############
+#EXTINF:-1 tvg-id="WACPDT1.us" tvg-logo="https://eadn-wc01-7593955.nxedge.io/wp-content/uploads/2015/03/tct-logo.jpg" group-title="Philadelphia",TCT
+http://v-pi.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Noqqn46.png" group-title="Philadelphia",ABC 6 (WPVI)
+http://v-pi.theus6tv.duckdns.org/hls/6.1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Ace_TV_USA.png/revision/latest?cb=20230102011117" group-title="Philadelphia",Ace
+http://v-pi.theus6tv.duckdns.org/hls/4.2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Logo_of_Liquidation_Channel.png" group-title="Philadelphia",ShopLC
+http://v-pi.theus6tv.duckdns.org/hls/4.4/playlist.m3u8
+#EXTINF:-1 tvg-id="WCAUDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png" group-title="Philadelphia",COZI TV
+http://v-pi.theus6tv.duckdns.org/hls/10.2/playlist.m3u8
+#EXTINF:-1 tvg-id="WNJSDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png" group-title="Philadelphia",NHK WORLD
+http://v-pi.theus6tv.duckdns.org/hls/23.2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media-usba.mybtv.net/logos/42.1.png" group-title="Philadelphia",SBN
+http://v-pi.theus6tv.duckdns.org/hls/25.2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="Philadelphia",Fox
+http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WMCNDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/ShopHQ_2019_Logo.png" group-title="Philadelphia",ShopHQ
+http://v-pi.theus6tv.duckdns.org/hls/44.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WELLLD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Daystar_TV.PNG/512px-Daystar_TV.PNG" group-title="Philadelphia",Daystar
+http://v-pi.theus6tv.duckdns.org/hls/45.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WTVEDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/WTVE51.png" group-title="Philadelphia",WTVE-DT1 (720p)
+http://v-pi.theus6tv.duckdns.org/hls/51.1/playlist.m3u8
+#EXTINF:-1 tvg-id="WTVEDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/As_seen_on_TV.svg/512px-As_seen_on_TV.svg.png" group-title="Philadelphia",As seen on TV
+http://v-pi.theus6tv.duckdns.org/hls/51.2/playlist.m3u8
+#EXTINF:-1 tvg-id="WPPXDT4.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Defy_2018.svg" group-title="Philadelphia",Defy
+http://v-pi.theus6tv.duckdns.org/hls/61.4/playlist.m3u8
+#EXTINF:-1 tvg-id="WPPXDT5.us" tvg-logo="https://en.wikipedia.org/wiki/HSN#/media/File:HSN_logo.svg" group-title="Philadelphia",HSN
+http://v-pi.theus6tv.duckdns.org/hls/61.5/playlist.m3u8
 ##################################################
 #EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Ukraine",1+1 (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ/live
@@ -4395,39 +4414,39 @@ http://fort.co-works.org:8080/hls/live.stream.m3u8
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/fountainvalley/G0806_001/playlist.m3u8
 #EXTINF:-1 tvg-id="WJBKDT1.us" tvg-logo="https://i.imgur.com/EL9Bwtf.png" group-title="News",FOX 2 Detroit MI (WJBK) (720p) [Not 24/7]
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WJBK-Monetizer.m3u8
-#EXTINF:-1 tvg-id="KTVUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX 2 San Francisco CA (KTVU) (720p)
+#EXTINF:-1 tvg-id="KTVUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News",FOX 2 San Francisco CA (KTVU) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8
-#EXTINF:-1 tvg-id="KDFWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX 4 Dallas / Fort Worth TX (KDFW) (720p)
+#EXTINF:-1 tvg-id="KDFWDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News",FOX 4 Dallas / Fort Worth TX (KDFW) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KDFW-Monetizer.m3u8
 #EXTINF:-1 tvg-id="WAGADT1.us" tvg-logo="https://i.imgur.com/DcZoeGw.jpg" group-title="News",FOX 5 Atlanta GA (WAGA-TV) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WAGA-Monetizer.m3u8
-#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="Undefined",FOX 5 New York NY (WNYW) (720p)
+#EXTINF:-1 tvg-id="WNYWDT1.us" tvg-logo="https://i.imgur.com/zZd9Tkt.png" group-title="News",FOX 5 New York NY (WNYW) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
-#EXTINF:-1 tvg-id="WTTGDT1.us" tvg-logo="https://i.imgur.com/ktLKla7.png" group-title="Undefined",FOX 5 Washington DC (WTTG) (720p)
+#EXTINF:-1 tvg-id="WTTGDT1.us" tvg-logo="https://i.imgur.com/ktLKla7.png" group-title="News",FOX 5 Washington DC (WTTG) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTTG-Monetizer.m3u8
-#EXTINF:-1 tvg-id="WITIDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/WITI_2020_Logo.svg/512px-WITI_2020_Logo.svg.png" group-title="Undefined",FOX 6 Milwaukee WI (WITI) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="WITIDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/WITI_2020_Logo.svg/512px-WITI_2020_Logo.svg.png" group-title="News",FOX 6 Milwaukee WI (WITI) (720p) [Not 24/7]
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WITI-Monetizer.m3u8
-#EXTINF:-1 tvg-id="KTBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX 7 Austin TX (KTBC) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="KTBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News",FOX 7 Austin TX (KTBC) (720p) [Not 24/7]
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTBC-Monetizer.m3u8
 #EXTINF:-1 tvg-id="KMSPDT1.us" tvg-logo="https://i.imgur.com/WBgiaiB.jpg" group-title="News",FOX 9 ST Paul Minneapolis MN (KMSP) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KMSP-Monetizer.m3u8
-#EXTINF:-1 tvg-id="KSAZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX 10 Phoenix AZ (KZAS) (720p)
+#EXTINF:-1 tvg-id="KSAZDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News",FOX 10 Phoenix AZ (KZAS) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KSAZ-Monetizer.m3u8
-#EXTINF:-1 tvg-id="KTTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX 11 Los Angeles CA (KTTV) (720p)
+#EXTINF:-1 tvg-id="KTTVDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News",FOX 11 Los Angeles CA (KTTV) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
-#EXTINF:-1 tvg-id="WTVTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX 13 Tampa Bay FL (WTVT) (720p)
+#EXTINF:-1 tvg-id="WTVTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News",FOX 13 Tampa Bay FL (WTVT) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTVT-Monetizer.m3u8
-#EXTINF:-1 tvg-id="KXVADT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",Fox 15 West Texas Abilene TX (KXVA) (1080p)
+#EXTINF:-1 tvg-id="KXVADT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News",Fox 15 West Texas Abilene TX (KXVA) (1080p)
 https://livevideo01.myfoxzone.com/hls/live/2017381/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="KRIVDT1.us" tvg-logo="https://i.imgur.com/AZ8MWRp.jpg" group-title="News",FOX 26 Houston TX (KRIV) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KRIV-Monetizer.m3u8
-#EXTINF:-1 tvg-id="WTGSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",Fox 28 Savannah GA (WTGS) (720p)
+#EXTINF:-1 tvg-id="WTGSDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News",Fox 28 Savannah GA (WTGS) (720p)
 https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 tvg-id="WFLDDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX 32 Chicago IL (WFLD) (720p)
+#EXTINF:-1 tvg-id="WFLDDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News",FOX 32 Chicago IL (WFLD) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WFLD-Monetizer.m3u8
-#EXTINF:-1 tvg-id="WOFLDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",FOX 35 Orlando FL (WOFL) (720p)
+#EXTINF:-1 tvg-id="WOFLDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News",FOX 35 Orlando FL (WOFL) (720p)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WOFL-Monetizer.m3u8
-#EXTINF:-1 tvg-id="WPMTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="Undefined",Fox 43 Harrisburg PA (WPMT) (1080p)
+#EXTINF:-1 tvg-id="WPMTDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News",Fox 43 Harrisburg PA (WPMT) (1080p)
 https://livevideo01.fox43.com/hls/live/2011656/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="WZDXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/WZDXFox54Logo.png" group-title="Undefined",Fox 54.1 Huntsville AL (WZDX) (1080p)
 https://livevideo01.rocketcitynow.com/hls/live/2011659/newscasts/live.m3u8
