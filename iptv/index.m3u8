@@ -1,95 +1,107 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ad.xml,https://iptv-org.github.io/epg/guides/ae.xml,https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/am.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/at.xml,https://iptv-org.github.io/epg/guides/au.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/be.xml,https://iptv-org.github.io/epg/guides/bf.xml,https://iptv-org.github.io/epg/guides/bg.xml,https://iptv-org.github.io/epg/guides/bj.xml,https://iptv-org.github.io/epg/guides/bn.xml,https://iptv-org.github.io/epg/guides/bo.xml,https://iptv-org.github.io/epg/guides/br.xml,https://iptv-org.github.io/epg/guides/bs.xml,https://iptv-org.github.io/epg/guides/by.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/cd.xml,https://iptv-org.github.io/epg/guides/cg.xml,https://iptv-org.github.io/epg/guides/ch.xml,https://iptv-org.github.io/epg/guides/cl.xml,https://iptv-org.github.io/epg/guides/cm.xml,https://iptv-org.github.io/epg/guides/cn.xml,https://iptv-org.github.io/epg/guides/co.xml,https://iptv-org.github.io/epg/guides/cr.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/dk.xml,https://iptv-org.github.io/epg/guides/do.xml,https://iptv-org.github.io/epg/guides/dz.xml,https://iptv-org.github.io/epg/guides/ec.xml,https://iptv-org.github.io/epg/guides/ee.xml,https://iptv-org.github.io/epg/guides/eg.xml,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/fi.xml,https://iptv-org.github.io/epg/guides/fo.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/ga.xml,https://iptv-org.github.io/epg/guides/ge.xml,https://iptv-org.github.io/epg/guides/gh.xml,https://iptv-org.github.io/epg/guides/gq.xml,https://iptv-org.github.io/epg/guides/gr.xml,https://iptv-org.github.io/epg/guides/gt.xml,https://iptv-org.github.io/epg/guides/hk.xml,https://iptv-org.github.io/epg/guides/hn.xml,https://iptv-org.github.io/epg/guides/hr.xml,https://iptv-org.github.io/epg/guides/hu.xml,https://iptv-org.github.io/epg/guides/id.xml,https://iptv-org.github.io/epg/guides/ie.xml,https://iptv-org.github.io/epg/guides/il.xml,https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/iq.xml,https://iptv-org.github.io/epg/guides/ir.xml,https://iptv-org.github.io/epg/guides/is.xml,https://iptv-org.github.io/epg/guides/it.xml,https://iptv-org.github.io/epg/guides/jm.xml,https://iptv-org.github.io/epg/guides/jo.xml,https://iptv-org.github.io/epg/guides/jp.xml,https://iptv-org.github.io/epg/guides/ke.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/kw.xml,https://iptv-org.github.io/epg/guides/kz.xml,https://iptv-org.github.io/epg/guides/lb.xml,https://iptv-org.github.io/epg/guides/lt.xml,https://iptv-org.github.io/epg/guides/lu.xml,https://iptv-org.github.io/epg/guides/md.xml,https://iptv-org.github.io/epg/guides/mo.xml,https://iptv-org.github.io/epg/guides/mt.xml,https://iptv-org.github.io/epg/guides/mw.xml,https://iptv-org.github.io/epg/guides/mx.xml,https://iptv-org.github.io/epg/guides/my.xml,https://iptv-org.github.io/epg/guides/mz.xml,https://iptv-org.github.io/epg/guides/ng.xml,https://iptv-org.github.io/epg/guides/ni.xml,https://iptv-org.github.io/epg/guides/nl.xml,https://iptv-org.github.io/epg/guides/pa.xml,https://iptv-org.github.io/epg/guides/pe.xml,https://iptv-org.github.io/epg/guides/pf.xml,https://iptv-org.github.io/epg/guides/ph.xml,https://iptv-org.github.io/epg/guides/pk.xml,https://iptv-org.github.io/epg/guides/pl.xml,https://iptv-org.github.io/epg/guides/pr.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/py.xml,https://iptv-org.github.io/epg/guides/ro.xml,https://iptv-org.github.io/epg/guides/rs.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/rw.xml,https://iptv-org.github.io/epg/guides/sa.xml,https://iptv-org.github.io/epg/guides/se.xml,https://iptv-org.github.io/epg/guides/sg.xml,https://iptv-org.github.io/epg/guides/si.xml,https://iptv-org.github.io/epg/guides/sk.xml,https://iptv-org.github.io/epg/guides/sn.xml,https://iptv-org.github.io/epg/guides/sv.xml,https://iptv-org.github.io/epg/guides/sy.xml,https://iptv-org.github.io/epg/guides/td.xml,https://iptv-org.github.io/epg/guides/th.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/tw.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/ve.xml,https://iptv-org.github.io/epg/guides/xk.xml"
 ############# New York ##############
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="New York",CBS 2 (WCBS)
-http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="New York",NBC 4 (WNBC)
-http://v-ny.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="New York",Fox 5 (WNYW)
-http://v-ny.theus6tv.duckdns.org/hls/5.1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Noqqn46.png" group-title="New York",ABC 7 (WABC)
-http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/WWOR-TV_logo.svg" group-title="New York",my9
-http://v-ny.theus6tv.duckdns.org/hls/9.1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/WPIX#/media/File:PIX11_2017.svg" group-title="New York",The CW / PIX11
-http://v-ny.theus6tv.duckdns.org/hls/11.1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Start_TV.svg" group-title="New York",StartTV
-http://v-ny.theus6tv.duckdns.org/hls/2.2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Dabl_logo.svg" group-title="New York",Dabl
-http://v-ny.theus6tv.duckdns.org/hls/2.3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/FAVE_TV.svg" group-title="New York",FAVE TV
-http://v-ny.theus6tv.duckdns.org/hls/2.4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-15675.png" group-title="New York",COZI
-http://v-ny.theus6tv.duckdns.org/hls/4.2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Movies!#/media/File:Movies!_logo.svg" group-title="New York",Movies!
-http://v-ny.theus6tv.duckdns.org/hls/5.2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fox_Weather_logo.svg" group-title="New York",Fox Weather
-http://v-ny.theus6tv.duckdns.org/hls/5.3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/TheGrio.png" group-title="New York",The grio
-http://v-ny.theus6tv.duckdns.org/hls/5.3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Decades_%28TV_network%29#/media/File:Decades_Logo.svg" group-title="New York",Decades
-http://v-ny.theus6tv.duckdns.org/hls/5.5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/ABC_Localish.png" group-title="New York",ABC Localish
-http://v-ny.theus6tv.duckdns.org/hls/7.2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/HSN#/media/File:HSN_logo.svg" group-title="New York",HSN
-http://v-ny.theus6tv.duckdns.org/hls/7.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WWORDT3.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Heroes_%26_Icons.svg" group-title="New York",Heroes & Icons
-http://v-ny.theus6tv.duckdns.org/hls/9.3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Rewind_TV?file=Rewind_TV_logo.png" group-title="New York",Rewind TV
-http://v-ny.theus6tv.duckdns.org/hls/11.4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/NYC_Life.svg" group-title="New York",NYC Life
-http://v-ny.theus6tv.duckdns.org/hls/25.1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/NYC_Gov_%282%3F%3F%3F%29.svg" group-title="New York",NYC gov
-http://v-ny.theus6tv.duckdns.org/hls/25.2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/nycbtv/logos/20517-43694.png" group-title="New York",CUNY TV
-http://v-ny.theus6tv.duckdns.org/hls/25.3/playlist.m3u8
-#EXTINF:-1 tvg-id="WNYJDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Jewelry_television_logo.png" group-title="New York",jtv jewelry love
-http://v-ny.theus6tv.duckdns.org/hls/28.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WPXNDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="New York",Ion East
-http://v-ny.theus6tv.duckdns.org/hls/31.1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bounce_2017.png" group-title="New York",Bounce TV
-http://v-ny.theus6tv.duckdns.org/hls/31.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WPXNDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" group-title="New York",ION Mystery
-http://v-ny.theus6tv.duckdns.org/hls/31.3/playlist.m3u8
-#EXTINF:-1 tvg-id="WPXNDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Defy_TV_logo.png/512px-Defy_TV_logo.png" group-title="New York",Defy TV
-http://v-ny.theus6tv.duckdns.org/hls/31.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WPXNDT5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="New York",Laff
-http://v-ny.theus6tv.duckdns.org/hls/31.5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/TrueReal_pink.jpg" group-title="New York",True Real
-http://v-ny.theus6tv.duckdns.org/hls/31.6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Scripps_News_2023.svg" group-title="New York",Scripps TV
-http://v-ny.theus6tv.duckdns.org/hls/31.7/playlist.m3u8
-#EXTINF:-1 tvg-id="WJLPDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/MeTV_logo_2014.svg" group-title="New York",MeTV New York
-http://v-ny.theus6tv.duckdns.org/hls/33.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WJLPDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="New York",Laff
-http://v-ny.theus6tv.duckdns.org/hls/33.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WJLPDT3.us" tvg-logo="https://i.imgur.com/6w1Wj3j.png" group-title="New York",Grit
-http://v-ny.theus6tv.duckdns.org/hls/33.3/playlist.m3u8
-#EXTINF:-1 tvg-id="WJLPDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" group-title="New York",Ion Mystery
-http://v-ny.theus6tv.duckdns.org/hls/33.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WJLPDT5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" group-title="New York",Retro TV
-http://v-ny.theus6tv.duckdns.org/hls/33.5/playlist.m3u8
-#EXTINF:-1 tvg-id="WJLPDT7.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Story_Television.png" group-title="New York",Story Television
-http://v-ny.theus6tv.duckdns.org/hls/33.7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Univision2019.svg" group-title="New York",Univision
-http://v-ny.theus6tv.duckdns.org/hls/41.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WXTVDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png" group-title="New York",Bounce TV
-http://v-ny.theus6tv.duckdns.org/hls/41.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WXTVDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Twist_logo.svg/512px-Twist_logo.svg.png" group-title="New York",Twist
-http://v-ny.theus6tv.duckdns.org/hls/41.3/playlist.m3u8
-#EXTINF:-1 tvg-id="WMBQCD1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/First_Nations_Experience_2011.png" group-title="New York",FNX
-http://v-ny.theus6tv.duckdns.org/hls/46.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WNJUDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png" group-title="New York",TeleXitos
-http://v-ny.theus6tv.duckdns.org/hls/47.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WRNNDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/ShopHQ_2022.png" group-title="New York",ShopHQ
-http://v-ny.theus6tv.duckdns.org/hls/48.1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.shophqhealth.com/images/store1/logos/health-logo-default-1.png" group-title="New York",ShopHQ Health
-http://v-ny.theus6tv.duckdns.org/hls/48.3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/QVC2_2019_II.svg" group-title="New York",QVC 2
-http://v-ny.theus6tv.duckdns.org/hls/48.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WFUTDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/WFUT-DT_%282021%29.svg" group-title="New York", Unimas Nueva York
-http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/True_Crime_Network_logo_2020.png" group-title="New York",True Crime Network
-http://v-ny.theus6tv.duckdns.org/hls/68.2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" ant-id="2.1" alt-url="http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8" group-title="New York",CBS 2 (WCBS)
+https://v-ny.mybtv.net/live/545.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" ant-id="4.1" group-title="New York",NBC 4 (WNBC)
+https://v-ny.mybtv.net/live/548.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" ant-id="5.1" group-title="New York",Fox 5 (WNYW)
+https://v-ny.mybtv.net/live/550.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Noqqn46.png" ant-id="7.1" group-title="New York",ABC 7 (WABC)
+https://v-ny.mybtv.net/live/554.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/WWOR-TV_logo.svg" ant-id="9.1" group-title="New York",my9
+https://v-ny.mybtv.net/live/559.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/WPIX#/media/File:PIX11_2017.svg" ant-id="11.1" group-title="New York",The CW / PIX11
+https://v-ny.mybtv.net/live/562.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Start_TV.svg" ant-id="2.2" group-title="New York",StartTV
+https://v-ny.mybtv.net/live/546.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Dabl_logo.svg" ant-id="2.3" group-title="New York",Dabl
+https://v-ny.mybtv.net/live/547.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/FAVE_TV.svg" ant-id="2.4" group-title="New York",FAVE TV
+https://v-ny.mybtv.net/live/648.m3u8
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-15675.png" ant-id="4.2" group-title="New York",COZI
+https://v-ny.mybtv.net/live/549.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Movies!#/media/File:Movies!_logo.svg" ant-id="5.2" group-title="New York",Movies!
+https://v-ny.mybtv.net/live/551.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fox_Weather_logo.svg" ant-id="5.3" group-title="New York",Fox Weather
+https://v-ny.mybtv.net/live/676.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/TheGrio.png" ant-id="5.4" group-title="New York",The grio
+https://v-ny.mybtv.net/live/552.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Decades_%28TV_network%29#/media/File:Decades_Logo.svg" ant-id="5.5" group-title="New York",Decades
+https://v-ny.mybtv.net/live/553.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/ABC_Localish.png" ant-id="7.2" group-title="New York",ABC Localish
+https://v-ny.mybtv.net/live/555.m3u8
+#EXTINF:-1 tvg-logo="https://hbcugo.tv/favicons/hbcu-go-134x78.png" ant-id="" group-title="New York",HBCU GO Sports
+https://v-ny.mybtv.net/live/556.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/HSN#/media/File:HSN_logo.svg" ant-id="7.4" group-title="New York",HSN
+https://v-ny.mybtv.net/live/613.m3u8
+#EXTINF:-1 tvg-id="WWORDT3.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Heroes_%26_Icons.svg" ant-id="9.3" group-title="New York",Heroes & Icons
+https://v-ny.mybtv.net/live/561.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Rewind_TV?file=Rewind_TV_logo.png" ant-id="11.4" group-title="New York",Rewind TV
+https://v-ny.mybtv.net/live/565.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/First_Nations_Experience_2011.png" ant-id="14.1" group-title="New York",FNX
+https://v-ny.mybtv.net/live/569
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/NYC_Life.svg" ant-id="25.1" group-title="New York",NYC Life
+https://v-ny.mybtv.net/live/591.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/NYC_Gov_%282%3F%3F%3F%29.svg" ant-id="25.2" group-title="New York",NYC gov
+https://v-ny.mybtv.net/live/592.m3u8
+#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/nycbtv/logos/20517-43694.png" ant-id="25.3" group-title="New York",CUNY TV
+https://v-ny.mybtv.net/live/593.m3u8
+#EXTINF:-1 tvg-id="WNYJDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Jewelry_television_logo.png" ant-id="28.1" group-title="New York",jtv jewelry love
+https://v-ny.mybtv.net/live/601.m3u8
+#EXTINF:-1 tvg-id="WPXNDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" ant-id="31.1" group-title="New York",Ion East
+https://v-ny.mybtv.net/live/608.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bounce_2017.png" ant-id="31.2" group-title="New York",Bounce TV
+https://v-ny.mybtv.net/live/581.m3u8
+#EXTINF:-1 tvg-id="WPXNDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" ant-id="31.1" group-title="New York",ION Mystery
+https://v-ny.mybtv.net/live/610.m3u8
+#EXTINF:-1 tvg-id="WPXNDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Defy_TV_logo.png/512px-Defy_TV_logo.png" ant-id="31.4" group-title="New York",Defy TV
+https://v-ny.mybtv.net/live/611.m3u8
+#EXTINF:-1 tvg-id="WPXNDT5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" ant-id="31.5" group-title="New York",Laff
+https://v-ny.mybtv.net/live/602.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/TrueReal_pink.jpg" ant-id="31.6" group-title="New York",True Real
+https://v-ny.mybtv.net/live/596.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Scripps_News_2023.svg" ant-id="31.7" group-title="New York",Scripps TV
+https://v-ny.mybtv.net/live/609.m3u8
+#EXTINF:-1 tvg-id="WJLPDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/MeTV_logo_2014.svg" ant-id="33.1" group-title="New York",MeTV New York
+https://v-ny.mybtv.net/live/637.m3u8
+#EXTINF:-1 tvg-id="WJLPDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" ant-id="33.2" group-title="New York",Laff
+https://v-ny.mybtv.net/live/625.m3u8
+#EXTINF:-1 tvg-id="WJLPDT3.us" tvg-logo="https://i.imgur.com/6w1Wj3j.png" ant-id="33.3" group-title="New York",Grit
+https://v-ny.mybtv.net/live/626.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/HeartlandTVLogo.jpg" ant-id="33.6" group-title="New York",Heartland
+https://v-ny.mybtv.net/live/629
+#EXTINF:-1 tvg-id="WJLPDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" ant-id="33.4" group-title="New York",Ion Mystery
+https://v-ny.mybtv.net/live/627.m3u8
+#EXTINF:-1 tvg-id="WJLPDT5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" ant-id="33.5" group-title="New York",Retro TV
+https://v-ny.mybtv.net/live/628.m3u8
+#EXTINF:-1 tvg-id="WJLPDT7.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Story_Television.png" ant-id="33.7" group-title="New York",Story Television
+https://v-ny.mybtv.net/live/634.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Univision2019.svg" ant-id="41.1" group-title="New York",Univision
+https://v-ny.mybtv.net/live/643.m3u8
+#EXTINF:-1 tvg-id="WXTVDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png" ant-id="41.2" group-title="New York",Bounce TV
+https://v-ny.mybtv.net/live/644.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Estrella_TV_%282020%29.svg" ant-id="24.1" group-title="New York",Estrella TV
+https://v-ny.mybtv.net/live/650.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/TimelessTV_logo.png" ant-id="" group-title="New York",Timeless TV
+https://v-ny.mybtv.net/live/652
+#EXTINF:-1 tvg-id="WXTVDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Twist_logo.svg/512px-Twist_logo.svg.png" ant-id="41.3" group-title="New York",Twist
+https://v-ny.mybtv.net/live/999.m3u8
+#EXTINF:-1 tvg-id="WMBQCD1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/First_Nations_Experience_2011.png" ant-id="46.1" group-title="New York",FNX
+https://v-ny.mybtv.net/live/658.m3u8
+#EXTINF:-1 tvg-id="WNJUDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png" ant-id="47.2" group-title="New York",TeleXitos
+https://v-ny.mybtv.net/live/660.m3u8
+#EXTINF:-1 tvg-id="WRNNDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/ShopHQ_2022.png" ant-id="48.1" group-title="New York",ShopHQ
+https://v-ny.mybtv.net/live/661.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Logo_of_Liquidation_Channel.png" ant-id="48.1" group-title="New York",ShopLC
+https://v-ny.mybtv.net/live/662
+#EXTINF:-1 tvg-logo="https://www.shophqhealth.com/images/store1/logos/health-logo-default-1.png" ant-id="48.3" group-title="New York",ShopHQ Health
+https://v-ny.mybtv.net/live/663.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/QVC2_2019_II.svg" ant-id="48.4" group-title="New York",QVC 2
+https://v-ny.mybtv.net/live/612.m3u8
+#EXTINF:-1 tvg-id="WFUTDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/WFUT-DT_%282021%29.svg" ant-id="68.1" group-title="New York", Unimas Nueva York
+https://v-ny.mybtv.net/live/713.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/True_Crime_Network_logo_2020.png" ant-id="68.2" group-title="New York",True Crime Network
+https://v-ny.mybtv.net/live/714.m3u8
 ############# News ##############
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="News",Fox (WNYW)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
