@@ -509,6 +509,72 @@ https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-id="Choice.gr" tvg-logo="https://i.imgur.com/m7gb941.png" group-title="Greek Music",Choice (956p) [Not 24/7]
 https://vod.streams.ovh:3528/stream/play.m3u8
 ############# Philadelphia ##############
+#EXTINF:-1 group-title="Philadelphia",321
+https://v-pi.mybtv.net/live/321.m3u8
+#EXTINF:-1 group-title="Philadelphia",324
+https://v-pi.mybtv.net/live/324.m3u8
+#EXTINF:-1 group-title="Philadelphia",325
+https://v-pi.mybtv.net/live/325.m3u8
+#EXTINF:-1 group-title="Philadelphia",339
+https://v-pi.mybtv.net/live/339.m3u8
+#EXTINF:-1 group-title="Philadelphia",340
+https://v-pi.mybtv.net/live/340.m3u8
+#EXTINF:-1 group-title="Philadelphia",341
+https://v-pi.mybtv.net/live/341.m3u8
+#EXTINF:-1 group-title="Philadelphia",346
+https://v-pi.mybtv.net/live/346.m3u8
+#EXTINF:-1 group-title="Philadelphia",359
+https://v-pi.mybtv.net/live/359.m3u8
+#EXTINF:-1 group-title="Philadelphia",360
+https://v-pi.mybtv.net/live/360.m3u8
+#EXTINF:-1 group-title="Philadelphia",365
+https://v-pi.mybtv.net/live/365.m3u8
+#EXTINF:-1 group-title="Philadelphia",398
+https://v-pi.mybtv.net/live/398.m3u8
+#EXTINF:-1 group-title="Philadelphia",400
+https://v-pi.mybtv.net/live/400.m3u8
+#EXTINF:-1 group-title="Philadelphia",401
+https://v-pi.mybtv.net/live/401.m3u8
+#EXTINF:-1 group-title="Philadelphia",415
+https://v-pi.mybtv.net/live/415.m3u8
+#EXTINF:-1 group-title="Philadelphia",416
+https://v-pi.mybtv.net/live/416.m3u8
+#EXTINF:-1 group-title="Philadelphia",419
+https://v-pi.mybtv.net/live/419.m3u8
+#EXTINF:-1 group-title="Philadelphia",427
+https://v-pi.mybtv.net/live/427.m3u8
+#EXTINF:-1 group-title="Philadelphia",766
+https://v-pi.mybtv.net/live/766.m3u8
+#EXTINF:-1 group-title="Philadelphia",838
+https://v-pi.mybtv.net/live/838.m3u8
+#EXTINF:-1 group-title="Philadelphia",859
+https://v-pi.mybtv.net/live/859.m3u8
+#EXTINF:-1 group-title="Philadelphia",863
+https://v-pi.mybtv.net/live/863.m3u8
+#EXTINF:-1 group-title="Philadelphia",866
+https://v-pi.mybtv.net/live/866.m3u8
+#EXTINF:-1 group-title="Philadelphia",872
+https://v-pi.mybtv.net/live/872.m3u8
+#EXTINF:-1 group-title="Philadelphia",934
+https://v-pi.mybtv.net/live/934.m3u8
+#EXTINF:-1 group-title="Philadelphia",935
+https://v-pi.mybtv.net/live/935.m3u8
+#EXTINF:-1 group-title="Philadelphia",936
+https://v-pi.mybtv.net/live/936.m3u8
+#EXTINF:-1 group-title="Philadelphia",937
+https://v-pi.mybtv.net/live/937.m3u8
+#EXTINF:-1 group-title="Philadelphia",938
+https://v-pi.mybtv.net/live/938.m3u8
+#EXTINF:-1 group-title="Philadelphia",961
+https://v-pi.mybtv.net/live/961.m3u8
+#EXTINF:-1 group-title="Philadelphia",968
+https://v-pi.mybtv.net/live/968.m3u8
+#EXTINF:-1 group-title="Philadelphia",980
+https://v-pi.mybtv.net/live/980.m3u8
+#EXTINF:-1 group-title="Philadelphia",981
+https://v-pi.mybtv.net/live/981.m3u8
+#EXTINF:-1 group-title="Philadelphia",988
+https://v-pi.mybtv.net/live/988.m3u8
 #EXTINF:-1 tvg-id="WACPDT1.us" tvg-logo="https://eadn-wc01-7593955.nxedge.io/wp-content/uploads/2015/03/tct-logo.jpg" group-title="Philadelphia",TCT
 http://v-pi.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Noqqn46.png" group-title="Philadelphia",ABC 6 (WPVI)
@@ -537,7 +603,782 @@ http://v-pi.theus6tv.duckdns.org/hls/51.2/playlist.m3u8
 http://v-pi.theus6tv.duckdns.org/hls/61.4/playlist.m3u8
 #EXTINF:-1 tvg-id="WPPXDT5.us" tvg-logo="https://en.wikipedia.org/wiki/HSN#/media/File:HSN_logo.svg" group-title="Philadelphia",HSN
 http://v-pi.theus6tv.duckdns.org/hls/61.5/playlist.m3u8
-##################################################
+################# San Diego ##################
+#EXTINF:-1 group-title="San Diego",484
+https://v-sd.mybtv.net/live/484.m3u8
+#EXTINF:-1 group-title="San Diego",485
+https://v-sd.mybtv.net/live/485.m3u8
+#EXTINF:-1 group-title="San Diego",486
+https://v-sd.mybtv.net/live/486.m3u8
+#EXTINF:-1 group-title="San Diego",490
+https://v-sd.mybtv.net/live/490.m3u8
+#EXTINF:-1 group-title="San Diego",495
+https://v-sd.mybtv.net/live/495.m3u8
+#EXTINF:-1 group-title="San Diego",496
+https://v-sd.mybtv.net/live/496.m3u8
+#EXTINF:-1 group-title="San Diego",502
+https://v-sd.mybtv.net/live/502.m3u8
+#EXTINF:-1 group-title="San Diego",503
+https://v-sd.mybtv.net/live/503.m3u8
+#EXTINF:-1 group-title="San Diego",508
+https://v-sd.mybtv.net/live/508.m3u8
+#EXTINF:-1 group-title="San Diego",515
+https://v-sd.mybtv.net/live/515.m3u8
+#EXTINF:-1 group-title="San Diego",519
+https://v-sd.mybtv.net/live/519.m3u8
+#EXTINF:-1 group-title="San Diego",521
+https://v-sd.mybtv.net/live/521.m3u8
+#EXTINF:-1 group-title="San Diego",524
+https://v-sd.mybtv.net/live/524.m3u8
+#EXTINF:-1 group-title="San Diego",526
+https://v-sd.mybtv.net/live/526.m3u8
+#EXTINF:-1 group-title="San Diego",527
+https://v-sd.mybtv.net/live/527.m3u8
+#EXTINF:-1 group-title="San Diego",528
+https://v-sd.mybtv.net/live/528.m3u8
+#EXTINF:-1 group-title="San Diego",530
+https://v-sd.mybtv.net/live/530.m3u8
+#EXTINF:-1 group-title="San Diego",539
+https://v-sd.mybtv.net/live/539.m3u8
+#EXTINF:-1 group-title="San Diego",760
+https://v-sd.mybtv.net/live/760.m3u8
+#EXTINF:-1 group-title="San Diego",762
+https://v-sd.mybtv.net/live/762.m3u8
+################# Los Anegeles ##################
+#EXTINF:-1 group-title="Los Angeles",62
+https://v-la.mybtv.net/live/62.m3u8
+#EXTINF:-1 group-title="Los Angeles",63
+https://v-la.mybtv.net/live/63.m3u8
+#EXTINF:-1 group-title="Los Angeles",67
+https://v-la.mybtv.net/live/67.m3u8
+#EXTINF:-1 group-title="Los Angeles",68
+https://v-la.mybtv.net/live/68.m3u8
+#EXTINF:-1 group-title="Los Angeles",70
+https://v-la.mybtv.net/live/70.m3u8
+#EXTINF:-1 group-title="Los Angeles",73
+https://v-la.mybtv.net/live/73.m3u8
+#EXTINF:-1 group-title="Los Angeles",74
+https://v-la.mybtv.net/live/74.m3u8
+#EXTINF:-1 group-title="Los Angeles",75
+https://v-la.mybtv.net/live/75.m3u8
+#EXTINF:-1 group-title="Los Angeles",76
+https://v-la.mybtv.net/live/76.m3u8
+#EXTINF:-1 group-title="Los Angeles",77
+https://v-la.mybtv.net/live/77.m3u8
+#EXTINF:-1 group-title="Los Angeles",78
+https://v-la.mybtv.net/live/78.m3u8
+#EXTINF:-1 group-title="Los Angeles",79
+https://v-la.mybtv.net/live/79.m3u8
+#EXTINF:-1 group-title="Los Angeles",80
+https://v-la.mybtv.net/live/80.m3u8
+#EXTINF:-1 group-title="Los Angeles",81
+https://v-la.mybtv.net/live/81.m3u8
+#EXTINF:-1 group-title="Los Angeles",82
+https://v-la.mybtv.net/live/82.m3u8
+#EXTINF:-1 group-title="Los Angeles",83
+https://v-la.mybtv.net/live/83.m3u8
+#EXTINF:-1 group-title="Los Angeles",85
+https://v-la.mybtv.net/live/85.m3u8
+#EXTINF:-1 group-title="Los Angeles",87
+https://v-la.mybtv.net/live/87.m3u8
+#EXTINF:-1 group-title="Los Angeles",88
+https://v-la.mybtv.net/live/88.m3u8
+#EXTINF:-1 group-title="Los Angeles",89
+https://v-la.mybtv.net/live/89.m3u8
+#EXTINF:-1 group-title="Los Angeles",91
+https://v-la.mybtv.net/live/91.m3u8
+#EXTINF:-1 group-title="Los Angeles",93
+https://v-la.mybtv.net/live/93.m3u8
+#EXTINF:-1 group-title="Los Angeles",94
+https://v-la.mybtv.net/live/94.m3u8
+#EXTINF:-1 group-title="Los Angeles",95
+https://v-la.mybtv.net/live/95.m3u8
+#EXTINF:-1 group-title="Los Angeles",96
+https://v-la.mybtv.net/live/96.m3u8
+#EXTINF:-1 group-title="Los Angeles",97
+https://v-la.mybtv.net/live/97.m3u8
+#EXTINF:-1 group-title="Los Angeles",98
+https://v-la.mybtv.net/live/98.m3u8
+#EXTINF:-1 group-title="Los Angeles",99
+https://v-la.mybtv.net/live/99.m3u8
+#EXTINF:-1 group-title="Los Angeles",100
+https://v-la.mybtv.net/live/100.m3u8
+#EXTINF:-1 group-title="Los Angeles",101
+https://v-la.mybtv.net/live/101.m3u8
+#EXTINF:-1 group-title="Los Angeles",103
+https://v-la.mybtv.net/live/103.m3u8
+#EXTINF:-1 group-title="Los Angeles",104
+https://v-la.mybtv.net/live/104.m3u8
+#EXTINF:-1 group-title="Los Angeles",105
+https://v-la.mybtv.net/live/105.m3u8
+#EXTINF:-1 group-title="Los Angeles",106
+https://v-la.mybtv.net/live/106.m3u8
+#EXTINF:-1 group-title="Los Angeles",107
+https://v-la.mybtv.net/live/107.m3u8
+#EXTINF:-1 group-title="Los Angeles",109
+https://v-la.mybtv.net/live/109.m3u8
+#EXTINF:-1 group-title="Los Angeles",110
+https://v-la.mybtv.net/live/110.m3u8
+#EXTINF:-1 group-title="Los Angeles",112
+https://v-la.mybtv.net/live/112.m3u8
+#EXTINF:-1 group-title="Los Angeles",161
+https://v-la.mybtv.net/live/161.m3u8
+#EXTINF:-1 group-title="Los Angeles",164
+https://v-la.mybtv.net/live/164.m3u8
+#EXTINF:-1 group-title="Los Angeles",165
+https://v-la.mybtv.net/live/165.m3u8
+#EXTINF:-1 group-title="Los Angeles",166
+https://v-la.mybtv.net/live/166.m3u8
+#EXTINF:-1 group-title="Los Angeles",167
+https://v-la.mybtv.net/live/167.m3u8
+#EXTINF:-1 group-title="Los Angeles",168
+https://v-la.mybtv.net/live/168.m3u8
+#EXTINF:-1 group-title="Los Angeles",178
+https://v-la.mybtv.net/live/178.m3u8
+#EXTINF:-1 group-title="Los Angeles",179
+https://v-la.mybtv.net/live/179.m3u8
+#EXTINF:-1 group-title="Los Angeles",180
+https://v-la.mybtv.net/live/180.m3u8
+#EXTINF:-1 group-title="Los Angeles",181
+https://v-la.mybtv.net/live/181.m3u8
+#EXTINF:-1 group-title="Los Angeles",182
+https://v-la.mybtv.net/live/182.m3u8
+#EXTINF:-1 group-title="Los Angeles",183
+https://v-la.mybtv.net/live/183.m3u8
+#EXTINF:-1 group-title="Los Angeles",185
+https://v-la.mybtv.net/live/185.m3u8
+#EXTINF:-1 group-title="Los Angeles",253
+https://v-la.mybtv.net/live/253.m3u8
+#EXTINF:-1 group-title="Los Angeles",254
+https://v-la.mybtv.net/live/254.m3u8
+#EXTINF:-1 group-title="Los Angeles",255
+https://v-la.mybtv.net/live/255.m3u8
+#EXTINF:-1 group-title="Los Angeles",256
+https://v-la.mybtv.net/live/256.m3u8
+#EXTINF:-1 group-title="Los Angeles",257
+https://v-la.mybtv.net/live/257.m3u8
+#EXTINF:-1 group-title="Los Angeles",259
+https://v-la.mybtv.net/live/259.m3u8
+#EXTINF:-1 group-title="Los Angeles",261
+https://v-la.mybtv.net/live/261.m3u8
+#EXTINF:-1 group-title="Los Angeles",262
+https://v-la.mybtv.net/live/262.m3u8
+#EXTINF:-1 group-title="Los Angeles",266
+https://v-la.mybtv.net/live/266.m3u8
+#EXTINF:-1 group-title="Los Angeles",267
+https://v-la.mybtv.net/live/267.m3u8
+#EXTINF:-1 group-title="Los Angeles",268
+https://v-la.mybtv.net/live/268.m3u8
+#EXTINF:-1 group-title="Los Angeles",269
+https://v-la.mybtv.net/live/269.m3u8
+#EXTINF:-1 group-title="Los Angeles",270
+https://v-la.mybtv.net/live/270.m3u8
+#EXTINF:-1 group-title="Los Angeles",271
+https://v-la.mybtv.net/live/271.m3u8
+#EXTINF:-1 group-title="Los Angeles",272
+https://v-la.mybtv.net/live/272.m3u8
+#EXTINF:-1 group-title="Los Angeles",274
+https://v-la.mybtv.net/live/274.m3u8
+#EXTINF:-1 group-title="Los Angeles",275
+https://v-la.mybtv.net/live/275.m3u8
+#EXTINF:-1 group-title="Los Angeles",276
+https://v-la.mybtv.net/live/276.m3u8
+#EXTINF:-1 group-title="Los Angeles",279
+https://v-la.mybtv.net/live/279.m3u8
+#EXTINF:-1 group-title="Los Angeles",280
+https://v-la.mybtv.net/live/280.m3u8
+#EXTINF:-1 group-title="Los Angeles",281
+https://v-la.mybtv.net/live/281.m3u8
+#EXTINF:-1 group-title="Los Angeles",286
+https://v-la.mybtv.net/live/286.m3u8
+#EXTINF:-1 group-title="Los Angeles",288
+https://v-la.mybtv.net/live/288.m3u8
+#EXTINF:-1 group-title="Los Angeles",289
+https://v-la.mybtv.net/live/289.m3u8
+#EXTINF:-1 group-title="Los Angeles",290
+https://v-la.mybtv.net/live/290.m3u8
+#EXTINF:-1 group-title="Los Angeles",291
+https://v-la.mybtv.net/live/291.m3u8
+#EXTINF:-1 group-title="Los Angeles",298
+https://v-la.mybtv.net/live/298.m3u8
+#EXTINF:-1 group-title="Los Angeles",299
+https://v-la.mybtv.net/live/299.m3u8
+#EXTINF:-1 group-title="Los Angeles",300
+https://v-la.mybtv.net/live/300.m3u8
+#EXTINF:-1 group-title="Los Angeles",535
+https://v-la.mybtv.net/live/535.m3u8
+#EXTINF:-1 group-title="Los Angeles",540
+https://v-la.mybtv.net/live/540.m3u8
+#EXTINF:-1 group-title="Los Angeles",544
+https://v-la.mybtv.net/live/544.m3u8
+#EXTINF:-1 group-title="Los Angeles",722
+https://v-la.mybtv.net/live/722.m3u8
+#EXTINF:-1 group-title="Los Angeles",723
+https://v-la.mybtv.net/live/723.m3u8
+#EXTINF:-1 group-title="Los Angeles",724
+https://v-la.mybtv.net/live/724.m3u8
+#EXTINF:-1 group-title="Los Angeles",732
+https://v-la.mybtv.net/live/732.m3u8
+#EXTINF:-1 group-title="Los Angeles",736
+https://v-la.mybtv.net/live/736.m3u8
+#EXTINF:-1 group-title="Los Angeles",742
+https://v-la.mybtv.net/live/742.m3u8
+#EXTINF:-1 group-title="Los Angeles",743
+https://v-la.mybtv.net/live/743.m3u8
+#EXTINF:-1 group-title="Los Angeles",755
+https://v-la.mybtv.net/live/755.m3u8
+#EXTINF:-1 group-title="Los Angeles",756
+https://v-la.mybtv.net/live/756.m3u8
+#EXTINF:-1 group-title="Los Angeles",869
+https://v-la.mybtv.net/live/869.m3u8
+#EXTINF:-1 group-title="Los Angeles",927
+https://v-la.mybtv.net/live/927.m3u8
+#EXTINF:-1 group-title="Los Angeles",958
+https://v-la.mybtv.net/live/958.m3u8
+#EXTINF:-1 group-title="Los Angeles",959
+https://v-la.mybtv.net/live/959.m3u8
+#EXTINF:-1 group-title="Los Angeles",960
+https://v-la.mybtv.net/live/960.m3u8
+#EXTINF:-1 group-title="Los Angeles",964
+https://v-la.mybtv.net/live/964.m3u8
+#EXTINF:-1 group-title="Los Angeles",965
+https://v-la.mybtv.net/live/965.m3u8
+#EXTINF:-1 group-title="Los Angeles",966
+https://v-la.mybtv.net/live/966.m3u8
+#EXTINF:-1 group-title="Los Angeles",974
+https://v-la.mybtv.net/live/974.m3u8
+#EXTINF:-1 group-title="Los Angeles",975
+https://v-la.mybtv.net/live/975.m3u8
+#EXTINF:-1 group-title="Los Angeles",976
+https://v-la.mybtv.net/live/976.m3u8
+#EXTINF:-1 group-title="Los Angeles",978
+https://v-la.mybtv.net/live/978.m3u8
+#EXTINF:-1 group-title="Los Angeles",983
+https://v-la.mybtv.net/live/983.m3u8
+#EXTINF:-1 group-title="Los Angeles",996
+https://v-la.mybtv.net/live/996.m3u8
+################# Las Vegas ####################
+#EXTINF:-1 group-title="Las Vegas",992
+https://v-lv.mybtv.net/live/992.m3u8
+################# San Francisco ####################
+#EXTINF:-1 group-title="San Francisco",31
+https://v-ca.mybtv.net/live/31.m3u8
+#EXTINF:-1 group-title="San Francisco",113
+https://v-ca.mybtv.net/live/113.m3u8
+#EXTINF:-1 group-title="San Francisco",118
+https://v-ca.mybtv.net/live/118.m3u8
+#EXTINF:-1 group-title="San Francisco",119
+https://v-ca.mybtv.net/live/119.m3u8
+#EXTINF:-1 group-title="San Francisco",120
+https://v-ca.mybtv.net/live/120.m3u8
+#EXTINF:-1 group-title="San Francisco",121
+https://v-ca.mybtv.net/live/121.m3u8
+#EXTINF:-1 group-title="San Francisco",122
+https://v-ca.mybtv.net/live/122.m3u8
+#EXTINF:-1 group-title="San Francisco",124
+https://v-ca.mybtv.net/live/124.m3u8
+#EXTINF:-1 group-title="San Francisco",125
+https://v-ca.mybtv.net/live/125.m3u8
+#EXTINF:-1 group-title="San Francisco",126
+https://v-ca.mybtv.net/live/126.m3u8
+#EXTINF:-1 group-title="San Francisco",127
+https://v-ca.mybtv.net/live/127.m3u8
+#EXTINF:-1 group-title="San Francisco",128
+https://v-ca.mybtv.net/live/128.m3u8
+#EXTINF:-1 group-title="San Francisco",129
+https://v-ca.mybtv.net/live/129.m3u8
+#EXTINF:-1 group-title="San Francisco",130
+https://v-ca.mybtv.net/live/130.m3u8
+#EXTINF:-1 group-title="San Francisco",132
+https://v-ca.mybtv.net/live/132.m3u8
+#EXTINF:-1 group-title="San Francisco",133
+https://v-ca.mybtv.net/live/133.m3u8
+#EXTINF:-1 group-title="San Francisco",134
+https://v-ca.mybtv.net/live/134.m3u8
+#EXTINF:-1 group-title="San Francisco",136
+https://v-ca.mybtv.net/live/136.m3u8
+#EXTINF:-1 group-title="San Francisco",137
+https://v-ca.mybtv.net/live/137.m3u8
+#EXTINF:-1 group-title="San Francisco",138
+https://v-ca.mybtv.net/live/138.m3u8
+#EXTINF:-1 group-title="San Francisco",139
+https://v-ca.mybtv.net/live/139.m3u8
+#EXTINF:-1 group-title="San Francisco",141
+https://v-ca.mybtv.net/live/141.m3u8
+#EXTINF:-1 group-title="San Francisco",143
+https://v-ca.mybtv.net/live/143.m3u8
+#EXTINF:-1 group-title="San Francisco",144
+https://v-ca.mybtv.net/live/144.m3u8
+#EXTINF:-1 group-title="San Francisco",146
+https://v-ca.mybtv.net/live/146.m3u8
+#EXTINF:-1 group-title="San Francisco",147
+https://v-ca.mybtv.net/live/147.m3u8
+#EXTINF:-1 group-title="San Francisco",148
+https://v-ca.mybtv.net/live/148.m3u8
+#EXTINF:-1 group-title="San Francisco",149
+https://v-ca.mybtv.net/live/149.m3u8
+#EXTINF:-1 group-title="San Francisco",150
+https://v-ca.mybtv.net/live/150.m3u8
+#EXTINF:-1 group-title="San Francisco",162
+https://v-ca.mybtv.net/live/162.m3u8
+#EXTINF:-1 group-title="San Francisco",163
+https://v-ca.mybtv.net/live/163.m3u8
+#EXTINF:-1 group-title="San Francisco",169
+https://v-ca.mybtv.net/live/169.m3u8
+#EXTINF:-1 group-title="San Francisco",170
+https://v-ca.mybtv.net/live/170.m3u8
+#EXTINF:-1 group-title="San Francisco",171
+https://v-ca.mybtv.net/live/171.m3u8
+#EXTINF:-1 group-title="San Francisco",172
+https://v-ca.mybtv.net/live/172.m3u8
+#EXTINF:-1 group-title="San Francisco",173
+https://v-ca.mybtv.net/live/173.m3u8
+#EXTINF:-1 group-title="San Francisco",174
+https://v-ca.mybtv.net/live/174.m3u8
+#EXTINF:-1 group-title="San Francisco",175
+https://v-ca.mybtv.net/live/175.m3u8
+#EXTINF:-1 group-title="San Francisco",176
+https://v-ca.mybtv.net/live/176.m3u8
+#EXTINF:-1 group-title="San Francisco",184
+https://v-ca.mybtv.net/live/184.m3u8
+#EXTINF:-1 group-title="San Francisco",189
+https://v-ca.mybtv.net/live/189.m3u8
+#EXTINF:-1 group-title="San Francisco",191
+https://v-ca.mybtv.net/live/191.m3u8
+#EXTINF:-1 group-title="San Francisco",192
+https://v-ca.mybtv.net/live/192.m3u8
+#EXTINF:-1 group-title="San Francisco",193
+https://v-ca.mybtv.net/live/193.m3u8
+#EXTINF:-1 group-title="San Francisco",194
+https://v-ca.mybtv.net/live/194.m3u8
+#EXTINF:-1 group-title="San Francisco",195
+https://v-ca.mybtv.net/live/195.m3u8
+#EXTINF:-1 group-title="San Francisco",196
+https://v-ca.mybtv.net/live/196.m3u8
+#EXTINF:-1 group-title="San Francisco",210
+https://v-ca.mybtv.net/live/210.m3u8
+#EXTINF:-1 group-title="San Francisco",211
+https://v-ca.mybtv.net/live/211.m3u8
+#EXTINF:-1 group-title="San Francisco",212
+https://v-ca.mybtv.net/live/212.m3u8
+#EXTINF:-1 group-title="San Francisco",213
+https://v-ca.mybtv.net/live/213.m3u8
+#EXTINF:-1 group-title="San Francisco",214
+https://v-ca.mybtv.net/live/214.m3u8
+#EXTINF:-1 group-title="San Francisco",215
+https://v-ca.mybtv.net/live/215.m3u8
+#EXTINF:-1 group-title="San Francisco",216
+https://v-ca.mybtv.net/live/216.m3u8
+#EXTINF:-1 group-title="San Francisco",219
+https://v-ca.mybtv.net/live/219.m3u8
+#EXTINF:-1 group-title="San Francisco",221
+https://v-ca.mybtv.net/live/221.m3u8
+#EXTINF:-1 group-title="San Francisco",222
+https://v-ca.mybtv.net/live/222.m3u8
+#EXTINF:-1 group-title="San Francisco",223
+https://v-ca.mybtv.net/live/223.m3u8
+#EXTINF:-1 group-title="San Francisco",224
+https://v-ca.mybtv.net/live/224.m3u8
+#EXTINF:-1 group-title="San Francisco",228
+https://v-ca.mybtv.net/live/228.m3u8
+#EXTINF:-1 group-title="San Francisco",229
+https://v-ca.mybtv.net/live/229.m3u8
+#EXTINF:-1 group-title="San Francisco",230
+https://v-ca.mybtv.net/live/230.m3u8
+#EXTINF:-1 group-title="San Francisco",231
+https://v-ca.mybtv.net/live/231.m3u8
+#EXTINF:-1 group-title="San Francisco",240
+https://v-ca.mybtv.net/live/240.m3u8
+#EXTINF:-1 group-title="San Francisco",241
+https://v-ca.mybtv.net/live/241.m3u8
+#EXTINF:-1 group-title="San Francisco",243
+https://v-ca.mybtv.net/live/243.m3u8
+#EXTINF:-1 group-title="San Francisco",245
+https://v-ca.mybtv.net/live/245.m3u8
+#EXTINF:-1 group-title="San Francisco",246
+https://v-ca.mybtv.net/live/246.m3u8
+#EXTINF:-1 group-title="San Francisco",247
+https://v-ca.mybtv.net/live/247.m3u8
+#EXTINF:-1 group-title="San Francisco",306
+https://v-ca.mybtv.net/live/306.m3u8
+#EXTINF:-1 group-title="San Francisco",718
+https://v-ca.mybtv.net/live/718.m3u8
+#EXTINF:-1 group-title="San Francisco",719
+https://v-ca.mybtv.net/live/719.m3u8
+#EXTINF:-1 group-title="San Francisco",728
+https://v-ca.mybtv.net/live/728.m3u8
+#EXTINF:-1 group-title="San Francisco",729
+https://v-ca.mybtv.net/live/729.m3u8
+#EXTINF:-1 group-title="San Francisco",731
+https://v-ca.mybtv.net/live/731.m3u8
+#EXTINF:-1 group-title="San Francisco",735
+https://v-ca.mybtv.net/live/735.m3u8
+#EXTINF:-1 group-title="San Francisco",737
+https://v-ca.mybtv.net/live/737.m3u8
+#EXTINF:-1 group-title="San Francisco",739
+https://v-ca.mybtv.net/live/739.m3u8
+#EXTINF:-1 group-title="San Francisco",740
+https://v-ca.mybtv.net/live/740.m3u8
+#EXTINF:-1 group-title="San Francisco",741
+https://v-ca.mybtv.net/live/741.m3u8
+#EXTINF:-1 group-title="San Francisco",748
+https://v-ca.mybtv.net/live/748.m3u8
+#EXTINF:-1 group-title="San Francisco",750
+https://v-ca.mybtv.net/live/750.m3u8
+#EXTINF:-1 group-title="San Francisco",752
+https://v-ca.mybtv.net/live/752.m3u8
+#EXTINF:-1 group-title="San Francisco",753
+https://v-ca.mybtv.net/live/753.m3u8
+#EXTINF:-1 group-title="San Francisco",757
+https://v-ca.mybtv.net/live/757.m3u8
+#EXTINF:-1 group-title="San Francisco",758
+https://v-ca.mybtv.net/live/758.m3u8
+#EXTINF:-1 group-title="San Francisco",759
+https://v-ca.mybtv.net/live/759.m3u8
+#EXTINF:-1 group-title="San Francisco",763
+https://v-ca.mybtv.net/live/763.m3u8
+#EXTINF:-1 group-title="San Francisco",764
+https://v-ca.mybtv.net/live/764.m3u8
+#EXTINF:-1 group-title="San Francisco",767
+https://v-ca.mybtv.net/live/767.m3u8
+#EXTINF:-1 group-title="San Francisco",773
+https://v-ca.mybtv.net/live/773.m3u8
+#EXTINF:-1 group-title="San Francisco",836
+https://v-ca.mybtv.net/live/836.m3u8
+#EXTINF:-1 group-title="San Francisco",841
+https://v-ca.mybtv.net/live/841.m3u8
+#EXTINF:-1 group-title="San Francisco",855
+https://v-ca.mybtv.net/live/855.m3u8
+#EXTINF:-1 group-title="San Francisco",860
+https://v-ca.mybtv.net/live/860.m3u8
+#EXTINF:-1 group-title="San Francisco",861
+https://v-ca.mybtv.net/live/861.m3u8
+#EXTINF:-1 group-title="San Francisco",870
+https://v-ca.mybtv.net/live/870.m3u8
+#EXTINF:-1 group-title="San Francisco",871
+https://v-ca.mybtv.net/live/871.m3u8
+#EXTINF:-1 group-title="San Francisco",877
+https://v-ca.mybtv.net/live/877.m3u8
+#EXTINF:-1 group-title="San Francisco",931
+https://v-ca.mybtv.net/live/931.m3u8
+#EXTINF:-1 group-title="San Francisco",932
+https://v-ca.mybtv.net/live/932.m3u8
+#EXTINF:-1 group-title="San Francisco",933
+https://v-ca.mybtv.net/live/933.m3u8
+#EXTINF:-1 group-title="San Francisco",970
+https://v-ca.mybtv.net/live/970.m3u8
+#EXTINF:-1 group-title="San Francisco",971
+https://v-ca.mybtv.net/live/971.m3u8
+#EXTINF:-1 group-title="San Francisco",993
+https://v-ca.mybtv.net/live/993.m3u8
+############### Indianapolis #################
+#EXTINF:-1 group-title="Indianapolis",321
+https://v-pi.mybtv.net/live/321.m3u8
+#EXTINF:-1 group-title="Indianapolis",322
+https://v-pi.mybtv.net/live/322.m3u8
+#EXTINF:-1 group-title="Indianapolis",324
+https://v-pi.mybtv.net/live/324.m3u8
+#EXTINF:-1 group-title="Indianapolis",325
+https://v-pi.mybtv.net/live/325.m3u8
+#EXTINF:-1 group-title="Indianapolis",339
+https://v-pi.mybtv.net/live/339.m3u8
+#EXTINF:-1 group-title="Indianapolis",340
+https://v-pi.mybtv.net/live/340.m3u8
+#EXTINF:-1 group-title="Indianapolis",341
+https://v-pi.mybtv.net/live/341.m3u8
+#EXTINF:-1 group-title="Indianapolis",346
+https://v-pi.mybtv.net/live/346.m3u8
+#EXTINF:-1 group-title="Indianapolis",359
+https://v-pi.mybtv.net/live/359.m3u8
+#EXTINF:-1 group-title="Indianapolis",360
+https://v-pi.mybtv.net/live/360.m3u8
+#EXTINF:-1 group-title="Indianapolis",365
+https://v-pi.mybtv.net/live/365.m3u8
+#EXTINF:-1 group-title="Indianapolis",398
+https://v-pi.mybtv.net/live/398.m3u8
+#EXTINF:-1 group-title="Indianapolis",400
+https://v-pi.mybtv.net/live/400.m3u8
+#EXTINF:-1 group-title="Indianapolis",401
+https://v-pi.mybtv.net/live/401.m3u8
+#EXTINF:-1 group-title="Indianapolis",415
+https://v-pi.mybtv.net/live/415.m3u8
+#EXTINF:-1 group-title="Indianapolis",416
+https://v-pi.mybtv.net/live/416.m3u8
+#EXTINF:-1 group-title="Indianapolis",419
+https://v-pi.mybtv.net/live/419.m3u8
+#EXTINF:-1 group-title="Indianapolis",427
+https://v-pi.mybtv.net/live/427.m3u8
+#EXTINF:-1 group-title="Indianapolis",766
+https://v-pi.mybtv.net/live/766.m3u8
+#EXTINF:-1 group-title="Indianapolis",838
+https://v-pi.mybtv.net/live/838.m3u8
+#EXTINF:-1 group-title="Indianapolis",859
+https://v-pi.mybtv.net/live/859.m3u8
+#EXTINF:-1 group-title="Indianapolis",863
+https://v-pi.mybtv.net/live/863.m3u8
+#EXTINF:-1 group-title="Indianapolis",866
+https://v-pi.mybtv.net/live/866.m3u8
+#EXTINF:-1 group-title="Indianapolis",872
+https://v-pi.mybtv.net/live/872.m3u8
+#EXTINF:-1 group-title="Indianapolis",934
+https://v-pi.mybtv.net/live/934.m3u8
+#EXTINF:-1 group-title="Indianapolis",935
+https://v-pi.mybtv.net/live/935.m3u8
+#EXTINF:-1 group-title="Indianapolis",936
+https://v-pi.mybtv.net/live/936.m3u8
+#EXTINF:-1 group-title="Indianapolis",937
+https://v-pi.mybtv.net/live/937.m3u8
+#EXTINF:-1 group-title="Indianapolis",938
+https://v-pi.mybtv.net/live/938.m3u8
+#EXTINF:-1 group-title="Indianapolis",961
+https://v-pi.mybtv.net/live/961.m3u8
+#EXTINF:-1 group-title="Indianapolis",968
+https://v-pi.mybtv.net/live/968.m3u8
+#EXTINF:-1 group-title="Indianapolis",980
+https://v-pi.mybtv.net/live/980.m3u8
+#EXTINF:-1 group-title="Indianapolis",981
+https://v-pi.mybtv.net/live/981.m3u8
+#EXTINF:-1 group-title="Indianapolis",988
+https://v-pi.mybtv.net/live/988.m3u8
+############ Phoenix ##################
+#EXTINF:-1 group-title="Phoenix",2
+https://v-px.mybtv.net/live/2.m3u8
+#EXTINF:-1 group-title="Phoenix",3
+https://v-px.mybtv.net/live/3.m3u8
+#EXTINF:-1 group-title="Phoenix",4
+https://v-px.mybtv.net/live/4.m3u8
+#EXTINF:-1 group-title="Phoenix",5
+https://v-px.mybtv.net/live/5.m3u8
+#EXTINF:-1 group-title="Phoenix",6
+https://v-px.mybtv.net/live/6.m3u8
+#EXTINF:-1 group-title="Phoenix",7
+https://v-px.mybtv.net/live/7.m3u8
+#EXTINF:-1 group-title="Phoenix",8
+https://v-px.mybtv.net/live/8.m3u8
+#EXTINF:-1 group-title="Phoenix",9
+https://v-px.mybtv.net/live/9.m3u8
+#EXTINF:-1 group-title="Phoenix",10
+https://v-px.mybtv.net/live/10.m3u8
+#EXTINF:-1 group-title="Phoenix",12
+https://v-px.mybtv.net/live/12.m3u8
+#EXTINF:-1 group-title="Phoenix",13
+https://v-px.mybtv.net/live/13.m3u8
+#EXTINF:-1 group-title="Phoenix",14
+https://v-px.mybtv.net/live/14.m3u8
+#EXTINF:-1 group-title="Phoenix",15
+https://v-px.mybtv.net/live/15.m3u8
+#EXTINF:-1 group-title="Phoenix",16
+https://v-px.mybtv.net/live/16.m3u8
+#EXTINF:-1 group-title="Phoenix",17
+https://v-px.mybtv.net/live/17.m3u8
+#EXTINF:-1 group-title="Phoenix",18
+https://v-px.mybtv.net/live/18.m3u8
+#EXTINF:-1 group-title="Phoenix",19
+https://v-px.mybtv.net/live/19.m3u8
+#EXTINF:-1 group-title="Phoenix",20
+https://v-px.mybtv.net/live/20.m3u8
+#EXTINF:-1 group-title="Phoenix",21
+https://v-px.mybtv.net/live/21.m3u8
+#EXTINF:-1 group-title="Phoenix",23
+https://v-px.mybtv.net/live/23.m3u8
+#EXTINF:-1 group-title="Phoenix",24
+https://v-px.mybtv.net/live/24.m3u8
+#EXTINF:-1 group-title="Phoenix",25
+https://v-px.mybtv.net/live/25.m3u8
+#EXTINF:-1 group-title="Phoenix",26
+https://v-px.mybtv.net/live/26.m3u8
+#EXTINF:-1 group-title="Phoenix",27
+https://v-px.mybtv.net/live/27.m3u8
+#EXTINF:-1 group-title="Phoenix",28
+https://v-px.mybtv.net/live/28.m3u8
+#EXTINF:-1 group-title="Phoenix",29
+https://v-px.mybtv.net/live/29.m3u8
+#EXTINF:-1 group-title="Phoenix",32
+https://v-px.mybtv.net/live/32.m3u8
+#EXTINF:-1 group-title="Phoenix",33
+https://v-px.mybtv.net/live/33.m3u8
+#EXTINF:-1 group-title="Phoenix",34
+https://v-px.mybtv.net/live/34.m3u8
+#EXTINF:-1 group-title="Phoenix",35
+https://v-px.mybtv.net/live/35.m3u8
+#EXTINF:-1 group-title="Phoenix",36
+https://v-px.mybtv.net/live/36.m3u8
+#EXTINF:-1 group-title="Phoenix",37
+https://v-px.mybtv.net/live/37.m3u8
+#EXTINF:-1 group-title="Phoenix",39
+https://v-px.mybtv.net/live/39.m3u8
+#EXTINF:-1 group-title="Phoenix",41
+https://v-px.mybtv.net/live/41.m3u8
+#EXTINF:-1 group-title="Phoenix",44
+https://v-px.mybtv.net/live/44.m3u8
+#EXTINF:-1 group-title="Phoenix",45
+https://v-px.mybtv.net/live/45.m3u8
+#EXTINF:-1 group-title="Phoenix",46
+https://v-px.mybtv.net/live/46.m3u8
+#EXTINF:-1 group-title="Phoenix",47
+https://v-px.mybtv.net/live/47.m3u8
+#EXTINF:-1 group-title="Phoenix",48
+https://v-px.mybtv.net/live/48.m3u8
+#EXTINF:-1 group-title="Phoenix",49
+https://v-px.mybtv.net/live/49.m3u8
+#EXTINF:-1 group-title="Phoenix",50
+https://v-px.mybtv.net/live/50.m3u8
+#EXTINF:-1 group-title="Phoenix",51
+https://v-px.mybtv.net/live/51.m3u8
+#EXTINF:-1 group-title="Phoenix",53
+https://v-px.mybtv.net/live/53.m3u8
+#EXTINF:-1 group-title="Phoenix",54
+https://v-px.mybtv.net/live/54.m3u8
+#EXTINF:-1 group-title="Phoenix",55
+https://v-px.mybtv.net/live/55.m3u8
+#EXTINF:-1 group-title="Phoenix",56
+https://v-px.mybtv.net/live/56.m3u8
+#EXTINF:-1 group-title="Phoenix",58
+https://v-px.mybtv.net/live/58.m3u8
+#EXTINF:-1 group-title="Phoenix",59
+https://v-px.mybtv.net/live/59.m3u8
+#EXTINF:-1 group-title="Phoenix",152
+https://v-px.mybtv.net/live/152.m3u8
+#EXTINF:-1 group-title="Phoenix",153
+https://v-px.mybtv.net/live/153.m3u8
+#EXTINF:-1 group-title="Phoenix",154
+https://v-px.mybtv.net/live/154.m3u8
+#EXTINF:-1 group-title="Phoenix",155
+https://v-px.mybtv.net/live/155.m3u8
+#EXTINF:-1 group-title="Phoenix",156
+https://v-px.mybtv.net/live/156.m3u8
+#EXTINF:-1 group-title="Phoenix",159
+https://v-px.mybtv.net/live/159.m3u8
+#EXTINF:-1 group-title="Phoenix",160
+https://v-px.mybtv.net/live/160.m3u8
+#EXTINF:-1 group-title="Phoenix",186
+https://v-px.mybtv.net/live/186.m3u8
+#EXTINF:-1 group-title="Phoenix",197
+https://v-px.mybtv.net/live/197.m3u8
+#EXTINF:-1 group-title="Phoenix",199
+https://v-px.mybtv.net/live/199.m3u8
+#EXTINF:-1 group-title="Phoenix",200
+https://v-px.mybtv.net/live/200.m3u8
+#EXTINF:-1 group-title="Phoenix",201
+https://v-px.mybtv.net/live/201.m3u8
+#EXTINF:-1 group-title="Phoenix",202
+https://v-px.mybtv.net/live/202.m3u8
+#EXTINF:-1 group-title="Phoenix",203
+https://v-px.mybtv.net/live/203.m3u8
+#EXTINF:-1 group-title="Phoenix",204
+https://v-px.mybtv.net/live/204.m3u8
+#EXTINF:-1 group-title="Phoenix",205
+https://v-px.mybtv.net/live/205.m3u8
+#EXTINF:-1 group-title="Phoenix",208
+https://v-px.mybtv.net/live/208.m3u8
+#EXTINF:-1 group-title="Phoenix",225
+https://v-px.mybtv.net/live/225.m3u8
+#EXTINF:-1 group-title="Phoenix",234
+https://v-px.mybtv.net/live/234.m3u8
+#EXTINF:-1 group-title="Phoenix",236
+https://v-px.mybtv.net/live/236.m3u8
+#EXTINF:-1 group-title="Phoenix",252
+https://v-px.mybtv.net/live/252.m3u8
+#EXTINF:-1 group-title="Phoenix",428
+https://v-px.mybtv.net/live/428.m3u8
+#EXTINF:-1 group-title="Phoenix",542
+https://v-px.mybtv.net/live/542.m3u8
+#EXTINF:-1 group-title="Phoenix",725
+https://v-px.mybtv.net/live/725.m3u8
+#EXTINF:-1 group-title="Phoenix",726
+https://v-px.mybtv.net/live/726.m3u8
+#EXTINF:-1 group-title="Phoenix",730
+https://v-px.mybtv.net/live/730.m3u8
+#EXTINF:-1 group-title="Phoenix",734
+https://v-px.mybtv.net/live/734.m3u8
+#EXTINF:-1 group-title="Phoenix",769
+https://v-px.mybtv.net/live/769.m3u8
+#EXTINF:-1 group-title="Phoenix",770
+https://v-px.mybtv.net/live/770.m3u8
+#EXTINF:-1 group-title="Phoenix",774
+https://v-px.mybtv.net/live/774.m3u8
+#EXTINF:-1 group-title="Phoenix",837
+https://v-px.mybtv.net/live/837.m3u8
+#EXTINF:-1 group-title="Phoenix",844
+https://v-px.mybtv.net/live/844.m3u8
+#EXTINF:-1 group-title="Phoenix",854
+https://v-px.mybtv.net/live/854.m3u8
+#EXTINF:-1 group-title="Phoenix",864
+https://v-px.mybtv.net/live/864.m3u8
+#EXTINF:-1 group-title="Phoenix",876
+https://v-px.mybtv.net/live/876.m3u8
+#EXTINF:-1 group-title="Phoenix",878
+https://v-px.mybtv.net/live/878.m3u8
+#EXTINF:-1 group-title="Phoenix",928
+https://v-px.mybtv.net/live/928.m3u8
+#EXTINF:-1 group-title="Phoenix",930
+https://v-px.mybtv.net/live/930.m3u8
+#EXTINF:-1 group-title="Phoenix",939
+https://v-px.mybtv.net/live/939.m3u8
+#EXTINF:-1 group-title="Phoenix",957
+https://v-px.mybtv.net/live/957.m3u8
+#EXTINF:-1 group-title="Phoenix",990
+https://v-px.mybtv.net/live/990.m3u8
+#EXTINF:-1 group-title="Phoenix",991
+https://v-px.mybtv.net/live/991.m3u8
+#EXTINF:-1 group-title="Phoenix",992
+https://v-px.mybtv.net/live/992.m3u8
+############ Fresno ####################
+#EXTINF:-1 group-title="Fresno",873
+https://v-fn.mybtv.net/live/873.m3u8
+#EXTINF:-1 group-title="Fresno",884
+https://v-fn.mybtv.net/live/884.m3u8
+#EXTINF:-1 group-title="Fresno",886
+https://v-fn.mybtv.net/live/886.m3u8
+#EXTINF:-1 group-title="Fresno",887
+https://v-fn.mybtv.net/live/887.m3u8
+#EXTINF:-1 group-title="Fresno",888
+https://v-fn.mybtv.net/live/888.m3u8
+#EXTINF:-1 group-title="Fresno",889
+https://v-fn.mybtv.net/live/889.m3u8
+#EXTINF:-1 group-title="Fresno",891
+https://v-fn.mybtv.net/live/891.m3u8
+#EXTINF:-1 group-title="Fresno",892
+https://v-fn.mybtv.net/live/892.m3u8
+#EXTINF:-1 group-title="Fresno",893
+https://v-fn.mybtv.net/live/893.m3u8
+#EXTINF:-1 group-title="Fresno",894
+https://v-fn.mybtv.net/live/894.m3u8
+#EXTINF:-1 group-title="Fresno",895
+https://v-fn.mybtv.net/live/895.m3u8
+#EXTINF:-1 group-title="Fresno",896
+https://v-fn.mybtv.net/live/896.m3u8
+#EXTINF:-1 group-title="Fresno",897
+https://v-fn.mybtv.net/live/897.m3u8
+#EXTINF:-1 group-title="Fresno",908
+https://v-fn.mybtv.net/live/908.m3u8
+#EXTINF:-1 group-title="Fresno",910
+https://v-fn.mybtv.net/live/910.m3u8
+#EXTINF:-1 group-title="Fresno",911
+https://v-fn.mybtv.net/live/911.m3u8
+#EXTINF:-1 group-title="Fresno",916
+https://v-fn.mybtv.net/live/916.m3u8
+#EXTINF:-1 group-title="Fresno",917
+https://v-fn.mybtv.net/live/917.m3u8
+#EXTINF:-1 group-title="Fresno",944
+https://v-fn.mybtv.net/live/944.m3u8
+#EXTINF:-1 group-title="Fresno",945
+https://v-fn.mybtv.net/live/945.m3u8
+#EXTINF:-1 group-title="Fresno",946
+https://v-fn.mybtv.net/live/946.m3u8
+#EXTINF:-1 group-title="Fresno",947
+https://v-fn.mybtv.net/live/947.m3u8
+#EXTINF:-1 group-title="Fresno",948
+https://v-fn.mybtv.net/live/948.m3u8
+#EXTINF:-1 group-title="Fresno",949
+https://v-fn.mybtv.net/live/949.m3u8
+#EXTINF:-1 group-title="Fresno",954
+https://v-fn.mybtv.net/live/954.m3u8
+#EXTINF:-1 group-title="Fresno",962
+https://v-fn.mybtv.net/live/962.m3u8
+#EXTINF:-1 group-title="Fresno",969
+https://v-fn.mybtv.net/live/969.m3u8
+################################################
 #EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Ukraine",1+1 (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ/live
 #EXTINF:-1 tvg-id="1Plus1Sport.ua" tvg-logo="https://i.imgur.com/VpBVorp.png" group-title="Sports",1+1 Спорт (720p) [Not 24/7]
