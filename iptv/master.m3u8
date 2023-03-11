@@ -1,8 +1,8 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ad.xml,https://iptv-org.github.io/epg/guides/ae.xml,https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/am.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/at.xml,https://iptv-org.github.io/epg/guides/au.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/be.xml,https://iptv-org.github.io/epg/guides/bf.xml,https://iptv-org.github.io/epg/guides/bg.xml,https://iptv-org.github.io/epg/guides/bj.xml,https://iptv-org.github.io/epg/guides/bn.xml,https://iptv-org.github.io/epg/guides/bo.xml,https://iptv-org.github.io/epg/guides/br.xml,https://iptv-org.github.io/epg/guides/bs.xml,https://iptv-org.github.io/epg/guides/by.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/cd.xml,https://iptv-org.github.io/epg/guides/cg.xml,https://iptv-org.github.io/epg/guides/ch.xml,https://iptv-org.github.io/epg/guides/cl.xml,https://iptv-org.github.io/epg/guides/cm.xml,https://iptv-org.github.io/epg/guides/cn.xml,https://iptv-org.github.io/epg/guides/co.xml,https://iptv-org.github.io/epg/guides/cr.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/dk.xml,https://iptv-org.github.io/epg/guides/do.xml,https://iptv-org.github.io/epg/guides/dz.xml,https://iptv-org.github.io/epg/guides/ec.xml,https://iptv-org.github.io/epg/guides/ee.xml,https://iptv-org.github.io/epg/guides/eg.xml,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/fi.xml,https://iptv-org.github.io/epg/guides/fo.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/ga.xml,https://iptv-org.github.io/epg/guides/ge.xml,https://iptv-org.github.io/epg/guides/gh.xml,https://iptv-org.github.io/epg/guides/gq.xml,https://iptv-org.github.io/epg/guides/gr.xml,https://iptv-org.github.io/epg/guides/gt.xml,https://iptv-org.github.io/epg/guides/hk.xml,https://iptv-org.github.io/epg/guides/hn.xml,https://iptv-org.github.io/epg/guides/hr.xml,https://iptv-org.github.io/epg/guides/hu.xml,https://iptv-org.github.io/epg/guides/id.xml,https://iptv-org.github.io/epg/guides/ie.xml,https://iptv-org.github.io/epg/guides/il.xml,https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/iq.xml,https://iptv-org.github.io/epg/guides/ir.xml,https://iptv-org.github.io/epg/guides/is.xml,https://iptv-org.github.io/epg/guides/it.xml,https://iptv-org.github.io/epg/guides/jm.xml,https://iptv-org.github.io/epg/guides/jo.xml,https://iptv-org.github.io/epg/guides/jp.xml,https://iptv-org.github.io/epg/guides/ke.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/kw.xml,https://iptv-org.github.io/epg/guides/kz.xml,https://iptv-org.github.io/epg/guides/lb.xml,https://iptv-org.github.io/epg/guides/lt.xml,https://iptv-org.github.io/epg/guides/lu.xml,https://iptv-org.github.io/epg/guides/md.xml,https://iptv-org.github.io/epg/guides/mo.xml,https://iptv-org.github.io/epg/guides/mt.xml,https://iptv-org.github.io/epg/guides/mw.xml,https://iptv-org.github.io/epg/guides/mx.xml,https://iptv-org.github.io/epg/guides/my.xml,https://iptv-org.github.io/epg/guides/mz.xml,https://iptv-org.github.io/epg/guides/ng.xml,https://iptv-org.github.io/epg/guides/ni.xml,https://iptv-org.github.io/epg/guides/nl.xml,https://iptv-org.github.io/epg/guides/pa.xml,https://iptv-org.github.io/epg/guides/pe.xml,https://iptv-org.github.io/epg/guides/pf.xml,https://iptv-org.github.io/epg/guides/ph.xml,https://iptv-org.github.io/epg/guides/pk.xml,https://iptv-org.github.io/epg/guides/pl.xml,https://iptv-org.github.io/epg/guides/pr.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/py.xml,https://iptv-org.github.io/epg/guides/ro.xml,https://iptv-org.github.io/epg/guides/rs.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/rw.xml,https://iptv-org.github.io/epg/guides/sa.xml,https://iptv-org.github.io/epg/guides/se.xml,https://iptv-org.github.io/epg/guides/sg.xml,https://iptv-org.github.io/epg/guides/si.xml,https://iptv-org.github.io/epg/guides/sk.xml,https://iptv-org.github.io/epg/guides/sn.xml,https://iptv-org.github.io/epg/guides/sv.xml,https://iptv-org.github.io/epg/guides/sy.xml,https://iptv-org.github.io/epg/guides/td.xml,https://iptv-org.github.io/epg/guides/th.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/tw.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/ve.xml,https://iptv-org.github.io/epg/guides/xk.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/tvguide.com.xml"
 ############# New York ##############
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" ant-id="2.1" alt-url="http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8" group-title="New York",CBS 2 (WCBS)
+#EXTINF:-1 tvg-id="CBSEast.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" ant-id="2.1" alt-url="http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8" group-title="New York",CBS 2 (WCBS)
 https://v-ny.mybtv.net/live/545.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" ant-id="4.1" group-title="New York",NBC 4 (WNBC)
+#EXTINF:-1 tvg-id="NBCEast.us" tvg-logo="https://i.imgur.com/zGUrIlJ.png" ant-id="4.1" group-title="New York",NBC 4 (WNBC)
 https://v-ny.mybtv.net/live/548.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" ant-id="5.1" group-title="New York",Fox 5 (WNYW)
 https://v-ny.mybtv.net/live/550.m3u8
@@ -619,7 +619,7 @@ https://v-sd.mybtv.net/live/760.m3u8
 #EXTINF:-1 group-title="San Diego",San Diego - 762
 https://v-sd.mybtv.net/live/762.m3u8
 ################# Los Anegeles ##################
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 62
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/ShopHQ_2022.png" group-title="Los Angeles",Los Angeles - 62 ShopHQ
 https://v-la.mybtv.net/live/62.m3u8
 #EXTINF:-1 group-title="Los Angeles",Los Angeles - 63
 https://v-la.mybtv.net/live/63.m3u8
@@ -1079,23 +1079,23 @@ https://v-in.mybtv.net/live/989.m3u8
 #EXTINF:-1 group-title="Indianapolis",Indianapolis - 997
 https://v-in.mybtv.net/live/997.m3u8
 ############ Phoenix ##################
-#EXTINF:-1 group-title="Phoenix",Phoenix - 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Phoenix",Phoenix - 2 Laff
 https://v-px.mybtv.net/live/2.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6w1Wj3j.png" group-title="Phoenix",Phoenix - 3 Grit
 https://v-px.mybtv.net/live/3.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bounce_2017.png" group-title="Phoenix",Phoenix - 4 Bounce
 https://v-px.mybtv.net/live/4.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" group-title="Phoenix",Phoenix - 5 ION Mystery
 https://v-px.mybtv.net/live/5.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 6
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/True_Crime_Network_logo_2020.png" group-title="Phoenix",Phoenix - 6 True Crime Network
 https://v-px.mybtv.net/live/6.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 7
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Logo_of_Liquidation_Channel.png" group-title="Phoenix",Phoenix - 7 ShopLC
 https://v-px.mybtv.net/live/7.m3u8
 #EXTINF:-1 group-title="Phoenix",Phoenix - 8
 https://v-px.mybtv.net/live/8.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 9
+#EXTINF:-1 tvg-logo="https://azpbs.org/wp-content/uploads/2020/04/arizona-pbs-placeholder2-1024x576.jpg" group-title="Phoenix",Phoenix - 9 Arizona PBS
 https://v-px.mybtv.net/live/9.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 10
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/World_Channel_2012.svg" group-title="Phoenix",Phoenix - 10 World
 https://v-px.mybtv.net/live/10.m3u8
 #EXTINF:-1 group-title="Phoenix",Phoenix - 12
 https://v-px.mybtv.net/live/12.m3u8
