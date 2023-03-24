@@ -30,7 +30,7 @@ https://v-ny.mybtv.net/live/552.m3u8
 https://v-ny.mybtv.net/live/553.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/ABC_Localish.png" ant-id="7.2" group-title="New York",ABC Localish
 https://v-ny.mybtv.net/live/555.m3u8
-#EXTINF:-1 tvg-logo="https://hbcugo.tv/favicons/hbcu-go-134x78.png" ant-id="" group-title="New York",HBCU GO Sports
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/THIS_TV_2021_LOGO.png" ant-id="" group-title="New York",This
 https://v-ny.mybtv.net/live/556.m3u8
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/HSN#/media/File:HSN_logo.svg" ant-id="7.4" group-title="New York",HSN
 https://v-ny.mybtv.net/live/613.m3u8
