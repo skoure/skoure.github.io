@@ -1,121 +1,14 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ad.xml,https://iptv-org.github.io/epg/guides/ae.xml,https://iptv-org.github.io/epg/guides/af.xml,https://iptv-org.github.io/epg/guides/al.xml,https://iptv-org.github.io/epg/guides/am.xml,https://iptv-org.github.io/epg/guides/ao.xml,https://iptv-org.github.io/epg/guides/ar.xml,https://iptv-org.github.io/epg/guides/at.xml,https://iptv-org.github.io/epg/guides/au.xml,https://iptv-org.github.io/epg/guides/az.xml,https://iptv-org.github.io/epg/guides/ba.xml,https://iptv-org.github.io/epg/guides/be.xml,https://iptv-org.github.io/epg/guides/bf.xml,https://iptv-org.github.io/epg/guides/bg.xml,https://iptv-org.github.io/epg/guides/bj.xml,https://iptv-org.github.io/epg/guides/bn.xml,https://iptv-org.github.io/epg/guides/bo.xml,https://iptv-org.github.io/epg/guides/br.xml,https://iptv-org.github.io/epg/guides/bs.xml,https://iptv-org.github.io/epg/guides/by.xml,https://iptv-org.github.io/epg/guides/ca.xml,https://iptv-org.github.io/epg/guides/cd.xml,https://iptv-org.github.io/epg/guides/cg.xml,https://iptv-org.github.io/epg/guides/ch.xml,https://iptv-org.github.io/epg/guides/cl.xml,https://iptv-org.github.io/epg/guides/cm.xml,https://iptv-org.github.io/epg/guides/cn.xml,https://iptv-org.github.io/epg/guides/co.xml,https://iptv-org.github.io/epg/guides/cr.xml,https://iptv-org.github.io/epg/guides/cy.xml,https://iptv-org.github.io/epg/guides/cz.xml,https://iptv-org.github.io/epg/guides/de.xml,https://iptv-org.github.io/epg/guides/dk.xml,https://iptv-org.github.io/epg/guides/do.xml,https://iptv-org.github.io/epg/guides/dz.xml,https://iptv-org.github.io/epg/guides/ec.xml,https://iptv-org.github.io/epg/guides/ee.xml,https://iptv-org.github.io/epg/guides/eg.xml,https://iptv-org.github.io/epg/guides/es.xml,https://iptv-org.github.io/epg/guides/fi.xml,https://iptv-org.github.io/epg/guides/fo.xml,https://iptv-org.github.io/epg/guides/fr.xml,https://iptv-org.github.io/epg/guides/ga.xml,https://iptv-org.github.io/epg/guides/ge.xml,https://iptv-org.github.io/epg/guides/gh.xml,https://iptv-org.github.io/epg/guides/gq.xml,https://iptv-org.github.io/epg/guides/gr.xml,https://iptv-org.github.io/epg/guides/gt.xml,https://iptv-org.github.io/epg/guides/hk.xml,https://iptv-org.github.io/epg/guides/hn.xml,https://iptv-org.github.io/epg/guides/hr.xml,https://iptv-org.github.io/epg/guides/hu.xml,https://iptv-org.github.io/epg/guides/id.xml,https://iptv-org.github.io/epg/guides/ie.xml,https://iptv-org.github.io/epg/guides/il.xml,https://iptv-org.github.io/epg/guides/in.xml,https://iptv-org.github.io/epg/guides/iq.xml,https://iptv-org.github.io/epg/guides/ir.xml,https://iptv-org.github.io/epg/guides/is.xml,https://iptv-org.github.io/epg/guides/it.xml,https://iptv-org.github.io/epg/guides/jm.xml,https://iptv-org.github.io/epg/guides/jo.xml,https://iptv-org.github.io/epg/guides/jp.xml,https://iptv-org.github.io/epg/guides/ke.xml,https://iptv-org.github.io/epg/guides/kr.xml,https://iptv-org.github.io/epg/guides/kw.xml,https://iptv-org.github.io/epg/guides/kz.xml,https://iptv-org.github.io/epg/guides/lb.xml,https://iptv-org.github.io/epg/guides/lt.xml,https://iptv-org.github.io/epg/guides/lu.xml,https://iptv-org.github.io/epg/guides/md.xml,https://iptv-org.github.io/epg/guides/mo.xml,https://iptv-org.github.io/epg/guides/mt.xml,https://iptv-org.github.io/epg/guides/mw.xml,https://iptv-org.github.io/epg/guides/mx.xml,https://iptv-org.github.io/epg/guides/my.xml,https://iptv-org.github.io/epg/guides/mz.xml,https://iptv-org.github.io/epg/guides/ng.xml,https://iptv-org.github.io/epg/guides/ni.xml,https://iptv-org.github.io/epg/guides/nl.xml,https://iptv-org.github.io/epg/guides/pa.xml,https://iptv-org.github.io/epg/guides/pe.xml,https://iptv-org.github.io/epg/guides/pf.xml,https://iptv-org.github.io/epg/guides/ph.xml,https://iptv-org.github.io/epg/guides/pk.xml,https://iptv-org.github.io/epg/guides/pl.xml,https://iptv-org.github.io/epg/guides/pr.xml,https://iptv-org.github.io/epg/guides/pt.xml,https://iptv-org.github.io/epg/guides/py.xml,https://iptv-org.github.io/epg/guides/ro.xml,https://iptv-org.github.io/epg/guides/rs.xml,https://iptv-org.github.io/epg/guides/ru.xml,https://iptv-org.github.io/epg/guides/rw.xml,https://iptv-org.github.io/epg/guides/sa.xml,https://iptv-org.github.io/epg/guides/se.xml,https://iptv-org.github.io/epg/guides/sg.xml,https://iptv-org.github.io/epg/guides/si.xml,https://iptv-org.github.io/epg/guides/sk.xml,https://iptv-org.github.io/epg/guides/sn.xml,https://iptv-org.github.io/epg/guides/sv.xml,https://iptv-org.github.io/epg/guides/sy.xml,https://iptv-org.github.io/epg/guides/td.xml,https://iptv-org.github.io/epg/guides/th.xml,https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/tw.xml,https://iptv-org.github.io/epg/guides/uk.xml,https://iptv-org.github.io/epg/guides/us.xml,https://iptv-org.github.io/epg/guides/ve.xml,https://iptv-org.github.io/epg/guides/xk.xml"
-############# New York ##############
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" ant-id="2.1" alt-url="http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8" group-title="New York",CBS 2 (WCBS)
-https://v-ny.mybtv.net/live/545.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zGUrIlJ.png" ant-id="4.1" group-title="New York",NBC 4 (WNBC)
-https://v-ny.mybtv.net/live/548.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" ant-id="5.1" group-title="New York",Fox 5 (WNYW)
-https://v-ny.mybtv.net/live/550.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Noqqn46.png" ant-id="7.1" group-title="New York",ABC 7 (WABC)
-https://v-ny.mybtv.net/live/554.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/WWOR-TV_logo.svg" ant-id="9.1" group-title="New York",my9
-https://v-ny.mybtv.net/live/559.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/WPIX#/media/File:PIX11_2017.svg" ant-id="11.1" group-title="New York",The CW / PIX11
-https://v-ny.mybtv.net/live/562.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/Start_TV.svg" ant-id="2.2" group-title="New York",StartTV
-https://v-ny.mybtv.net/live/546.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Dabl_logo.svg" ant-id="2.3" group-title="New York",Dabl
-https://v-ny.mybtv.net/live/547.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/FAVE_TV.svg" ant-id="2.4" group-title="New York",FAVE TV
-https://v-ny.mybtv.net/live/648.m3u8
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-15675.png" ant-id="4.2" group-title="New York",COZI
-https://v-ny.mybtv.net/live/549.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Movies!#/media/File:Movies!_logo.svg" ant-id="5.2" group-title="New York",Movies!
-https://v-ny.mybtv.net/live/551.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Fox_Weather_logo.svg" ant-id="5.3" group-title="New York",Fox Weather
-https://v-ny.mybtv.net/live/676.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/TheGrio.png" ant-id="5.4" group-title="New York",The grio
-https://v-ny.mybtv.net/live/552.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Decades_%28TV_network%29#/media/File:Decades_Logo.svg" ant-id="5.5" group-title="New York",Decades
-https://v-ny.mybtv.net/live/553.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/ABC_Localish.png" ant-id="7.2" group-title="New York",ABC Localish
-https://v-ny.mybtv.net/live/555.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/THIS_TV_2021_LOGO.png" ant-id="" group-title="New York",This
-https://v-ny.mybtv.net/live/556.m3u8
-#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/HSN#/media/File:HSN_logo.svg" ant-id="7.4" group-title="New York",HSN
-https://v-ny.mybtv.net/live/613.m3u8
-#EXTINF:-1 tvg-id="WWORDT3.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Heroes_%26_Icons.svg" ant-id="9.3" group-title="New York",Heroes & Icons
-https://v-ny.mybtv.net/live/561.m3u8
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Rewind_TV?file=Rewind_TV_logo.png" ant-id="11.4" group-title="New York",Rewind TV
-https://v-ny.mybtv.net/live/565.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/First_Nations_Experience_2011.png" ant-id="14.1" group-title="New York",FNX
-https://v-ny.mybtv.net/live/569
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/NYC_Life.svg" ant-id="25.1" group-title="New York",NYC Life
-https://v-ny.mybtv.net/live/591.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/NYC_Gov_%282%3F%3F%3F%29.svg" ant-id="25.2" group-title="New York",NYC gov
-https://v-ny.mybtv.net/live/592.m3u8
-#EXTINF:-1 tvg-logo="https://media.localbtv.com/images/nycbtv/logos/20517-43694.png" ant-id="25.3" group-title="New York",CUNY TV
-https://v-ny.mybtv.net/live/593.m3u8
-#EXTINF:-1 tvg-id="WNYJDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Jewelry_television_logo.png" ant-id="28.1" group-title="New York",jtv jewelry love
-https://v-ny.mybtv.net/live/601.m3u8
-#EXTINF:-1 tvg-id="WPXNDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" ant-id="31.1" group-title="New York",Ion East
-https://v-ny.mybtv.net/live/608.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/Bounce_2017.png" ant-id="31.2" group-title="New York",Bounce TV
-https://v-ny.mybtv.net/live/581.m3u8
-#EXTINF:-1 tvg-id="WPXNDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" ant-id="31.1" group-title="New York",ION Mystery
-https://v-ny.mybtv.net/live/610.m3u8
-#EXTINF:-1 tvg-id="WPXNDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Defy_TV_logo.png/512px-Defy_TV_logo.png" ant-id="31.4" group-title="New York",Defy TV
-https://v-ny.mybtv.net/live/611.m3u8
-#EXTINF:-1 tvg-id="WPXNDT5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" ant-id="31.5" group-title="New York",Laff
-https://v-ny.mybtv.net/live/602.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/TrueReal_pink.jpg" ant-id="31.6" group-title="New York",True Real
-https://v-ny.mybtv.net/live/596.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Scripps_News_2023.svg" ant-id="31.7" group-title="New York",Scripps TV
-https://v-ny.mybtv.net/live/609.m3u8
-#EXTINF:-1 tvg-id="WJLPDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/MeTV_logo_2014.svg" ant-id="33.1" group-title="New York",MeTV New York
-https://v-ny.mybtv.net/live/637.m3u8
-#EXTINF:-1 tvg-id="WJLPDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" ant-id="33.2" group-title="New York",Laff
-https://v-ny.mybtv.net/live/625.m3u8
-#EXTINF:-1 tvg-id="WJLPDT3.us" tvg-logo="https://i.imgur.com/6w1Wj3j.png" ant-id="33.3" group-title="New York",Grit
-https://v-ny.mybtv.net/live/626.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/HeartlandTVLogo.jpg" ant-id="33.6" group-title="New York",Heartland
-https://v-ny.mybtv.net/live/629
-#EXTINF:-1 tvg-id="WJLPDT4.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png" ant-id="33.4" group-title="New York",Ion Mystery
-https://v-ny.mybtv.net/live/627.m3u8
-#EXTINF:-1 tvg-id="WJLPDT5.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png" ant-id="33.5" group-title="New York",Retro TV
-https://v-ny.mybtv.net/live/628.m3u8
-#EXTINF:-1 tvg-id="WJLPDT7.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Story_Television.png" ant-id="33.7" group-title="New York",Story Television
-https://v-ny.mybtv.net/live/634.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Univision2019.svg" ant-id="41.1" group-title="New York",Univision
-https://v-ny.mybtv.net/live/643.m3u8
-#EXTINF:-1 tvg-id="WXTVDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/512px-Bounce_TV_logo.svg.png" ant-id="41.2" group-title="New York",Bounce TV
-https://v-ny.mybtv.net/live/644.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Estrella_TV_%282020%29.svg" ant-id="24.1" group-title="New York",Estrella TV
-https://v-ny.mybtv.net/live/650.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/TimelessTV_logo.png" ant-id="" group-title="New York",Timeless TV
-https://v-ny.mybtv.net/live/652
-#EXTINF:-1 tvg-id="WXTVDT3.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Twist_logo.svg/512px-Twist_logo.svg.png" ant-id="41.3" group-title="New York",Twist
-https://v-ny.mybtv.net/live/999.m3u8
-#EXTINF:-1 tvg-id="WMBQCD1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/First_Nations_Experience_2011.png" ant-id="46.1" group-title="New York",FNX
-https://v-ny.mybtv.net/live/658.m3u8
-#EXTINF:-1 tvg-id="WNJUDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png" ant-id="47.2" group-title="New York",TeleXitos
-https://v-ny.mybtv.net/live/660.m3u8
-#EXTINF:-1 tvg-id="WRNNDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/ShopHQ_2022.png" ant-id="48.1" group-title="New York",ShopHQ
-https://v-ny.mybtv.net/live/661.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Logo_of_Liquidation_Channel.png" ant-id="48.1" group-title="New York",ShopLC
-https://v-ny.mybtv.net/live/662
-#EXTINF:-1 tvg-logo="https://www.shophqhealth.com/images/store1/logos/health-logo-default-1.png" ant-id="48.3" group-title="New York",ShopHQ Health
-https://v-ny.mybtv.net/live/663.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/QVC2_2019_II.svg" ant-id="48.4" group-title="New York",QVC 2
-https://v-ny.mybtv.net/live/612.m3u8
-#EXTINF:-1 tvg-id="WFUTDT1.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/WFUT-DT_%282021%29.svg" ant-id="68.1" group-title="New York", Unimas Nueva York
-https://v-ny.mybtv.net/live/713.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/True_Crime_Network_logo_2020.png" ant-id="68.2" group-title="New York",True Crime Network
-https://v-ny.mybtv.net/live/714.m3u8
 ############# News ##############
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CBS_News_New_York.svg" group-title="News",CBS News New York
+https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="News",Fox (WNYW)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png" group-title="News",CNN International Germany (720p)
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg" group-title="News",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CBS_News_New_York.svg" group-title="News",CBS News New York
-https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 ########## Documentary ##########
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1200px-History2_logo_%282022%29.svg.png" group-title="Documentary",History 2 HD
-http://109.105.205.250:8081/live/HISTORY2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/640px-History_%282021%29.svg.png" group-title="Documentary",History Channel (1080p)
-https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 #EXTINF:-1 channel-id="pluto-5a4d35dfa5c02e717a234f86" tvg-id="5a4d35dfa5c02e717a234f86" tvg-chno="1775" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Lifestyle + Culture", Pluto TV History
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 ########## Entertainment ##########
@@ -484,832 +377,6 @@ http://176.9.123.140:1935/messinia/messinia/master.m3u8
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-id="Choice.gr" tvg-logo="https://i.imgur.com/m7gb941.png" group-title="Greek Music",Choice (956p) [Not 24/7]
 https://vod.streams.ovh:3528/stream/play.m3u8
-############# Philadelphia ##############
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 321
-https://v-pi.mybtv.net/live/321.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 325
-https://v-pi.mybtv.net/live/325.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 339
-https://v-pi.mybtv.net/live/339.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 340
-https://v-pi.mybtv.net/live/340.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 341
-https://v-pi.mybtv.net/live/341.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 359
-https://v-pi.mybtv.net/live/359.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 360
-https://v-pi.mybtv.net/live/360.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 365
-https://v-pi.mybtv.net/live/365.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 395
-https://v-pi.mybtv.net/live/395.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 396
-https://v-pi.mybtv.net/live/396.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 398
-https://v-pi.mybtv.net/live/398.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 400
-https://v-pi.mybtv.net/live/400.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 401
-https://v-pi.mybtv.net/live/401.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 415
-https://v-pi.mybtv.net/live/415.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 416
-https://v-pi.mybtv.net/live/416.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 419
-https://v-pi.mybtv.net/live/419.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 427
-https://v-pi.mybtv.net/live/427.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 766
-https://v-pi.mybtv.net/live/766.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 838
-https://v-pi.mybtv.net/live/838.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 859
-https://v-pi.mybtv.net/live/859.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 863
-https://v-pi.mybtv.net/live/863.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 866
-https://v-pi.mybtv.net/live/866.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 872
-https://v-pi.mybtv.net/live/872.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 934
-https://v-pi.mybtv.net/live/934.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 935
-https://v-pi.mybtv.net/live/935.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 936
-https://v-pi.mybtv.net/live/936.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 937
-https://v-pi.mybtv.net/live/937.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 938
-https://v-pi.mybtv.net/live/938.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 961
-https://v-pi.mybtv.net/live/961.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 968
-https://v-pi.mybtv.net/live/968.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 980
-https://v-pi.mybtv.net/live/980.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 981
-https://v-pi.mybtv.net/live/981.m3u8
-#EXTINF:-1 group-title="Philadelphia",Philadelphia - 988
-https://v-pi.mybtv.net/live/988.m3u8
-#EXTINF:-1 tvg-id="WACPDT1.us" tvg-logo="https://eadn-wc01-7593955.nxedge.io/wp-content/uploads/2015/03/tct-logo.jpg" group-title="Philadelphia",TCT
-http://v-pi.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Noqqn46.png" group-title="Philadelphia",ABC 6 (WPVI)
-http://v-pi.theus6tv.duckdns.org/hls/6.1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Ace_TV_USA.png/revision/latest?cb=20230102011117" group-title="Philadelphia",Ace
-http://v-pi.theus6tv.duckdns.org/hls/4.2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Logo_of_Liquidation_Channel.png" group-title="Philadelphia",ShopLC
-http://v-pi.theus6tv.duckdns.org/hls/4.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WCAUDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/512px-Cozi_TV_logo.svg.png" group-title="Philadelphia",COZI TV
-http://v-pi.theus6tv.duckdns.org/hls/10.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WNJSDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/512px-NHK_World.svg.png" group-title="Philadelphia",NHK WORLD
-http://v-pi.theus6tv.duckdns.org/hls/23.2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media-usba.mybtv.net/logos/42.1.png" group-title="Philadelphia",SBN
-http://v-pi.theus6tv.duckdns.org/hls/25.2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="Philadelphia",Fox
-http://v-pi.theus6tv.duckdns.org/hls/29.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WMCNDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/ShopHQ_2019_Logo.png" group-title="Philadelphia",ShopHQ
-http://v-pi.theus6tv.duckdns.org/hls/44.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WELLLD1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Daystar_TV.PNG/512px-Daystar_TV.PNG" group-title="Philadelphia",Daystar
-http://v-pi.theus6tv.duckdns.org/hls/45.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WTVEDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/WTVE51.png" group-title="Philadelphia",WTVE-DT1 (720p)
-http://v-pi.theus6tv.duckdns.org/hls/51.1/playlist.m3u8
-#EXTINF:-1 tvg-id="WTVEDT2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/As_seen_on_TV.svg/512px-As_seen_on_TV.svg.png" group-title="Philadelphia",As seen on TV
-http://v-pi.theus6tv.duckdns.org/hls/51.2/playlist.m3u8
-#EXTINF:-1 tvg-id="WPPXDT4.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Defy_2018.svg" group-title="Philadelphia",Defy
-http://v-pi.theus6tv.duckdns.org/hls/61.4/playlist.m3u8
-#EXTINF:-1 tvg-id="WPPXDT5.us" tvg-logo="https://en.wikipedia.org/wiki/HSN#/media/File:HSN_logo.svg" group-title="Philadelphia",HSN
-http://v-pi.theus6tv.duckdns.org/hls/61.5/playlist.m3u8
-################# San Diego ##################
-#EXTINF:-1 group-title="San Diego",San Diego - 484
-https://v-sd.mybtv.net/live/484.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 485
-https://v-sd.mybtv.net/live/485.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 486
-https://v-sd.mybtv.net/live/486.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 490
-https://v-sd.mybtv.net/live/490.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 495
-https://v-sd.mybtv.net/live/495.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 496
-https://v-sd.mybtv.net/live/496.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 502
-https://v-sd.mybtv.net/live/502.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 503
-https://v-sd.mybtv.net/live/503.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 508
-https://v-sd.mybtv.net/live/508.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 515
-https://v-sd.mybtv.net/live/515.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 519
-https://v-sd.mybtv.net/live/519.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 521
-https://v-sd.mybtv.net/live/521.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 524
-https://v-sd.mybtv.net/live/524.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 526
-https://v-sd.mybtv.net/live/526.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 527
-https://v-sd.mybtv.net/live/527.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 528
-https://v-sd.mybtv.net/live/528.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 530
-https://v-sd.mybtv.net/live/530.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 539
-https://v-sd.mybtv.net/live/539.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 760
-https://v-sd.mybtv.net/live/760.m3u8
-#EXTINF:-1 group-title="San Diego",San Diego - 762
-https://v-sd.mybtv.net/live/762.m3u8
-################# Los Anegeles ##################
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 62
-https://v-la.mybtv.net/live/62.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 63
-https://v-la.mybtv.net/live/63.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 67
-https://v-la.mybtv.net/live/67.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 68
-https://v-la.mybtv.net/live/68.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 70
-https://v-la.mybtv.net/live/70.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 73
-https://v-la.mybtv.net/live/73.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 74
-https://v-la.mybtv.net/live/74.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 75
-https://v-la.mybtv.net/live/75.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 76
-https://v-la.mybtv.net/live/76.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 77
-https://v-la.mybtv.net/live/77.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 78
-https://v-la.mybtv.net/live/78.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 79
-https://v-la.mybtv.net/live/79.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 80
-https://v-la.mybtv.net/live/80.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 81
-https://v-la.mybtv.net/live/81.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 82
-https://v-la.mybtv.net/live/82.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 85
-https://v-la.mybtv.net/live/85.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 87
-https://v-la.mybtv.net/live/87.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 88
-https://v-la.mybtv.net/live/88.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 89
-https://v-la.mybtv.net/live/89.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 91
-https://v-la.mybtv.net/live/91.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 93
-https://v-la.mybtv.net/live/93.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 94
-https://v-la.mybtv.net/live/94.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 95
-https://v-la.mybtv.net/live/95.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 96
-https://v-la.mybtv.net/live/96.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 97
-https://v-la.mybtv.net/live/97.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 98
-https://v-la.mybtv.net/live/98.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 99
-https://v-la.mybtv.net/live/99.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 100
-https://v-la.mybtv.net/live/100.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 101
-https://v-la.mybtv.net/live/101.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 103
-https://v-la.mybtv.net/live/103.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 104
-https://v-la.mybtv.net/live/104.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 105
-https://v-la.mybtv.net/live/105.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 106
-https://v-la.mybtv.net/live/106.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 107
-https://v-la.mybtv.net/live/107.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 109
-https://v-la.mybtv.net/live/109.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 110
-https://v-la.mybtv.net/live/110.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 112
-https://v-la.mybtv.net/live/112.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 161
-https://v-la.mybtv.net/live/161.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 164
-https://v-la.mybtv.net/live/164.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 165
-https://v-la.mybtv.net/live/165.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 166
-https://v-la.mybtv.net/live/166.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 167
-https://v-la.mybtv.net/live/167.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 168
-https://v-la.mybtv.net/live/168.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 178
-https://v-la.mybtv.net/live/178.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 179
-https://v-la.mybtv.net/live/179.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 180
-https://v-la.mybtv.net/live/180.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 181
-https://v-la.mybtv.net/live/181.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 182
-https://v-la.mybtv.net/live/182.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 183
-https://v-la.mybtv.net/live/183.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 185
-https://v-la.mybtv.net/live/185.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 253
-https://v-la.mybtv.net/live/253.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 254
-https://v-la.mybtv.net/live/254.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 255
-https://v-la.mybtv.net/live/255.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 256
-https://v-la.mybtv.net/live/256.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 257
-https://v-la.mybtv.net/live/257.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 259
-https://v-la.mybtv.net/live/259.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 261
-https://v-la.mybtv.net/live/261.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 262
-https://v-la.mybtv.net/live/262.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 266
-https://v-la.mybtv.net/live/266.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 267
-https://v-la.mybtv.net/live/267.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 268
-https://v-la.mybtv.net/live/268.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 269
-https://v-la.mybtv.net/live/269.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 270
-https://v-la.mybtv.net/live/270.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 271
-https://v-la.mybtv.net/live/271.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 272
-https://v-la.mybtv.net/live/272.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 274
-https://v-la.mybtv.net/live/274.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 275
-https://v-la.mybtv.net/live/275.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 276
-https://v-la.mybtv.net/live/276.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 279
-https://v-la.mybtv.net/live/279.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 280
-https://v-la.mybtv.net/live/280.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 281
-https://v-la.mybtv.net/live/281.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 286
-https://v-la.mybtv.net/live/286.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 288
-https://v-la.mybtv.net/live/288.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 289
-https://v-la.mybtv.net/live/289.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 290
-https://v-la.mybtv.net/live/290.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 291
-https://v-la.mybtv.net/live/291.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 298
-https://v-la.mybtv.net/live/298.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 299
-https://v-la.mybtv.net/live/299.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 300
-https://v-la.mybtv.net/live/300.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 535
-https://v-la.mybtv.net/live/535.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 540
-https://v-la.mybtv.net/live/540.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 544
-https://v-la.mybtv.net/live/544.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 722
-https://v-la.mybtv.net/live/722.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 723
-https://v-la.mybtv.net/live/723.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 724
-https://v-la.mybtv.net/live/724.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 732
-https://v-la.mybtv.net/live/732.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 736
-https://v-la.mybtv.net/live/736.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 742
-https://v-la.mybtv.net/live/742.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 743
-https://v-la.mybtv.net/live/743.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 755
-https://v-la.mybtv.net/live/755.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 756
-https://v-la.mybtv.net/live/756.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 869
-https://v-la.mybtv.net/live/869.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 927
-https://v-la.mybtv.net/live/927.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 958
-https://v-la.mybtv.net/live/958.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 959
-https://v-la.mybtv.net/live/959.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 960
-https://v-la.mybtv.net/live/960.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 964
-https://v-la.mybtv.net/live/964.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 965
-https://v-la.mybtv.net/live/965.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 966
-https://v-la.mybtv.net/live/966.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 974
-https://v-la.mybtv.net/live/974.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 975
-https://v-la.mybtv.net/live/975.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 976
-https://v-la.mybtv.net/live/976.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 978
-https://v-la.mybtv.net/live/978.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 983
-https://v-la.mybtv.net/live/983.m3u8
-#EXTINF:-1 group-title="Los Angeles",Los Angeles - 996
-https://v-la.mybtv.net/live/996.m3u8
-################# Las Vegas ####################
-#EXTINF:-1 group-title="Las Vegas",Las Vegas - 992
-https://v-lv.mybtv.net/live/992.m3u8
-################# San Francisco ####################
-#EXTINF:-1 group-title="San Francisco",San Francisco - 31
-https://v-ca.mybtv.net/live/31.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 118
-https://v-ca.mybtv.net/live/118.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 119
-https://v-ca.mybtv.net/live/119.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 120
-https://v-ca.mybtv.net/live/120.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 121
-https://v-ca.mybtv.net/live/121.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 124
-https://v-ca.mybtv.net/live/124.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 125
-https://v-ca.mybtv.net/live/125.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 126
-https://v-ca.mybtv.net/live/126.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 127
-https://v-ca.mybtv.net/live/127.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 128
-https://v-ca.mybtv.net/live/128.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 129
-https://v-ca.mybtv.net/live/129.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 130
-https://v-ca.mybtv.net/live/130.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 132
-https://v-ca.mybtv.net/live/132.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 134
-https://v-ca.mybtv.net/live/134.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 136
-https://v-ca.mybtv.net/live/136.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 137
-https://v-ca.mybtv.net/live/137.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 138
-https://v-ca.mybtv.net/live/138.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 139
-https://v-ca.mybtv.net/live/139.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 141
-https://v-ca.mybtv.net/live/141.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 143
-https://v-ca.mybtv.net/live/143.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 144
-https://v-ca.mybtv.net/live/144.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 146
-https://v-ca.mybtv.net/live/146.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 147
-https://v-ca.mybtv.net/live/147.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 148
-https://v-ca.mybtv.net/live/148.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 149
-https://v-ca.mybtv.net/live/149.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 150
-https://v-ca.mybtv.net/live/150.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 162
-https://v-ca.mybtv.net/live/162.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 163
-https://v-ca.mybtv.net/live/163.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 169
-https://v-ca.mybtv.net/live/169.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 170
-https://v-ca.mybtv.net/live/170.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 171
-https://v-ca.mybtv.net/live/171.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 173
-https://v-ca.mybtv.net/live/173.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 174
-https://v-ca.mybtv.net/live/174.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 175
-https://v-ca.mybtv.net/live/175.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 176
-https://v-ca.mybtv.net/live/176.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 184
-https://v-ca.mybtv.net/live/184.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 189
-https://v-ca.mybtv.net/live/189.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 191
-https://v-ca.mybtv.net/live/191.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 192
-https://v-ca.mybtv.net/live/192.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 193
-https://v-ca.mybtv.net/live/193.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 194
-https://v-ca.mybtv.net/live/194.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 195
-https://v-ca.mybtv.net/live/195.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 196
-https://v-ca.mybtv.net/live/196.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 210
-https://v-ca.mybtv.net/live/210.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 211
-https://v-ca.mybtv.net/live/211.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 212
-https://v-ca.mybtv.net/live/212.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 213
-https://v-ca.mybtv.net/live/213.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 214
-https://v-ca.mybtv.net/live/214.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 215
-https://v-ca.mybtv.net/live/215.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 216
-https://v-ca.mybtv.net/live/216.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 219
-https://v-ca.mybtv.net/live/219.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 221
-https://v-ca.mybtv.net/live/221.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 222
-https://v-ca.mybtv.net/live/222.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 223
-https://v-ca.mybtv.net/live/223.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 224
-https://v-ca.mybtv.net/live/224.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 228
-https://v-ca.mybtv.net/live/228.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 229
-https://v-ca.mybtv.net/live/229.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 230
-https://v-ca.mybtv.net/live/230.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 240
-https://v-ca.mybtv.net/live/240.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 241
-https://v-ca.mybtv.net/live/241.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 243
-https://v-ca.mybtv.net/live/243.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 246
-https://v-ca.mybtv.net/live/246.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 247
-https://v-ca.mybtv.net/live/247.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 306
-https://v-ca.mybtv.net/live/306.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 718
-https://v-ca.mybtv.net/live/718.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 719
-https://v-ca.mybtv.net/live/719.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 728
-https://v-ca.mybtv.net/live/728.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 729
-https://v-ca.mybtv.net/live/729.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 731
-https://v-ca.mybtv.net/live/731.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 735
-https://v-ca.mybtv.net/live/735.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 737
-https://v-ca.mybtv.net/live/737.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 739
-https://v-ca.mybtv.net/live/739.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 740
-https://v-ca.mybtv.net/live/740.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 741
-https://v-ca.mybtv.net/live/741.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 750
-https://v-ca.mybtv.net/live/750.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 752
-https://v-ca.mybtv.net/live/752.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 753
-https://v-ca.mybtv.net/live/753.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 754
-https://v-ca.mybtv.net/live/754.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 757
-https://v-ca.mybtv.net/live/757.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 758
-https://v-ca.mybtv.net/live/758.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 759
-https://v-ca.mybtv.net/live/759.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 763
-https://v-ca.mybtv.net/live/763.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 764
-https://v-ca.mybtv.net/live/764.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 767
-https://v-ca.mybtv.net/live/767.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 773
-https://v-ca.mybtv.net/live/773.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 836
-https://v-ca.mybtv.net/live/836.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 841
-https://v-ca.mybtv.net/live/841.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 855
-https://v-ca.mybtv.net/live/855.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 860
-https://v-ca.mybtv.net/live/860.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 861
-https://v-ca.mybtv.net/live/861.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 870
-https://v-ca.mybtv.net/live/870.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 871
-https://v-ca.mybtv.net/live/871.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 877
-https://v-ca.mybtv.net/live/877.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 931
-https://v-ca.mybtv.net/live/931.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 932
-https://v-ca.mybtv.net/live/932.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 933
-https://v-ca.mybtv.net/live/933.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 970
-https://v-ca.mybtv.net/live/970.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 971
-https://v-ca.mybtv.net/live/971.m3u8
-#EXTINF:-1 group-title="San Francisco",San Francisco - 993
-https://v-ca.mybtv.net/live/993.m3u8
-############### Indianapolis #################
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 777
-https://v-in.mybtv.net/live/777.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 779
-https://v-in.mybtv.net/live/779.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 781
-https://v-in.mybtv.net/live/781.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 785
-https://v-in.mybtv.net/live/785.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 787
-https://v-in.mybtv.net/live/787.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 791
-https://v-in.mybtv.net/live/791.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 808
-https://v-in.mybtv.net/live/808.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 818
-https://v-in.mybtv.net/live/818.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 819
-https://v-in.mybtv.net/live/819.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 824
-https://v-in.mybtv.net/live/824.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 828
-https://v-in.mybtv.net/live/828.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 833
-https://v-in.mybtv.net/live/833.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 834
-https://v-in.mybtv.net/live/834.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 835
-https://v-in.mybtv.net/live/835.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 853
-https://v-in.mybtv.net/live/853.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 879
-https://v-in.mybtv.net/live/879.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 923
-https://v-in.mybtv.net/live/923.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 929
-https://v-in.mybtv.net/live/929.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 956
-https://v-in.mybtv.net/live/956.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 972
-https://v-in.mybtv.net/live/972.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 977
-https://v-in.mybtv.net/live/977.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 989
-https://v-in.mybtv.net/live/989.m3u8
-#EXTINF:-1 group-title="Indianapolis",Indianapolis - 997
-https://v-in.mybtv.net/live/997.m3u8
-############ Phoenix ##################
-#EXTINF:-1 group-title="Phoenix",Phoenix - 2
-https://v-px.mybtv.net/live/2.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 3
-https://v-px.mybtv.net/live/3.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 4
-https://v-px.mybtv.net/live/4.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 5
-https://v-px.mybtv.net/live/5.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 6
-https://v-px.mybtv.net/live/6.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 7
-https://v-px.mybtv.net/live/7.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 8
-https://v-px.mybtv.net/live/8.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 9
-https://v-px.mybtv.net/live/9.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 10
-https://v-px.mybtv.net/live/10.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 12
-https://v-px.mybtv.net/live/12.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 13
-https://v-px.mybtv.net/live/13.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 14
-https://v-px.mybtv.net/live/14.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 15
-https://v-px.mybtv.net/live/15.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 16
-https://v-px.mybtv.net/live/16.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 17
-https://v-px.mybtv.net/live/17.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 18
-https://v-px.mybtv.net/live/18.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 19
-https://v-px.mybtv.net/live/19.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 20
-https://v-px.mybtv.net/live/20.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 21
-https://v-px.mybtv.net/live/21.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 25
-https://v-px.mybtv.net/live/25.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 26
-https://v-px.mybtv.net/live/26.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 27
-https://v-px.mybtv.net/live/27.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 28
-https://v-px.mybtv.net/live/28.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 32
-https://v-px.mybtv.net/live/32.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 33
-https://v-px.mybtv.net/live/33.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 34
-https://v-px.mybtv.net/live/34.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 35
-https://v-px.mybtv.net/live/35.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 36
-https://v-px.mybtv.net/live/36.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 37
-https://v-px.mybtv.net/live/37.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 39
-https://v-px.mybtv.net/live/39.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 41
-https://v-px.mybtv.net/live/41.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 44
-https://v-px.mybtv.net/live/44.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 45
-https://v-px.mybtv.net/live/45.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 46
-https://v-px.mybtv.net/live/46.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 47
-https://v-px.mybtv.net/live/47.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 48
-https://v-px.mybtv.net/live/48.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 49
-https://v-px.mybtv.net/live/49.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 50
-https://v-px.mybtv.net/live/50.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 51
-https://v-px.mybtv.net/live/51.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 53
-https://v-px.mybtv.net/live/53.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 54
-https://v-px.mybtv.net/live/54.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 55
-https://v-px.mybtv.net/live/55.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 56
-https://v-px.mybtv.net/live/56.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 58
-https://v-px.mybtv.net/live/58.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 59
-https://v-px.mybtv.net/live/59.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 152
-https://v-px.mybtv.net/live/152.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 153
-https://v-px.mybtv.net/live/153.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 154
-https://v-px.mybtv.net/live/154.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 155
-https://v-px.mybtv.net/live/155.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 156
-https://v-px.mybtv.net/live/156.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 159
-https://v-px.mybtv.net/live/159.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 160
-https://v-px.mybtv.net/live/160.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 186
-https://v-px.mybtv.net/live/186.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 197
-https://v-px.mybtv.net/live/197.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 199
-https://v-px.mybtv.net/live/199.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 200
-https://v-px.mybtv.net/live/200.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 201
-https://v-px.mybtv.net/live/201.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 202
-https://v-px.mybtv.net/live/202.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 203
-https://v-px.mybtv.net/live/203.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 204
-https://v-px.mybtv.net/live/204.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 205
-https://v-px.mybtv.net/live/205.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 208
-https://v-px.mybtv.net/live/208.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 234
-https://v-px.mybtv.net/live/234.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 236
-https://v-px.mybtv.net/live/236.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 252
-https://v-px.mybtv.net/live/252.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 428
-https://v-px.mybtv.net/live/428.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 542
-https://v-px.mybtv.net/live/542.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 725
-https://v-px.mybtv.net/live/725.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 726
-https://v-px.mybtv.net/live/726.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 730
-https://v-px.mybtv.net/live/730.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 734
-https://v-px.mybtv.net/live/734.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 769
-https://v-px.mybtv.net/live/769.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 770
-https://v-px.mybtv.net/live/770.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 774
-https://v-px.mybtv.net/live/774.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 837
-https://v-px.mybtv.net/live/837.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 844
-https://v-px.mybtv.net/live/844.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 854
-https://v-px.mybtv.net/live/854.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 864
-https://v-px.mybtv.net/live/864.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 876
-https://v-px.mybtv.net/live/876.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 878
-https://v-px.mybtv.net/live/878.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 928
-https://v-px.mybtv.net/live/928.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 930
-https://v-px.mybtv.net/live/930.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 939
-https://v-px.mybtv.net/live/939.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 957
-https://v-px.mybtv.net/live/957.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 990
-https://v-px.mybtv.net/live/990.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 991
-https://v-px.mybtv.net/live/991.m3u8
-#EXTINF:-1 group-title="Phoenix",Phoenix - 992
-https://v-px.mybtv.net/live/992.m3u8
-############ Fresno ####################
-#EXTINF:-1 group-title="Fresno",Fresno - 873
-https://v-fn.mybtv.net/live/873.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 884
-https://v-fn.mybtv.net/live/884.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 886
-https://v-fn.mybtv.net/live/886.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 887
-https://v-fn.mybtv.net/live/887.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 889
-https://v-fn.mybtv.net/live/889.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 891
-https://v-fn.mybtv.net/live/891.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 892
-https://v-fn.mybtv.net/live/892.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 893
-https://v-fn.mybtv.net/live/893.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 894
-https://v-fn.mybtv.net/live/894.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 895
-https://v-fn.mybtv.net/live/895.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 896
-https://v-fn.mybtv.net/live/896.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 897
-https://v-fn.mybtv.net/live/897.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 908
-https://v-fn.mybtv.net/live/908.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 910
-https://v-fn.mybtv.net/live/910.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 911
-https://v-fn.mybtv.net/live/911.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 916
-https://v-fn.mybtv.net/live/916.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 917
-https://v-fn.mybtv.net/live/917.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 943
-https://v-fn.mybtv.net/live/943.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 944
-https://v-fn.mybtv.net/live/944.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 945
-https://v-fn.mybtv.net/live/945.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 946
-https://v-fn.mybtv.net/live/946.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 947
-https://v-fn.mybtv.net/live/947.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 948
-https://v-fn.mybtv.net/live/948.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 949
-https://v-fn.mybtv.net/live/949.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 954
-https://v-fn.mybtv.net/live/954.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 962
-https://v-fn.mybtv.net/live/962.m3u8
-#EXTINF:-1 group-title="Fresno",Fresno - 969
-https://v-fn.mybtv.net/live/969.m3u8
 ################ Pluto TV ####################
 #EXTINF:-1 channel-id="pluto-51c75f7bb6f26ba1cd00002f" tvg-id="51c75f7bb6f26ba1cd00002f" tvg-chno="3145" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="Kids" , Little Stars Universe
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -3309,6 +2376,995 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=63&live=1&app_b
 https://f3445d6b0acf47dab6af7097fc57ce6d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PocketWatch/playlist.m3u8?ads.wurl_channel=272&ads.wurl_name=PocketWatch&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=VboNVkYF2GxcZHh6ggam&ads.plex_id=5f91c4ea96a391002df9a661&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.coppa=1&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58" tvg-id="5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58" tvg-logo="https://provider-static.plex.tv/epg/cms/production/16352e90-aeb9-4662-a0f2-e83dea1f7885/Stingray-Exitos-del-Momento_Logo_Darkrdx.png" , Éxitos del Momento
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=VboNVkYF2GxcZHh6ggam
+############ freq stream - localnow ############
+#EXTINF:-1 group-title="localnow",localnow - 10
+https://linear-10.frequency.stream/dist/localnow/10/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 11
+https://linear-11.frequency.stream/dist/localnow/11/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 12
+https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 33
+https://linear-33.frequency.stream/dist/localnow/33/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 36
+https://linear-36.frequency.stream/dist/localnow/36/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 37
+https://linear-37.frequency.stream/dist/localnow/37/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 38
+https://linear-38.frequency.stream/dist/localnow/38/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 39
+https://linear-39.frequency.stream/dist/localnow/39/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 43
+https://linear-43.frequency.stream/dist/localnow/43/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 44
+https://linear-44.frequency.stream/dist/localnow/44/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 46
+https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 49
+https://linear-49.frequency.stream/dist/localnow/49/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 59
+https://linear-59.frequency.stream/dist/localnow/59/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 64
+https://linear-64.frequency.stream/dist/localnow/64/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 72
+https://linear-72.frequency.stream/dist/localnow/72/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 73
+https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 76
+https://linear-76.frequency.stream/dist/localnow/76/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 78
+https://linear-78.frequency.stream/dist/localnow/78/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 80
+https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 81
+https://linear-81.frequency.stream/dist/localnow/81/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 82
+https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 83
+https://linear-83.frequency.stream/dist/localnow/83/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 84
+https://linear-84.frequency.stream/dist/localnow/84/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 89
+https://linear-89.frequency.stream/dist/localnow/89/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 90
+https://linear-90.frequency.stream/dist/localnow/90/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 91
+https://linear-91.frequency.stream/dist/localnow/91/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 92
+https://linear-92.frequency.stream/dist/localnow/92/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 93
+https://linear-93.frequency.stream/dist/localnow/93/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 94
+https://linear-94.frequency.stream/dist/localnow/94/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 95
+https://linear-95.frequency.stream/dist/localnow/95/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 96
+https://linear-96.frequency.stream/dist/localnow/96/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 97
+https://linear-97.frequency.stream/dist/localnow/97/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 98
+https://linear-98.frequency.stream/dist/localnow/98/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 99
+https://linear-99.frequency.stream/dist/localnow/99/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 100
+https://linear-100.frequency.stream/dist/localnow/100/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 102
+https://linear-102.frequency.stream/dist/localnow/102/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 103
+https://linear-103.frequency.stream/dist/localnow/103/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 105
+https://linear-105.frequency.stream/dist/localnow/105/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 106
+https://linear-106.frequency.stream/dist/localnow/106/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 107
+https://linear-107.frequency.stream/dist/localnow/107/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 108
+https://linear-108.frequency.stream/dist/localnow/108/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 109
+https://linear-109.frequency.stream/dist/localnow/109/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 110
+https://linear-110.frequency.stream/dist/localnow/110/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 111
+https://linear-111.frequency.stream/dist/localnow/111/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 112
+https://linear-112.frequency.stream/dist/localnow/112/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 113
+https://linear-113.frequency.stream/dist/localnow/113/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 114
+https://linear-114.frequency.stream/dist/localnow/114/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 115
+https://linear-115.frequency.stream/dist/localnow/115/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 116
+https://linear-116.frequency.stream/dist/localnow/116/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 117
+https://linear-117.frequency.stream/dist/localnow/117/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 119
+https://linear-119.frequency.stream/dist/localnow/119/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 120
+https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 121
+https://linear-121.frequency.stream/dist/localnow/121/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 122
+https://linear-122.frequency.stream/dist/localnow/122/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 123
+https://linear-123.frequency.stream/dist/localnow/123/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 124
+https://linear-124.frequency.stream/dist/localnow/124/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 125
+https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 126
+https://linear-126.frequency.stream/dist/localnow/126/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 128
+https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 133
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 135
+https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 136
+https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 137
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 138
+https://linear-138.frequency.stream/dist/localnow/138/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 141
+https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 142
+https://linear-142.frequency.stream/dist/localnow/142/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 143
+https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 144
+https://linear-144.frequency.stream/dist/localnow/144/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 146
+https://linear-146.frequency.stream/dist/localnow/146/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 148
+https://linear-148.frequency.stream/dist/localnow/148/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 152
+https://linear-152.frequency.stream/dist/localnow/152/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 164
+https://linear-164.frequency.stream/dist/localnow/164/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 165
+https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 173
+https://linear-173.frequency.stream/dist/localnow/173/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 174
+https://linear-174.frequency.stream/dist/localnow/174/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 175
+https://linear-175.frequency.stream/dist/localnow/175/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 176
+https://linear-176.frequency.stream/dist/localnow/176/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 178
+https://linear-178.frequency.stream/dist/localnow/178/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 179
+https://linear-179.frequency.stream/dist/localnow/179/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 181
+https://linear-181.frequency.stream/dist/localnow/181/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 186
+https://linear-186.frequency.stream/dist/localnow/186/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 188
+https://linear-188.frequency.stream/dist/localnow/188/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 190
+https://linear-190.frequency.stream/dist/localnow/190/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 192
+https://linear-192.frequency.stream/dist/localnow/192/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 193
+https://linear-193.frequency.stream/dist/localnow/193/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 194
+https://linear-194.frequency.stream/dist/localnow/194/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 195
+https://linear-195.frequency.stream/dist/localnow/195/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 196
+https://linear-196.frequency.stream/dist/localnow/196/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 197
+https://linear-197.frequency.stream/dist/localnow/197/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 198
+https://linear-198.frequency.stream/dist/localnow/198/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 199
+https://linear-199.frequency.stream/dist/localnow/199/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 200
+https://linear-200.frequency.stream/dist/localnow/200/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 205
+https://linear-205.frequency.stream/dist/localnow/205/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 207
+https://linear-207.frequency.stream/dist/localnow/207/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 208
+https://linear-208.frequency.stream/dist/localnow/208/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 212
+https://linear-212.frequency.stream/dist/localnow/212/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 213
+https://linear-213.frequency.stream/dist/localnow/213/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 219
+https://linear-219.frequency.stream/dist/localnow/219/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 220
+https://linear-220.frequency.stream/dist/localnow/220/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 221
+https://linear-221.frequency.stream/dist/localnow/221/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 222
+https://linear-222.frequency.stream/dist/localnow/222/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 223
+https://linear-223.frequency.stream/dist/localnow/223/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 225
+https://linear-225.frequency.stream/dist/localnow/225/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 227
+https://linear-227.frequency.stream/dist/localnow/227/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 235
+https://linear-235.frequency.stream/dist/localnow/235/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 236
+https://linear-236.frequency.stream/dist/localnow/236/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 240
+https://linear-240.frequency.stream/dist/localnow/240/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 243
+https://linear-243.frequency.stream/dist/localnow/243/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 244
+https://linear-244.frequency.stream/dist/localnow/244/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 246
+https://linear-246.frequency.stream/dist/localnow/246/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 249
+https://linear-249.frequency.stream/dist/localnow/249/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 251
+https://linear-251.frequency.stream/dist/localnow/251/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 252
+https://linear-252.frequency.stream/dist/localnow/252/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 253
+https://linear-253.frequency.stream/dist/localnow/253/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 272
+https://linear-272.frequency.stream/dist/localnow/272/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 274
+https://linear-274.frequency.stream/dist/localnow/274/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 278
+https://linear-278.frequency.stream/dist/localnow/278/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 279
+https://linear-279.frequency.stream/dist/localnow/279/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 280
+https://linear-280.frequency.stream/dist/localnow/280/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 281
+https://linear-281.frequency.stream/dist/localnow/281/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 282
+https://linear-282.frequency.stream/dist/localnow/282/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 283
+https://linear-283.frequency.stream/dist/localnow/283/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 285
+https://linear-285.frequency.stream/dist/localnow/285/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 287
+https://linear-287.frequency.stream/dist/localnow/287/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 290
+https://linear-290.frequency.stream/dist/localnow/290/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 291
+https://linear-291.frequency.stream/dist/localnow/291/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 293
+https://linear-293.frequency.stream/dist/localnow/293/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 298
+https://linear-298.frequency.stream/dist/localnow/298/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 301
+https://linear-301.frequency.stream/dist/localnow/301/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 304
+https://linear-304.frequency.stream/dist/localnow/304/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 305
+https://linear-305.frequency.stream/dist/localnow/305/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 306
+https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 307
+https://linear-307.frequency.stream/dist/localnow/307/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 308
+https://linear-308.frequency.stream/dist/localnow/308/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 309
+https://linear-309.frequency.stream/dist/localnow/309/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 311
+https://linear-311.frequency.stream/dist/localnow/311/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 312
+https://linear-312.frequency.stream/dist/localnow/312/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 313
+https://linear-313.frequency.stream/dist/localnow/313/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 314
+https://linear-314.frequency.stream/dist/localnow/314/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 315
+https://linear-315.frequency.stream/dist/localnow/315/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 316
+https://linear-316.frequency.stream/dist/localnow/316/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 317
+https://linear-317.frequency.stream/dist/localnow/317/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 319
+https://linear-319.frequency.stream/dist/localnow/319/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 321
+https://linear-321.frequency.stream/dist/localnow/321/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 323
+https://linear-323.frequency.stream/dist/localnow/323/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 325
+https://linear-325.frequency.stream/dist/localnow/325/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 327
+https://linear-327.frequency.stream/dist/localnow/327/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 328
+https://linear-328.frequency.stream/dist/localnow/328/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 330
+https://linear-330.frequency.stream/dist/localnow/330/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 334
+https://linear-334.frequency.stream/dist/localnow/334/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 335
+https://linear-335.frequency.stream/dist/localnow/335/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 337
+https://linear-337.frequency.stream/dist/localnow/337/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 338
+https://linear-338.frequency.stream/dist/localnow/338/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 340
+https://linear-340.frequency.stream/dist/localnow/340/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 341
+https://linear-341.frequency.stream/dist/localnow/341/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 342
+https://linear-342.frequency.stream/dist/localnow/342/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 343
+https://linear-343.frequency.stream/dist/localnow/343/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 346
+https://linear-346.frequency.stream/dist/localnow/346/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 355
+https://linear-355.frequency.stream/dist/localnow/355/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 388
+https://linear-388.frequency.stream/dist/localnow/388/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 389
+https://linear-389.frequency.stream/dist/localnow/389/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 392
+https://linear-392.frequency.stream/dist/localnow/392/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 408
+https://linear-408.frequency.stream/dist/localnow/408/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 416
+https://linear-416.frequency.stream/dist/localnow/416/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 426
+https://linear-426.frequency.stream/dist/localnow/426/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 429
+https://linear-429.frequency.stream/dist/localnow/429/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 430
+https://linear-430.frequency.stream/dist/localnow/430/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 431
+https://linear-431.frequency.stream/dist/localnow/431/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 432
+https://linear-432.frequency.stream/dist/localnow/432/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 433
+https://linear-433.frequency.stream/dist/localnow/433/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 434
+https://linear-434.frequency.stream/dist/localnow/434/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 436
+https://linear-436.frequency.stream/dist/localnow/436/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 439
+https://linear-439.frequency.stream/dist/localnow/439/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 447
+https://linear-447.frequency.stream/dist/localnow/447/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 448
+https://linear-448.frequency.stream/dist/localnow/448/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 450
+https://linear-450.frequency.stream/dist/localnow/450/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 451
+https://linear-451.frequency.stream/dist/localnow/451/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 452
+https://linear-452.frequency.stream/dist/localnow/452/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 453
+https://linear-453.frequency.stream/dist/localnow/453/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 454
+https://linear-454.frequency.stream/dist/localnow/454/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 455
+https://linear-455.frequency.stream/dist/localnow/455/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 456
+https://linear-456.frequency.stream/dist/localnow/456/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 458
+https://linear-458.frequency.stream/dist/localnow/458/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 459
+https://linear-459.frequency.stream/dist/localnow/459/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 460
+https://linear-460.frequency.stream/dist/localnow/460/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 461
+https://linear-461.frequency.stream/dist/localnow/461/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 462
+https://linear-462.frequency.stream/dist/localnow/462/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 463
+https://linear-463.frequency.stream/dist/localnow/463/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 464
+https://linear-464.frequency.stream/dist/localnow/464/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 465
+https://linear-465.frequency.stream/dist/localnow/465/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 466
+https://linear-466.frequency.stream/dist/localnow/466/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 467
+https://linear-467.frequency.stream/dist/localnow/467/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 468
+https://linear-468.frequency.stream/dist/localnow/468/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 473
+https://linear-473.frequency.stream/dist/localnow/473/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 475
+https://linear-475.frequency.stream/dist/localnow/475/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 477
+https://linear-477.frequency.stream/dist/localnow/477/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 478
+https://linear-478.frequency.stream/dist/localnow/478/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 479
+https://linear-479.frequency.stream/dist/localnow/479/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 480
+https://linear-480.frequency.stream/dist/localnow/480/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 481
+https://linear-481.frequency.stream/dist/localnow/481/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 482
+https://linear-482.frequency.stream/dist/localnow/482/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 483
+https://linear-483.frequency.stream/dist/localnow/483/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 484
+https://linear-484.frequency.stream/dist/localnow/484/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 487
+https://linear-487.frequency.stream/dist/localnow/487/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 492
+https://linear-492.frequency.stream/dist/localnow/492/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 493
+https://linear-493.frequency.stream/dist/localnow/493/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 494
+https://linear-494.frequency.stream/dist/localnow/494/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 495
+https://linear-495.frequency.stream/dist/localnow/495/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 496
+https://linear-496.frequency.stream/dist/localnow/496/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 497
+https://linear-497.frequency.stream/dist/localnow/497/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 502
+https://linear-502.frequency.stream/dist/localnow/502/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 503
+https://linear-503.frequency.stream/dist/localnow/503/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 519
+https://linear-519.frequency.stream/dist/localnow/519/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="localnow",localnow - 539
+https://linear-539.frequency.stream/dist/localnow/539/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 37
+https://linear-37.frequency.stream/dist/plex/37/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 38
+https://linear-38.frequency.stream/dist/plex/38/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 39
+https://linear-39.frequency.stream/dist/plex/39/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 49
+https://linear-49.frequency.stream/dist/plex/49/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 64
+https://linear-64.frequency.stream/dist/plex/64/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 72
+https://linear-72.frequency.stream/dist/plex/72/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 73
+https://linear-73.frequency.stream/dist/plex/73/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 78
+https://linear-78.frequency.stream/dist/plex/78/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 81
+https://linear-81.frequency.stream/dist/plex/81/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 82
+https://linear-82.frequency.stream/dist/plex/82/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 89
+https://linear-89.frequency.stream/dist/plex/89/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 90
+https://linear-90.frequency.stream/dist/plex/90/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 91
+https://linear-91.frequency.stream/dist/plex/91/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 119
+https://linear-119.frequency.stream/dist/plex/119/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 120
+https://linear-120.frequency.stream/dist/plex/120/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 121
+https://linear-121.frequency.stream/dist/plex/121/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 122
+https://linear-122.frequency.stream/dist/plex/122/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 123
+https://linear-123.frequency.stream/dist/plex/123/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 125
+https://linear-125.frequency.stream/dist/plex/125/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 126
+https://linear-126.frequency.stream/dist/plex/126/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 128
+https://linear-128.frequency.stream/dist/plex/128/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 133
+https://linear-133.frequency.stream/dist/plex/133/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 135
+https://linear-135.frequency.stream/dist/plex/135/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 136
+https://linear-136.frequency.stream/dist/plex/136/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 137
+https://linear-137.frequency.stream/dist/plex/137/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 138
+https://linear-138.frequency.stream/dist/plex/138/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 141
+https://linear-141.frequency.stream/dist/plex/141/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 142
+https://linear-142.frequency.stream/dist/plex/142/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 143
+https://linear-143.frequency.stream/dist/plex/143/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 144
+https://linear-144.frequency.stream/dist/plex/144/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 146
+https://linear-146.frequency.stream/dist/plex/146/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 148
+https://linear-148.frequency.stream/dist/plex/148/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 152
+https://linear-152.frequency.stream/dist/plex/152/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 164
+https://linear-164.frequency.stream/dist/plex/164/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 165
+https://linear-165.frequency.stream/dist/plex/165/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 173
+https://linear-173.frequency.stream/dist/plex/173/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 174
+https://linear-174.frequency.stream/dist/plex/174/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 175
+https://linear-175.frequency.stream/dist/plex/175/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 176
+https://linear-176.frequency.stream/dist/plex/176/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 178
+https://linear-178.frequency.stream/dist/plex/178/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 179
+https://linear-179.frequency.stream/dist/plex/179/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 181
+https://linear-181.frequency.stream/dist/plex/181/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 186
+https://linear-186.frequency.stream/dist/plex/186/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 190
+https://linear-190.frequency.stream/dist/plex/190/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 192
+https://linear-192.frequency.stream/dist/plex/192/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 193
+https://linear-193.frequency.stream/dist/plex/193/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 194
+https://linear-194.frequency.stream/dist/plex/194/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 195
+https://linear-195.frequency.stream/dist/plex/195/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 196
+https://linear-196.frequency.stream/dist/plex/196/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 197
+https://linear-197.frequency.stream/dist/plex/197/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 198
+https://linear-198.frequency.stream/dist/plex/198/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 199
+https://linear-199.frequency.stream/dist/plex/199/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 207
+https://linear-207.frequency.stream/dist/plex/207/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 208
+https://linear-208.frequency.stream/dist/plex/208/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 212
+https://linear-212.frequency.stream/dist/plex/212/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 213
+https://linear-213.frequency.stream/dist/plex/213/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 219
+https://linear-219.frequency.stream/dist/plex/219/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 220
+https://linear-220.frequency.stream/dist/plex/220/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 221
+https://linear-221.frequency.stream/dist/plex/221/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 222
+https://linear-222.frequency.stream/dist/plex/222/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 223
+https://linear-223.frequency.stream/dist/plex/223/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 225
+https://linear-225.frequency.stream/dist/plex/225/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 227
+https://linear-227.frequency.stream/dist/plex/227/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 236
+https://linear-236.frequency.stream/dist/plex/236/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 240
+https://linear-240.frequency.stream/dist/plex/240/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 243
+https://linear-243.frequency.stream/dist/plex/243/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 244
+https://linear-244.frequency.stream/dist/plex/244/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 246
+https://linear-246.frequency.stream/dist/plex/246/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 249
+https://linear-249.frequency.stream/dist/plex/249/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 251
+https://linear-251.frequency.stream/dist/plex/251/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 272
+https://linear-272.frequency.stream/dist/plex/272/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 274
+https://linear-274.frequency.stream/dist/plex/274/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 279
+https://linear-279.frequency.stream/dist/plex/279/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 280
+https://linear-280.frequency.stream/dist/plex/280/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 282
+https://linear-282.frequency.stream/dist/plex/282/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 283
+https://linear-283.frequency.stream/dist/plex/283/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 285
+https://linear-285.frequency.stream/dist/plex/285/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 287
+https://linear-287.frequency.stream/dist/plex/287/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 290
+https://linear-290.frequency.stream/dist/plex/290/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 301
+https://linear-301.frequency.stream/dist/plex/301/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 330
+https://linear-330.frequency.stream/dist/plex/330/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 426
+https://linear-426.frequency.stream/dist/plex/426/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 453
+https://linear-453.frequency.stream/dist/plex/453/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 458
+https://linear-458.frequency.stream/dist/plex/458/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 475
+https://linear-475.frequency.stream/dist/plex/475/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 477
+https://linear-477.frequency.stream/dist/plex/477/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 497
+https://linear-497.frequency.stream/dist/plex/497/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="plex",plex - 502
+https://linear-502.frequency.stream/dist/plex/502/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 10
+https://linear-10.frequency.stream/dist/roku/10/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 33
+https://linear-33.frequency.stream/dist/roku/33/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 36
+https://linear-36.frequency.stream/dist/roku/36/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 37
+https://linear-37.frequency.stream/dist/roku/37/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 38
+https://linear-38.frequency.stream/dist/roku/38/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 39
+https://linear-39.frequency.stream/dist/roku/39/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 43
+https://linear-43.frequency.stream/dist/roku/43/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 44
+https://linear-44.frequency.stream/dist/roku/44/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 49
+https://linear-49.frequency.stream/dist/roku/49/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 64
+https://linear-64.frequency.stream/dist/roku/64/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 72
+https://linear-72.frequency.stream/dist/roku/72/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 73
+https://linear-73.frequency.stream/dist/roku/73/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 76
+https://linear-76.frequency.stream/dist/roku/76/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 80
+https://linear-80.frequency.stream/dist/roku/80/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 81
+https://linear-81.frequency.stream/dist/roku/81/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 82
+https://linear-82.frequency.stream/dist/roku/82/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 83
+https://linear-83.frequency.stream/dist/roku/83/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 84
+https://linear-84.frequency.stream/dist/roku/84/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 89
+https://linear-89.frequency.stream/dist/roku/89/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 90
+https://linear-90.frequency.stream/dist/roku/90/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 91
+https://linear-91.frequency.stream/dist/roku/91/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 92
+https://linear-92.frequency.stream/dist/roku/92/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 93
+https://linear-93.frequency.stream/dist/roku/93/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 94
+https://linear-94.frequency.stream/dist/roku/94/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 95
+https://linear-95.frequency.stream/dist/roku/95/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 96
+https://linear-96.frequency.stream/dist/roku/96/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 97
+https://linear-97.frequency.stream/dist/roku/97/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 98
+https://linear-98.frequency.stream/dist/roku/98/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 99
+https://linear-99.frequency.stream/dist/roku/99/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 102
+https://linear-102.frequency.stream/dist/roku/102/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 103
+https://linear-103.frequency.stream/dist/roku/103/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 105
+https://linear-105.frequency.stream/dist/roku/105/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 106
+https://linear-106.frequency.stream/dist/roku/106/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 107
+https://linear-107.frequency.stream/dist/roku/107/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 108
+https://linear-108.frequency.stream/dist/roku/108/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 109
+https://linear-109.frequency.stream/dist/roku/109/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 110
+https://linear-110.frequency.stream/dist/roku/110/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 111
+https://linear-111.frequency.stream/dist/roku/111/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 112
+https://linear-112.frequency.stream/dist/roku/112/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 113
+https://linear-113.frequency.stream/dist/roku/113/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 114
+https://linear-114.frequency.stream/dist/roku/114/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 115
+https://linear-115.frequency.stream/dist/roku/115/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 116
+https://linear-116.frequency.stream/dist/roku/116/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 117
+https://linear-117.frequency.stream/dist/roku/117/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 119
+https://linear-119.frequency.stream/dist/roku/119/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 120
+https://linear-120.frequency.stream/dist/roku/120/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 121
+https://linear-121.frequency.stream/dist/roku/121/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 122
+https://linear-122.frequency.stream/dist/roku/122/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 123
+https://linear-123.frequency.stream/dist/roku/123/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 124
+https://linear-124.frequency.stream/dist/roku/124/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 125
+https://linear-125.frequency.stream/dist/roku/125/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 126
+https://linear-126.frequency.stream/dist/roku/126/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 128
+https://linear-128.frequency.stream/dist/roku/128/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 133
+https://linear-133.frequency.stream/dist/roku/133/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 135
+https://linear-135.frequency.stream/dist/roku/135/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 136
+https://linear-136.frequency.stream/dist/roku/136/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 137
+https://linear-137.frequency.stream/dist/roku/137/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 138
+https://linear-138.frequency.stream/dist/roku/138/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 141
+https://linear-141.frequency.stream/dist/roku/141/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 142
+https://linear-142.frequency.stream/dist/roku/142/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 143
+https://linear-143.frequency.stream/dist/roku/143/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 144
+https://linear-144.frequency.stream/dist/roku/144/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 146
+https://linear-146.frequency.stream/dist/roku/146/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 148
+https://linear-148.frequency.stream/dist/roku/148/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 152
+https://linear-152.frequency.stream/dist/roku/152/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 164
+https://linear-164.frequency.stream/dist/roku/164/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 165
+https://linear-165.frequency.stream/dist/roku/165/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 173
+https://linear-173.frequency.stream/dist/roku/173/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 174
+https://linear-174.frequency.stream/dist/roku/174/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 175
+https://linear-175.frequency.stream/dist/roku/175/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 176
+https://linear-176.frequency.stream/dist/roku/176/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 178
+https://linear-178.frequency.stream/dist/roku/178/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 179
+https://linear-179.frequency.stream/dist/roku/179/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 181
+https://linear-181.frequency.stream/dist/roku/181/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 186
+https://linear-186.frequency.stream/dist/roku/186/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 188
+https://linear-188.frequency.stream/dist/roku/188/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 197
+https://linear-197.frequency.stream/dist/roku/197/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 198
+https://linear-198.frequency.stream/dist/roku/198/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 199
+https://linear-199.frequency.stream/dist/roku/199/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 200
+https://linear-200.frequency.stream/dist/roku/200/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 205
+https://linear-205.frequency.stream/dist/roku/205/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 207
+https://linear-207.frequency.stream/dist/roku/207/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 208
+https://linear-208.frequency.stream/dist/roku/208/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 212
+https://linear-212.frequency.stream/dist/roku/212/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 213
+https://linear-213.frequency.stream/dist/roku/213/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 219
+https://linear-219.frequency.stream/dist/roku/219/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 220
+https://linear-220.frequency.stream/dist/roku/220/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 221
+https://linear-221.frequency.stream/dist/roku/221/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 222
+https://linear-222.frequency.stream/dist/roku/222/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 223
+https://linear-223.frequency.stream/dist/roku/223/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 225
+https://linear-225.frequency.stream/dist/roku/225/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 227
+https://linear-227.frequency.stream/dist/roku/227/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 235
+https://linear-235.frequency.stream/dist/roku/235/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 236
+https://linear-236.frequency.stream/dist/roku/236/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 240
+https://linear-240.frequency.stream/dist/roku/240/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 244
+https://linear-244.frequency.stream/dist/roku/244/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 246
+https://linear-246.frequency.stream/dist/roku/246/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 249
+https://linear-249.frequency.stream/dist/roku/249/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 251
+https://linear-251.frequency.stream/dist/roku/251/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 252
+https://linear-252.frequency.stream/dist/roku/252/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 272
+https://linear-272.frequency.stream/dist/roku/272/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 274
+https://linear-274.frequency.stream/dist/roku/274/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 279
+https://linear-279.frequency.stream/dist/roku/279/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 280
+https://linear-280.frequency.stream/dist/roku/280/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 281
+https://linear-281.frequency.stream/dist/roku/281/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 282
+https://linear-282.frequency.stream/dist/roku/282/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 283
+https://linear-283.frequency.stream/dist/roku/283/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 285
+https://linear-285.frequency.stream/dist/roku/285/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 287
+https://linear-287.frequency.stream/dist/roku/287/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 290
+https://linear-290.frequency.stream/dist/roku/290/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 291
+https://linear-291.frequency.stream/dist/roku/291/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 293
+https://linear-293.frequency.stream/dist/roku/293/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 298
+https://linear-298.frequency.stream/dist/roku/298/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 301
+https://linear-301.frequency.stream/dist/roku/301/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 304
+https://linear-304.frequency.stream/dist/roku/304/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 305
+https://linear-305.frequency.stream/dist/roku/305/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 306
+https://linear-306.frequency.stream/dist/roku/306/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 307
+https://linear-307.frequency.stream/dist/roku/307/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 308
+https://linear-308.frequency.stream/dist/roku/308/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 309
+https://linear-309.frequency.stream/dist/roku/309/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 311
+https://linear-311.frequency.stream/dist/roku/311/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 312
+https://linear-312.frequency.stream/dist/roku/312/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 313
+https://linear-313.frequency.stream/dist/roku/313/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 314
+https://linear-314.frequency.stream/dist/roku/314/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 315
+https://linear-315.frequency.stream/dist/roku/315/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 316
+https://linear-316.frequency.stream/dist/roku/316/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 317
+https://linear-317.frequency.stream/dist/roku/317/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 319
+https://linear-319.frequency.stream/dist/roku/319/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 321
+https://linear-321.frequency.stream/dist/roku/321/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 323
+https://linear-323.frequency.stream/dist/roku/323/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 325
+https://linear-325.frequency.stream/dist/roku/325/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 327
+https://linear-327.frequency.stream/dist/roku/327/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 328
+https://linear-328.frequency.stream/dist/roku/328/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 330
+https://linear-330.frequency.stream/dist/roku/330/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 334
+https://linear-334.frequency.stream/dist/roku/334/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 335
+https://linear-335.frequency.stream/dist/roku/335/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 337
+https://linear-337.frequency.stream/dist/roku/337/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 338
+https://linear-338.frequency.stream/dist/roku/338/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 340
+https://linear-340.frequency.stream/dist/roku/340/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 341
+https://linear-341.frequency.stream/dist/roku/341/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 342
+https://linear-342.frequency.stream/dist/roku/342/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 343
+https://linear-343.frequency.stream/dist/roku/343/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 346
+https://linear-346.frequency.stream/dist/roku/346/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 355
+https://linear-355.frequency.stream/dist/roku/355/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 388
+https://linear-388.frequency.stream/dist/roku/388/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 389
+https://linear-389.frequency.stream/dist/roku/389/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 392
+https://linear-392.frequency.stream/dist/roku/392/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 408
+https://linear-408.frequency.stream/dist/roku/408/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 416
+https://linear-416.frequency.stream/dist/roku/416/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 426
+https://linear-426.frequency.stream/dist/roku/426/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 429
+https://linear-429.frequency.stream/dist/roku/429/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 430
+https://linear-430.frequency.stream/dist/roku/430/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 432
+https://linear-432.frequency.stream/dist/roku/432/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 433
+https://linear-433.frequency.stream/dist/roku/433/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 434
+https://linear-434.frequency.stream/dist/roku/434/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 436
+https://linear-436.frequency.stream/dist/roku/436/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 439
+https://linear-439.frequency.stream/dist/roku/439/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 447
+https://linear-447.frequency.stream/dist/roku/447/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 448
+https://linear-448.frequency.stream/dist/roku/448/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 450
+https://linear-450.frequency.stream/dist/roku/450/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 451
+https://linear-451.frequency.stream/dist/roku/451/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 452
+https://linear-452.frequency.stream/dist/roku/452/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 454
+https://linear-454.frequency.stream/dist/roku/454/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 455
+https://linear-455.frequency.stream/dist/roku/455/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 456
+https://linear-456.frequency.stream/dist/roku/456/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 458
+https://linear-458.frequency.stream/dist/roku/458/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 459
+https://linear-459.frequency.stream/dist/roku/459/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 460
+https://linear-460.frequency.stream/dist/roku/460/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 461
+https://linear-461.frequency.stream/dist/roku/461/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 462
+https://linear-462.frequency.stream/dist/roku/462/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 463
+https://linear-463.frequency.stream/dist/roku/463/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 464
+https://linear-464.frequency.stream/dist/roku/464/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 465
+https://linear-465.frequency.stream/dist/roku/465/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 466
+https://linear-466.frequency.stream/dist/roku/466/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 467
+https://linear-467.frequency.stream/dist/roku/467/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 468
+https://linear-468.frequency.stream/dist/roku/468/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 473
+https://linear-473.frequency.stream/dist/roku/473/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 475
+https://linear-475.frequency.stream/dist/roku/475/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 477
+https://linear-477.frequency.stream/dist/roku/477/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 478
+https://linear-478.frequency.stream/dist/roku/478/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 479
+https://linear-479.frequency.stream/dist/roku/479/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 480
+https://linear-480.frequency.stream/dist/roku/480/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 481
+https://linear-481.frequency.stream/dist/roku/481/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 482
+https://linear-482.frequency.stream/dist/roku/482/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 483
+https://linear-483.frequency.stream/dist/roku/483/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 484
+https://linear-484.frequency.stream/dist/roku/484/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 487
+https://linear-487.frequency.stream/dist/roku/487/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 493
+https://linear-493.frequency.stream/dist/roku/493/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 494
+https://linear-494.frequency.stream/dist/roku/494/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 495
+https://linear-495.frequency.stream/dist/roku/495/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 496
+https://linear-496.frequency.stream/dist/roku/496/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="roku",roku - 497
+https://linear-497.frequency.stream/dist/roku/497/hls/master/playlist.m3u8
 ################################################
 #EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Ukraine",1+1 (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ/live
