@@ -379,6 +379,49 @@ http://176.9.123.140:1935/messinia/messinia/master.m3u8
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-id="Choice.gr" tvg-logo="https://i.imgur.com/m7gb941.png" group-title="Greek Music",Choice (956p) [Not 24/7]
 https://vod.streams.ovh:3528/stream/play.m3u8
+############# MyBTV ###############
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90002
+https://live.mybtv.net/mt/channel/ca-prd-90002/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90003
+https://live.mybtv.net/mt/channel/ca-prd-90003/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90004
+https://live.mybtv.net/mt/channel/ca-prd-90004/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90005
+https://live.mybtv.net/mt/channel/ca-prd-90005/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90006
+https://live.mybtv.net/mt/channel/ca-prd-90006/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90007
+https://live.mybtv.net/mt/channel/ca-prd-90007/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90008
+https://live.mybtv.net/mt/channel/ca-prd-90008/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90009
+https://live.mybtv.net/mt/channel/ca-prd-90009/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90010
+https://live.mybtv.net/mt/channel/ca-prd-90010/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90011
+https://live.mybtv.net/mt/channel/ca-prd-90011/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90012
+https://live.mybtv.net/mt/channel/ca-prd-90012/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90013
+https://live.mybtv.net/mt/channel/ca-prd-90013/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90014
+https://live.mybtv.net/mt/channel/ca-prd-90014/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90015
+https://live.mybtv.net/mt/channel/ca-prd-90015/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90016
+https://live.mybtv.net/mt/channel/ca-prd-90016/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90017
+https://live.mybtv.net/mt/channel/ca-prd-90017/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90018
+https://live.mybtv.net/mt/channel/ca-prd-90018/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90019
+https://live.mybtv.net/mt/channel/ca-prd-90019/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90020
+https://live.mybtv.net/mt/channel/ca-prd-90020/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90021
+https://live.mybtv.net/mt/channel/ca-prd-90021/index.m3u8
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90022
+https://live.mybtv.net/mt/channel/ca-prd-90022/index.m3u8
 ################ Pluto TV ####################
 #EXTINF:-1 channel-id="pluto-51c75f7bb6f26ba1cd00002f" tvg-id="51c75f7bb6f26ba1cd00002f" tvg-chno="3145" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="Kids" , Little Stars Universe
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
