@@ -2,14 +2,18 @@
 ############# News ##############
 #EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CBS_News_New_York.svg" group-title="News",CBS News New York
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="News",Fox (WNYW)
+#EXTINF:-1 tvg-name="NBC News" tvg-logo="https://i.imgur.com/v48mMRT.png" tvg-id="NBCNewsNow.us" group-title="News",NBC News
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="News",Fox 5 New York (WNYW)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/7sJLzKi.png" tvg-id="ABCNews.us" group-title="News",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/News_12_Networks_2019.svg" group-title="News",News 12 New York
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-News12.m3u8
 #EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png" group-title="News",CNN International Germany (720p)
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg" group-title="News",CNN
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MSNBC_2021.svg" group-title="News",MSNBC
-https://cdn-ks1-na.lncnetworks.host/hls/msnbc_live/index.m3u8
 ########## Documentary ##########
 #EXTINF:-1 channel-id="pluto-5a4d35dfa5c02e717a234f86" tvg-id="5a4d35dfa5c02e717a234f86" tvg-chno="1775" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="Lifestyle + Culture", Pluto TV History
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -380,6 +384,8 @@ https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-id="Choice.gr" tvg-logo="https://i.imgur.com/m7gb941.png" group-title="Greek Music",Choice (956p) [Not 24/7]
 https://vod.streams.ovh:3528/stream/play.m3u8
 ############# MyBTV ###############
+#EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 2025
+https://live.mybtv.net/mt/channel/ca-prd-2025/index.m3u8
 #EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90002
 https://live.mybtv.net/mt/channel/ca-prd-90002/index.m3u8
 #EXTINF:-1 group-title="MyBTV San Francisco",MyBTV San Francisco - 90003
@@ -7061,6 +7067,1371 @@ https://linear-495.frequency.stream/dist/roku/495/hls/master/playlist.m3u8
 https://linear-496.frequency.stream/dist/roku/496/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="roku",roku - 497
 https://linear-497.frequency.stream/dist/roku/497/hls/master/playlist.m3u8
+############ Tubi #############
+#EXTINF:-1 group-title="Tubi News",ABC News Live
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,ABC-News.m3u8
+#EXTINF:-1 group-title="Tubi News",NBC News NOW
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NBC-SCTE.m3u8
+#EXTINF:-1 group-title="Tubi News",Live Now From Fox
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Live-Now.m3u8
+#EXTINF:-1 group-title="Tubi",ABC Localish
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Localish.m3u8
+#EXTINF:-1 group-title="Tubi",Today All day
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Today.m3u8
+#EXTINF:-1 group-title="Tubi",USA Today
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-USA-Today.m3u8
+#EXTINF:-1 group-title="Tubi News",Cheddar News
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Cheddar.m3u8
+#EXTINF:-1 group-title="Tubi",The Grio
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BNC.m3u8
+#EXTINF:-1 group-title="Tubi News",Scripps News
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Scripps-News.m3u8
+#EXTINF:-1 group-title="Tubi",Estrella News
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Estrella.m3u8
+#EXTINF:-1 group-title="Tubi",Bloomberg TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8
+#EXTINF:-1 group-title="Tubi",Bloomberg Quicktake
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Quicktake-Relative.m3u8
+#EXTINF:-1 group-title="Tubi News",CBC News Canada
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-CBC.m3u8
+#EXTINF:-1 group-title="Tubi News",Euronews
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Euronews.m3u8
+#EXTINF:-1 group-title="Tubi Weather",Fox Weather
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Weather.m3u8
+#EXTINF:-1 group-title="Tubi Weather",WeatherNation
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8
+#EXTINF:-1 group-title="Tubi",Pattrn
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8
+#EXTINF:-1 group-title="Tubi",TMZ
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,TMZ.m3u8
+#EXTINF:-1 group-title="Tubi",Fox Soul
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Soul-SCTE.m3u8
+#EXTINF:-1 group-title="Tubi",People TV
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-People-TV.m3u8
+#EXTINF:-1 group-title="Tubi",Tubi Originals
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Tubi-Originals.m3u8
+#EXTINF:-1 group-title="Tubi",Gordon Ramsey
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Gordon-Ramsey.m3u8
+#EXTINF:-1 group-title="Tubi",The Masked Singer
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Masked-Singer.m3u8
+#EXTINF:-1 group-title="Tubi",Cosmos
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cosmos.m3u8
+#EXTINF:-1 group-title="Tubi",The Jack Hanna Channel
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Jack-Hannah.m3u8
+#EXTINF:-1 group-title="Tubi",Xplore
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Xplore.m3u8
+#EXTINF:-1 group-title="Tubi",Total Crime
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Total-Crime.m3u8
+#EXTINF:-1 group-title="Tubi",Love Nature
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Love-Nature.m3u8
+#EXTINF:-1group-title="Tubi",Homeful
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Homeful.m3u8
+#EXTINF:-1 group-title="Tubi",Haunt TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,HauntTV.m3u8
+#EXTINF:-1 group-title="Tubi",Maverick Black Cinema
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Maverick-Black-Cinema.m3u8
+#EXTINF:-1 group-title="Tubi",Lol Standup
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,LOL-Stand-Up.m3u8
+#EXTINF:-1 group-title="Tubi",Lol Network
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,LOL-Network.m3u8
+#EXTINF:-1 group-title="Tubi",Alter Horror
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Alter.m3u8
+#EXTINF:-1 group-title="Tubi",Dust Sci-Fi
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Dust.m3u8
+#EXTINF:-1 group-title="Tubi",Americas Dumbest Criminals
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Americas-Dumbest-Criminals.m3u8
+#EXTINF:-1 group-title="Tubi",Filmrise Sci-Fi
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-SciFi.m3u8
+#EXTINF:-1 group-title="Tubi",Filmrise Black TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-BlackTV.m3u8
+#EXTINF:-1 group-title="Tubi",Filmrise Comedy
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Comedy.m3u8
+#EXTINF:-1 group-title="Tubi",Filmrise Horror
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Horror.m3u8
+#EXTINF:-1 group-title="Tubi",Filmrise True Crime
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-True-Crime.m3u8
+#EXTINF:-1 group-title="Tubi",Americas Test Kitchen
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Americas-Test-Kitchen.m3u8
+#EXTINF:-1 group-title="Tubi",Tastemade en Espanol
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Tastemade-Spanish.m3u8
+#EXTINF:-1 group-title="Tubi",Anger Management en Espanol
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Anger-Management-Espanol.m3u8
+#EXTINF:-1 group-title="Tubi",HI-Yah!
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Hi-YAH.m3u8
+#EXTINF:-1 group-title="Tubi",Places and Spaces
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Places-Spaces.m3u8
+#EXTINF:-1 group-title="Tubi",The Jamie Oliver Channel
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Jamie-Oliver.m3u8
+#EXTINF:-1 group-title="Tubi",Are we there yet?
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Are-We-There-Yet.m3u8
+#EXTINF:-1 group-title="Tubi",ION Mystery
+https://csm-e-cetubiausw2live204-0b920bc542e4c8363.csm.tubi.video/csm/extlive/tubiprd01,ION-Mystery.m3u8
+#EXTINF:-1 group-title="Tubi",Grit Xtra
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Grit-Extra.m3u8
+#EXTINF:-1 group-title="Tubi",ION Plus
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION-Plus.m3u8
+#EXTINF:-1 group-title="Tubi",Bounce XL
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bounce-XL.m3u8
+#EXTINF:-1 group-title="Tubi",ION
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION.m3u8
+#EXTINF:-1 group-title="Tubi",Court TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Court-TV.m3u8
+#EXTINF:-1 group-title="Tubi",Cowboy Way
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cowboy-Way.m3u8
+#EXTINF:-1 group-title="Tubi",Anger Management Channel
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Anger-Management.m3u8
+#EXTINF:-1 group-title="Tubi",Wanted Dead or Alive
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Wanted-Dead-Or-Alive.m3u8
+#EXTINF:-1 group-title="Tubi",Caught in Providence
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Caught-In-Providence.m3u8
+#EXTINF:-1 group-title="Tubi",Tastemade
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Tastemade-English.m3u8
+#EXTINF:-1,Tastemade Travel
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Tastemade-Travel.m3u8
+#EXTINF:-1 group-title="Tubi",Tastemade Home
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Tastemade-Home.m3u8
+#EXTINF:-1 group-title="Tubi",The Biggest Loser
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Biggest-Loser.m3u8
+#EXTINF:-1 group-title="Tubi",Mytime Movie Network
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,My-Time.m3u8
+#EXTINF:-1 group-title="Tubi",Cinevault Classics
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-Classics.m3u8
+#EXTINF:-1 group-title="Tubi",Cinevault 80's
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-80s.m3u8
+#EXTINF:-1 group-title="Tubi",Cinevault Westerns
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CINEVAULT-Westerns.m3u8?
+#EXTINF:-1 group-title="Tubi",Gameshow Central
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Game-Show-Central.m3u8
+#EXTINF:-1 group-title="Tubi",Filmrise 21 Jump Street
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,21-Jump-Street.m3u8
+#EXTINF:-1 group-title="Tubi",Comedy Dynamics
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Comedy-Dynamics.m3u8
+#EXTINF:-1 group-title="Tubi",So...Real
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,So-Real.m3u8
+#EXTINF:-1 group-title="Tubi",Filmrise Heartland
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Heartland.m3u8
+#EXTINF:-1 group-title="Tubi",Wipeout Xtra
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Wipeout-Xtra.m3u8
+#EXTINF:-1 group-title="Tubi",Fear Factor USA
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fear-Factor.m3u8
+#EXTINF:-1 group-title="Tubi",All Real
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,All-Real.m3u8
+#EXTINF:-1 group-title="Tubi",Filmrise Unsolved Mysterys
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Unsolved-Mysteries.m3u8
+#EXTINF:-1 group-title="Tubi",Filmrise Forensic Files
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Forensic-Files.m3u8
+#EXTINF:-1 group-title="Tubi",Deal or no Deal
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Deal-or-No-Deal.m3u8
+#EXTINF:-1 group-title="Tubi",Moviesphere
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MovieSphere.m3u8
+#EXTINF:-1 group-title="Tubi",Filmrise Western
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Western.m3u8
+#EXTINF:-1 group-title="Tubi",Vice
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,VICE.m3u8
+#EXTINF:-1 group-title="Tubi",Brat Tv
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Brat.m3u8
+#EXTINF:-1 group-title="Tubi",El Rey Network
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,El-Rey.m3u8
+#EXTINF:-1 group-title="Tubi",Dove Channel
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Dove-Now.m3u8
+#EXTINF:-1 group-title="Tubi",The Bob Ross Channel
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bob-Ross.m3u8
+#EXTINF:-1 group-title="Tubi",The only Way is Essex
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Essex.m3u8
+#EXTINF:-1 group-title="Tubi",Lonestar
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Lone-Star.m3u8
+#EXTINF:-1 group-title="Tubi",Supermarket Sweep
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Supermarket.m3u8
+#EXTINF:-1 group-title="Tubi",The Johnny Carson Show
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Johnny-Carson.m3u8
+#EXTINF:-1 group-title="Tubi",BUZZR
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Buzzr.m3u8
+#EXTINF:-1 group-title="Tubi",Alway Funny Videos
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,AFV.m3u8
+#EXTINF:-1 group-title="Tubi",The Carol Burnett Show
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Carol-Burnett.m3u8
+#EXTINF:-1 group-title="Tubi",MST3K
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MST3K.m3u8
+#EXTINF:-1 group-title="Tubi",Filmrise Classic TV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Filmrise.m3u8
+#EXTINF:-1 group-title="Tubi",The Dick Van Dyke Show
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,DVDS.m3u8
+#EXTINF:-1 group-title="Tubi",Baywatch
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Baywatch.m3u8
+#EXTINF:-1 group-title="Tubi",Reelz
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Reelz.m3u8
+#EXTINF:-1 group-title="Tubi",Circle
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Circle.m3u8
+#EXTINF:-1 group-title="Tubi",Nosey
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Nosey.m3u8
+#EXTINF:-1 group-title="Tubi",Fox Sports
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports2.m3u8
+#EXTINF:-1 group-title="Tubi",NFL
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NFL.m3u8
+#EXTINF:-1 group-title="Tubi",MLB
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MLB2.m3u8
+#EXTINF:-1 group-title="Tubi",Womens Sports Network
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8
+#EXTINF:-1 group-title="Tubi",Racing America
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Racing-America.m3u8
+#EXTINF:-1 group-title="Tubi",Bein Sports XTRA
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN.m3u8
+#EXTINF:-1 group-title="Tubi",Fubo Sports Network (GEO)
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8
+#EXTINF:-1 group-title="Tubi",Stadium
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Stadium.m3u8
+#EXTINF:-1 group-title="Tubi",PAC-12 Insider
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Pac12.m3u8
+#EXTINF:-1 group-title="Tubi",Real Madrid TV
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Real-Madrid.m3u8
+#EXTINF:-1 group-title="Tubi",USA Today Sportswire
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Sportswire.m3u8
+#EXTINF:-1 group-title="Tubi",Fox Sports Desportes
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+#EXTINF:-1 group-title="Tubi",Bein Sports Xtra En Espanol
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN-Espanol.m3u8
+#EXTINF:-1 group-title="Tubi",ACCDN
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,ACCDN.m3u8
+#EXTINF:-1 group-title="Tubi",NHRA TV
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NHRA.m3u8
+#EXTINF:-1 group-title="Tubi",WNYW Fox 5 New York
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WNYW-Monetizer.m3u8
+#EXTINF:-1 group-title="Tubi",News 12 New York
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-News12.m3u8
+#EXTINF:-1 group-title="Tubi",WFLD FOX 32 Chicago
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WFLD-Monetizer.m3u8
+#EXTINF:-1 group-title="Tubi",WTXF Fox 29 Philadelphia
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTXF-Monetizer.m3u8
+#EXTINF:-1 group-title="Tubi",KDFW Fox 4 Dallas-Fort-Worth
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KDFW-Monetizer.m3u8
+#EXTINF:-1 group-title="Tubi",WFAA ABC 8 Dallas-Fort-Worth
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WFAA.m3u8
+#EXTINF:-1 group-title="Tubi",KTVU Fox 2 San Francisco
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8
+#EXTINF:-1 group-title="Tubi",WAGA Fox 5 Atlanta
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WAGA-Monetizer.m3u8
+#EXTINF:-1 group-title="Tubi",WXIA NBC 11 Atlanta
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,WXIA.m3u8
+#EXTINF:-1 group-title="Tubi",WSB ABC 2 Atlanta
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WSB2.m3u8
+#EXTINF:-1 group-title="Tubi",KRIV Fox 26 Houston
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KRIV-Monetizer.m3u8
+#EXTINF:-1 group-title="Tubi",KHOU CBS 11 Houston
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KHOU.m3u8
+#EXTINF:-1 group-title="Tubi",WUSA CBS 9 Washington DC
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WUSA.m3u8
+#EXTINF:-1 group-title="Tubi",WTTG Fox 5 Washington DC
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTTG-Monetizer.m3u8
+#EXTINF:-1 group-title="Tubi",WFXT Fox 25 Boston
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WFXT.m3u8
+#EXTINF:-1 group-title="Tubi",KSAZ Fox 10 Phoenix
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KSAZ-Monetizer.m3u8
+#EXTINF:-1 group-title="Tubi",KNXV ABC 15 Phoenix 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KNXV2.m3u8
+#EXTINF:-1 group-title="Tubi",KPNX NBC 12 Phoenix 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KPNX.m3u8
+#EXTINF:-1 group-title="Tubi",KCPQ Fox 13 Seattle
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
+#EXTINF:-1 group-title="Tubi",KING NBC 5 Seattle
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KING.m3u8
+#EXTINF:-1 group-title="Tubi",WTVT Fox 13 Tampa Bay
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTVT-Monetizer.m3u8
+#EXTINF:-1 group-title="Tubi",WFTS ABC 39 Tampa Bay
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WFTS2.m3u8
+#EXTINF:-1 group-title="Tubi",KMSP FOX 9 Minneapolis-ST-Paul
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KMSP-Monetizer.m3u8
+#EXTINF:-1 group-title="Tubi",KARE NBC 11 Minneapolis-ST-Paul
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KARE.m3u8
+#EXTINF:-1 group-title="Tubi",WJBK Fox 2 Detroit
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WJBK-Monetizer.m3u8
+#EXTINF:-1 group-title="Tubi",WXYZ ABC 7 Detroit
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WXYZ2.m3u8
+#EXTINF:-1 group-title="Tubi",KUSA NBC 9 News Denver
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,KUSA.m3u8
+#EXTINF:-1 group-title="Tubi",WOFL Fox 35 Orlando
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WOFL-Monetizer.m3u8
+#EXTINF:-1 group-title="Tubi",WFTV ABC 9 Orlando
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WFTV.m3u8
+#EXTINF:-1 group-title="Tubi",WEWS ABC 5 Cleveland
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WEWS2.m3u8
+#EXTINF:-1 group-title="Tubi",WKYC NBC 3 Cleveland
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WKYC.m3u8
+#EXTINF:-1 group-title="Tubi",KXTV ABC 10 Sacramento
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,KXTV.m3u8
+#EXTINF:-1 group-title="Tubi",KGW NBC 8 Portland Oregon
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,KGW.m3u8
+#EXTINF:-1 group-title="Tubi",KSDK NBC 5 St Louis
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,KSDK.m3u8
+#EXTINF:-1 group-title="Tubi",WSOC ABC 9 Charlotte
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,WSOC.m3u8
+#EXTINF:-1 group-title="Tubi",WPXI NBC 11 Pittsburgh
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WPXI2.m3u8
+#EXTINF:-1 group-title="Tubi",WTHR NBC 13 Indianapolis
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTHR.m3u8
+#EXTINF:-1 group-title="Tubi",KGTV ABC 10 San Diego
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KGTV2.m3u8
+#EXTINF:-1 group-title="Tubi",KSTU Fox 13 Salt Lake City
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KSTU2.m3u8
+#EXTINF:-1 group-title="Tubi",WTIC Fox 61 Hartford
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTIC.m3u8
+#EXTINF:-1 group-title="Tubi",WBNS CBS 10 Columbus
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,WBNS.m3u8
+#EXTINF:-1 group-title="Tubi",WITI Fox 6 Milwaukee
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WITI-Monetizer.m3u8
+#EXTINF:-1 group-title="Tubi",WXMI Fox 17 Grand Rapids
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WXMI.m3u8
+#EXTINF:-1 group-title="Tubi",KTBC Fox 7 Austin
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTBC-Monetizer.m3u8
+#EXTINF:-1 group-title="Tubi",WFMY CBS 2 Greensboro NC
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,WFMY.m3u8
+#EXTINF:-1 group-title="Tubi",WJAX CBS 47 Jacksonville
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WJAX.m3u8
+#EXTINF:-1 group-title="Tubi",WHBQ FOX 13 Memphis NO
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WHBQ.m3u8
+#EXTINF:-1 group-title="Tubi",KOKI FOX 23 Tulsa
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOKI.m3u8
+#EXTINF:-1 group-title="Tubi",WHIO CBS 7 Dayton NO
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WHIO2.m3u8
+#EXTINF:-1 group-title="Tubi",WMUR 9 New Hampshire
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+#EXTINF:-1 group-title="Tubi",Very Boston WCVB
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WCVB.m3u8
+#EXTINF:-1 group-title="Tubi",KTTV Fox 11 Los Angeles
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
+#EXTINF:-1 group-title="Tubi",ABC Denver KMGH
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KMGH2.m3u8
+#EXTINF:-1 group-title="Tubi",ABC 23 Bakersfield KERO
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KERO.m3u8
+#EXTINF:-1 group-title="Tubi",ABC 6 Indianapolis WRTV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WRTV.m3u8
+#EXTINF:-1 group-title="Tubi",ABC 2 Baltimore WMAR
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WMAR.m3u8
+#EXTINF:-1 group-title="Tubi",ABC 25 Waco KXXV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KXXV.m3u8
+#EXTINF:-1 group-title="Tubi",NBC 41 Kansas City KSHB
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KSHB2.m3u8
+#EXTINF:-1 group-title="Tubi",NBC 5 Colorado Springs KOAA
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KOAA.m3u8
+#EXTINF:-1 group-title="Tubi",ABC 13 Las Vegas KTNV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KTNV.m3u8
+#EXTINF:-1 group-title="Tubi",NBC 5 West Palm Beach WPTV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WPTV2.m3u8
+#EXTINF:-1 group-title="Tubi",NBC 2 Tulsa KJRH
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KJRH.m3u8
+#EXTINF:-1 group-title="Tubi",CBS 3 Norfolk WTKR
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTKR.m3u8
+#EXTINF:-1 group-title="Tubi",Fox 4 Fort Myers WFTX
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WFTX.m3u8
+#EXTINF:-1 group-title="Tubi",ABC 7 Buffalo WKBW
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WKBW.m3u8
+#EXTINF:-1 group-title="Tubi",CBS 6 Richmond WTVR
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTVR.m3u8
+#EXTINF:-1 group-title="Tubi",NBC 18 Lexington WLEX
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WLEX.m3u8
+#EXTINF:-1 group-title="Tubi",ABC 9 Tucson KGUN
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KGUN.m3u8
+#EXTINF:-1 group-title="Tubi",CBS 3 Omaha KMTV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KMTV.m3u8
+#EXTINF:-1 group-title="Tubi",ABC 6 Boise KIVI
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KIVI.m3u8
+#EXTINF:-1 group-title="Tubi",Fox 47 Lansing WSYM
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WSYM.m3u8
+#EXTINF:-1 group-title="Tubi",NBC 6 Corpus Christi KRIS
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KRIS.m3u8
+#EXTINF:-1 group-title="Tubi",CBS 7 Butte KBZK
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KBZK.m3u8
+#EXTINF:-1 group-title="Tubi",ABC 27 Tallahassee WTXL
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTXL.m3u8
+#EXTINF:-1 group-title="Tubi",CBS 3 Great Falls KRTV
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KRTV.m3u8
+#EXTINF:-1 group-title="Tubi",NBC 12 Helena KTVH
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KTVH.m3u8
+#EXTINF:-1 group-title="Tubi",Very Tampa Bay WMOR
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMOR.m3u8
+#EXTINF:-1 group-title="Tubi",Very Orlando by WESH
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WESH.m3u8
+#EXTINF:-1 group-title="Tubi",Very Sacramento KCRA
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KCRA.m3u8
+#EXTINF:-1 group-title="Tubi",Very Pittsburgh by WTAE
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
+#EXTINF:-1 group-title="Tubi",Very Baltimore by WBAL
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WBAL.m3u8
+#EXTINF:-1 group-title="Tubi",Very Kansas City KMBC
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
+#EXTINF:-1 group-title="Tubi",Very S. Carolina WYFF
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WYFF.m3u8
+#EXTINF:-1 group-title="Tubi",Very Cincinnati by WLWT
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8
+#EXTINF:-1 group-title="Tubi",Very Milwaukee by WISN
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WISN.m3u8
+#EXTINF:-1 group-title="Tubi",Very South Florida WPBF
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WPBF.m3u8
+#EXTINF:-1 group-title="Tubi",Very Lancaster WGAL
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WGAL.m3u8
+#EXTINF:-1 group-title="Tubi",Very Oklahoma by KOCO
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
+#EXTINF:-1 group-title="Tubi",Very Alabama by WVTM
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WVTM.m3u8
+#EXTINF:-1 group-title="Tubi",Very Carolina WXII
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WXII.m3u8
+#EXTINF:-1 group-title="Tubi",Very New Mexico KOAT
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOAT.m3u8
+#EXTINF:-1 group-title="Tubi",Very Louisville by WLKY
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WLKY.m3u8
+#EXTINF:-1 group-title="Tubi",Very Nola by WDSU
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WDSU.m3u8
+#EXTINF:-1 group-title="Tubi",KCCI Iowa Des Moines
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KCCI.m3u8
+#EXTINF:-1 group-title="Tubi",Very Omaha by KETV7
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
+#EXTINF:-1 group-title="Tubi",Very Maine WMTW
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMTW.m3u8
+#EXTINF:-1 group-title="Tubi",Very Savannah WJCD
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WJCL.m3u8
+#EXTINF:-1 group-title="Tubi",Very Arkansas by KHBS
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KHBS.m3u8
+#EXTINF:-1 group-title="Tubi",Very Champlain WPTZ
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WPTZ.m3u8
+#EXTINF:-1 group-title="Tubi",Very Jackson WAPT
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WAPT.m3u8
+#EXTINF:-1 group-title="Tubi",Very Monterey by KSBW
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KSBW.m3u8
+########### Roku ###############
+#EXTINF:-1 group-title="Roku",ABC News Live
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00200-roku-abcnews-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",NBC News Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",LiveNOW from FOX (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00488-foxtelevisionst-foxnewsnow-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",AccuWeather Now (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",WeatherNation TV (Geo)
+https://1729da8735fe457e9c3e7ad7183e95dc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_WeatherNationTV/playlist.m3u8
+#EXTINF:-1 group-title="Roku",FOX Weather (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01542-foxweatherllc-foxweather-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Newsy
+https://linear-78.frequency.stream/dist/roku/78/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Usa Today (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Cheddar
+https://4c1440a1c4b74e54861a166b4151bdb0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cheddar/playlist.m3u8
+#EXTINF:-1 group-title="Roku",BNC Go (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00515-blacknewschannel-blacknewsnetwork-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Bloomberg Quicktake (Geo)
+https://23861ccff1cc46df94e3ee8c01a42af0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_QuickTake/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Yahoo! Finance (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00119-yahoofinance-yahoofinance-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Reuters
+https://4bada90d80a740e98b712771980fa132.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_ReutersNow/playlist.m3u8
+#EXTINF:-1 group-title="Roku",EuroNews English
+https://c9ab5fb21839427aaf2dbe8f42ac48e8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_EuronewsWorld/playlist.m3u8
+#EXTINF:-1 group-title="Roku",CBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucbcnews/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",NewsMax TV (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00217-newsmax-newsmax-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",The Young Turks (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01220-tytnetwork-tyt-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",America's Voice
+https://8430d785459544a5aa0fc4d83bd3097c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_AmericasVoice/playlist.m3u8
+#EXTINF:-1 group-title="Roku",OAN Plus (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00450-oneamericanews-oneamericanews-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Impact Wrestling
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuimpactwrestling/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Bein Sports Xtra (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-bein-beinxtra-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",RealMadrid.tv (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadridtv-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Stadium (Geo)
+https://6ea6891bca2c46a1839808e23420b991.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Stadium/playlist.m3u8
+#EXTINF:-1 group-title="Roku",FTF
+https://0df01e185769409e9918507a4010ed63.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_FTFNextUS/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Whistle TV (Geo)
+https://whistletv-roku.amagi.tv/hls/amagi_hls_data_whistletv-whistletv-roku/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Fubo Sports Network (Geo)
+https://sportsnet-midas.fubo.tv/v1/master/6c9193257c0eed8ca3f1eabccc4444f9477500f1/SportsNet/roku/master.m3u8
+#EXTINF:-1 group-title="Roku",Unbeaten
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Players TV
+https://playerstv-roku-us.amagi.tv/hls/amagi_hls_data_playerstv-playerstv-roku/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Swerve Sports
+https://linear-253.frequency.stream/dist/roku/253/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Pac-12 Insider (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00384-pac12network-pac12-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Origin Sports (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-originsports-rokuca/playlist.m3u8
+#EXTINF:-1 group-title="Roku",ACC Digital Network
+https://8fc6113ebbd0444d8eb1bce327abe0bd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_ACCDigitalNetwork/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Edge Sports (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00780-img-edgesports-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Mav TV Select (Geo)
+https://2b4f8eb27ce04af1b266454e0cebb6ff.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_MavTVSelect/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Power Nation
+https://058a64454ed94c49b2afec7aaab9a695.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_RTMTVChannel/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Torque
+https://d1240aef18cb4a1a93a044f5462076a6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_Torque/playlist.m3u8
+#EXTINF:-1 group-title="Roku",ESTV (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00303-estv-estv-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",NHRA TV
+https://stream.ads.ottera.tv/playlist.m3u8?&network_id=928
+#EXTINF:-1 group-title="Roku",Sportsgrid (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Roku Movies and TV (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00200-rokuinc-trc-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Are we there Yet? (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",CMT Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509b87809fd000949e399/master.m3u8?deviceId=67a4e34f-bc00-53a7-808e-817453df25bc&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=67a4e34f-bc00-53a7-808e-817453df25bc&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=0adc72cd87e45d3491f8e47e54bbcc98&platform=web&tags=ROKU_CONTENT_TAGS&coppa=0&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=151908&channelStore=us
+#EXTINF:-1 group-title="Roku",Xumo Westerns
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Cinevault Westerns (Geo)
+https://20995731713c495289784ab260b3c830.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_CinevaultWesterns/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Bet Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150978589c0700095f97ae/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 group-title="Roku",Maverick Black Cinema 
+https://ca7d818e2755440db3ff3f21632a7a11.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_MaverickBlackCinema/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Filmrise Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",FilmRise Black TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokutrcfilmriseblacktv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",FilmRise Westerns
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Hi-Yah
+https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Roku",El Rey Network (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-elrey-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Filmrise Action
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Filmrise Classic tV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Cinevault Classics
+https://c85c63f1b6ef41eaa0efd1f26b89dd58.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_CinevaultClassics/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Samuel Goldwyn Channel
+https://6fa35610b981411d827f40e9c44e0b4d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_SamuelGoldwynChannel/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Samuel Goldwyn Classics
+https://4cb516a86bd54c30b5ece5bed3bc2793.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_SamuelGoldwynClassics/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Cinevault 80's (Geo)
+https://ef3636b63da944f298ef02d5d2cfba9f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cinevault80s/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Cinevault 70's (Geo)
+https://5f7909ee921f46909e5232032610caf7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cinevault70s/playlist.m3u8
+#EXTINF:-1 group-title="Roku",The Carol Burnett Show (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-carolburnett-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Baywatch (Remastered) (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00145-buzzr-bigballs-baywatch-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Black Pix 
+https://ce9f57663c854ad49b1cfc035931186b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-BLACKPIX-276-ROKU/mt/roku/276/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Roku",The Dick Van Dyke Show
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokutrcfilmrisedickvandyke/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Johnny Carson TV (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-johnnycarson-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Electric Now
+https://stream.ads.ottera.tv/playlist.m3u8?&network_id=276
+#EXTINF:-1 group-title="Roku",Xumo Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Redbox Romance (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00345-redbox-holiday-redbox5-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugravitasmovies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Redbox Free Movies (Geo)
+https://d4o0irrdelck0.cloudfront.net/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/222eb719-dd8a-4e4b-b718-a320b81d873c/c7161e19344149c6990b8a4786423d0e/index.m3u8
+#EXTINF:-1 group-title="Roku",Tribeca Channel
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokutribecafilm/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",On Demand China
+https://bf922514d5214d149a2268e94630056e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_OnDemandChina/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Moviesphere Free
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_lionsgate-moviesphere-roku-us/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",FilmRise British TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokutrcfilmrisebritishtv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Doctors
+https://f59e7fdea3224f8dad4d8ca4b7f84675.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_Doctors/playlist.m3u8
+#EXTINF:-1 group-title="Roku",LIV TV (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00007-livworldwide-livtv-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Kocowa Classic
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokukocowa/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Rakuten Viki
+https://e246052ca05f4690b5a4acd3ec89ea39.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_RakutenViki/playlist.m3u8
+#EXTINF:-1 group-title="Roku",NEW KMOVIES
+https://e8f654a992904b118fde46c5a5a5b735.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku-ca_NewMovies/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Movie Favourites by Lifetime
+https://130466c9542f464a9e6598dbc76685bf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_HolidayMovieFavoritesByLifetime/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Hallmark Movies & More
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Spark TV
+https://4146b252d78b4ea5973391832cf397ba.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_SparkTV/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Dove Channel (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigm-dovenowroku-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Brat TV (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00350-brat-brattv-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Redbox Faith & Family (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00345-redbox-scifi-redbox-4-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Degrassi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokudegrassi/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Heartland
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuheartland/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Ryan and Friends (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",The Lego Channel
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Pocket Watch (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-pocketwatch-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Fireman Sam
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",HappyKids.TV (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00108-futuretoday-happykids-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Bob The Builder
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokubobthebuilder/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Yo Gabba Gabba
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Battery Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokubatterypop/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Tayo+ (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Cocoro
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Strawberry Shortcake
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokutrcstrawberryshortcakewildbrain/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Kidz Bop (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00377-kidzbop-kidzbop-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",SlugTerra
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuslugterra/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Kids Pang
+https://6cb33dbe1b8d413dad2a9cf9213e4c68.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_KidsPangTV/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Zoo Moo
+https://9583bcb5ca2a4dee8fbb6a23147ce0c8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Zoomoo/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Baby Shark TV
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+#EXTINF:-1 group-title="Roku",The Wiggles Channel (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00618-loopmediaincusa-thewiggles-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Sensical 8+ (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00722-commonsensemedi-sensical8-up-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",AfroKiddos
+https://stream.ads.ottera.tv/playlist.m3u8?&network_id=1931
+#EXTINF:-1 group-title="Roku",Rainbow Ruby
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-roku-rainbow-ruby/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Ketchup TV Kids
+https://cbb3d39c1e69447a8eb206702e0be028.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Ketchup/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Teletubbies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuteletubbies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Kartoon Channel!
+https://stream.ads.ottera.tv/playlist.m3u8?&network_id=2219
+#EXTINF:-1 group-title="Roku",Rev & Roll
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokurev-and-roll/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",MoonBug Kids (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00403-moonbugentertai-moonbug-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",FilmRise Kids
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisekids/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Super Simple Songs
+https://5ad219916b29417f8dc40d455f418851.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_SuperSimpleSongs/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Gusto TV
+https://77bd9abf253b44b19ecc57776742f470.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_GustoTV/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Kin
+https://8c1158f5e68442dabbcda77e1d121517.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-278-KIN-ROKU/mt/roku/278/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Roku",BBC Food
+https://7eeb2be418cc4f6fa4b292ab44176623.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_BBCFood/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Ifood.tv (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00108-futuretoday-ifood-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Tastemade
+https://tastemade-roku-us.amagi.tv/hls/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",America's Test Kitchen
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuamericastestkitchen/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Bon Appetit (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00255-condenast-bonappetit-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Tiny House Nation
+https://751b07e0cd434a19bdc9f59f7bccb8fb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_TinyHouseNation/playlist.m3u8
+#EXTINF:-1 group-title="Roku",This Old House
+https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Roku",This Old House Classic (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00339-thisoldhouseven-thisoldhouse-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",This Old House Makers Channel (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00339-thisoldhouseven-tohmaker-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",The Design Network
+https://thedesignnetwork-tdn-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Roku",BBC Home
+https://800abe2fa2ea4e6493cb0e68360fa45d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_BBCHome/playlist.m3u8
+#EXTINF:-1 group-title="Roku",The Craftistry (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00285-studio71-craftistry-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Homeful (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-homeful-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",The Bob Ross Channel (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigm-bobross-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Architechtural Digest
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokutraveler/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Outside Tv +
+https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Modern Marvels
+https://f5aeee48ff2e477a999f9838e48c95be.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_ModernMarvels/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Love Nature (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenature-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",The Jack Hanna Channel (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00751-litton-jackhannah-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",True History
+https://linear-243.frequency.stream/dist/roku/243/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Weatherspy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuweatherspy/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",MagellanTV Now
+https://magellantv-1-us.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Roku",ASN Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+#EXTINF:-1 group-title="Roku",Xplore (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00751-litton-xplore-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Crime 360 (Geo)
+https://848daf06d19f40b2ac230c0e78f8c81b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Crime360/playlist.m3u8
+#EXTINF:-1 group-title="Roku",FilmRise True Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisetruecrime/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Law and Crime
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00260-lawandcrime-lawandcrime-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Total Crime (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-totalcrime-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Forensic Files
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+#EXTINF:-1 group-title="Roku",Reelz
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokureelzchannel/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Kriminal
+https://b2e8486640044d749e8a99572438a023.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_Kriminal/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Real Crime (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-lds-realcrime-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Dr G Medical Examiner
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-roku-drgmedicalexaminer/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Unsolved Mysterys
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Midsomer Murders
+https://fe5d2b6d701946aebc301f8d52553241.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_MidsomerMurders/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Crime ThrillHer
+https://8868738720ee43f5a088e31072146ff8.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_CrimeThrillHer/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Xumo Free Crime TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumocrimetv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Filmrise Mystery
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Rotten Tomatoes (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00491-fandango-rottentomatoesroku-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Now This
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunowthis/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",People TV 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00174-meredith-timein-peopletv-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Fuse Backstage (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00375-fuse-fusebackstage-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Fuse Beat (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-fusebeats-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",New Kpop
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Complex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Fox Soul fix url
+https://fox-foxsoul-roku.amagi.tv/hls/amagi_hls_data_foxAAAAAA-foxsoul-roku/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",TMZ
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Made in Hollywood (Geo)
+https://f42451670bc146219f3df2e7cb84477f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_MadeInHollywood/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Vanity Fair
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvanityfair/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Vogue
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvogue/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Glamour
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuglamour/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",GQ
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugq/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Revry
+https://linear-45.frequency.stream/dist/roku/45/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Roku",vox (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00216-voxmedia-thevoxchannel-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Wired
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuwired/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Vice
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01118-viceuktvlimited-vicefastone-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",IGN (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00435-ignbroadcasting-ign1-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Deal or No deal
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-dealornodeal-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Perform by Lifetime
+https://7c7887ec6e85498b956fc31f8a1ab566.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_Perform/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Global Got Talent
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Supermarket Sweep (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00145-buzzr-bigballs-supermarket-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Impossible
+https://612b8850157f41969b7d8117aceb3e7e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_ImpossibleQuizShow/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Family Feud
+https://d2spdq8rliqjem.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/master.m3u8?ads.xumo_channelId=9999438&ads.xumo_channelName=FamilyFeud&ads.xumo_contentId=170&ads.xumo_contentName=FamilyFeud&ads.xumo_providerId=170&ads.xumo_providerName=FamilyFeud&ads.xumo_adsystem=mediatailor&ads.roku_rtid=V8cmjksncQc48AGwac9u&ads.roku_ads_kids_content=0&ads.roku_ads_tracking_id=67a4e34f-bc00-53a7-808e-817453df25bc&ads.roku_ads_limit_tracking=1&ads.roku_ads_content_genre=special&ads.roku_ads_content_id=5fbceb7c5ced5eb097f8c35f6ab34af2&ads.roku_ads_app_id=151908&ads.roku_ads_series_id=ROKU_ADS_SERIES_ID&ads.roku_ads_platform_type=web&ads.roku_ads_provider_id=xumo&ads.roku_ads_season_id=ROKU_ADS_SEASON_ID&ads.roku_ads_content_rating=ROKU_ADS_CONTENT_RATING&ads.roku_ads_content_type=livefeed&ads.roku_cust_param_channelstore=us&ads.roku_cust_param_tags=ROKU_CONTENT_TAGS&ads.roku_cust_param_bmodel=bm1&ads.roku_cust_param_device_lang=ROKU_ADS_LOCALE&ads.roku_cust_param_unlocked=UNLOCKED&ads.roku_cust_param_kids=OTT_KIDS_CONTENT&is_lat=1&bmodel=bm1&content=5fbceb7c5ced5eb097f8c35f6ab34af2&platform=web&tags=ROKU_CONTENT_TAGS&coppa=0&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=special&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=xumo&channel_id=151908&channelStore=us
+#EXTINF:-1 group-title="Roku",Gameshow Central (Geo)
+https://3fd18dd6813c49e09df1b7ce494b7ed5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_GameShowCentral/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Buzzr (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00145-buzzr-buzzr-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",The Price Is Right The Barker Era (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00145-buzzr-bigballs-tpir-8min-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",MTV Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13b6dd7ec3510009e032d0/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 group-title="Roku",Skills and Thrills
+https://d52b00c640c34d7e9ea9b89430bbaae7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_SkillsAndThrills/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Circle (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00432-circle-circle-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Hell’s Kitchen|Kitchen Nightmares
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Ice Road Truckers
+https://ac6ced8f3cdb4c619f8ac87cf76f0f2d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_IceRoadTruckers/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Ax Men
+https://598529bee74347ee94ce8db47256ba61.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_AxMen/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Deal Zone
+https://91b8c9dd37854dd8a4bb8921dcb1912e.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_DealZone/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Lively Place
+https://b78b801714fa4ef8ae1a3d2b8e9a18e5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LivelyPlace/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Antiques Roadshow UK
+https://e38d59024a5f47f088425240fac80d81.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_AntiquesRoadshowUK/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Project Runway (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00200-rokuinc-projectrunway-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Aspire TV Life (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00495-uptv-aspiretvlife-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",So Real (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-cinedigm-soreal-roku-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Don't tell the Bride (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-donttellthebride-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",The Only Way Is Essex (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-towie-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Afroland TV
+https://stream.ads.ottera.tv/playlist.m3u8?&network_id=1890
+#EXTINF:-1 group-title="Roku",Divorce Court
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokudivorcecourt/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Caught in Providence
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-caughtinprovi-rokuca/playlist.m3u8
+#EXTINF:-1 group-title="Roku",The Pet Collective
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/master.m3u8
+#EXTINF:-1 group-title="Roku",People are Awesome
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Nosey
+https://680d9edeebda4c49a89314ca4fb73d05.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Nosey/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Real Nosey
+https://7b420a0fbe764635961785137fd5b080.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_RealNosey/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Demand Africa (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00017-theafricachannel-demandafrica-rokuca/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Dust
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokudust/CDN/master.m3u8
+#EXTINF:-1 group-title="Roku",Dr Who Classic
+https://2e7c66a7786f4c92a444c17e29044bfb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_ClassicDoctorWho/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Filmrise Sci-Fi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+#EXTINF:-1 group-title="Roku",Midnight Pulp
+https://6f671bf9afc44c3d80496c424336b3b1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_MidnightPulp/playlist.m3u8
+#EXTINF:-1 group-title="Roku",The Asylum
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Mystery Science Theater 3000 fix url
+https://mst3k-roku.amagi.tv/hls/amagi_hls_data_shoutfact-mst3k-roku/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",FilmRise Horror
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisehorror/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Unexplained Zone
+https://37971703d4374d88a84c581d4745c5eb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_UnXplainedZone/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Bloody Disgusting TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigm-bloodydisgusting-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Haunt TV
+https://haunttv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Roku",ConTV Anime (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigm-contvanimeroku-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Asian Crush
+https://8107345ba2a94d8cb314b0afeb197917.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku-ca_AsianCrush/playlist.m3u8
+#EXTINF:-1 group-title="Roku",RetroCrush
+https://aba6cb91402042b293ca7c9ce42596a9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_RetroCrush/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Filmrise Anime
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokutrcfilmriseanime/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",LOL
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokulolnetwork/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Comedy Cental Pluto
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13bde24f4ca800093d57b5/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 group-title="Roku",Fail Army
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",AFV Family
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Red Green Channel
+https://7fcb9b400deb41dba09d2c1cf40ba0bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku-ca_TheRedGreenChannel/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Comedy Dynamics (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigm-comedydynamicsroku-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Funny or Die
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufunnyordie/CDN/master.m3u8
+#EXTINF:-1 group-title="Roku",Just for Laughs Gags
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
+#EXTINF:-1 group-title="Roku",Estrella News (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00567-estrella-estrellanews-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Estrella TV (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00567-estrella-estrellatv-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",RCN Más
+https://933be29cc78d4056abd00e0743138931.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_RCNMas/playlist.m3u8?ads.wurl_channel=926&ads.wurl_name=RCNMas&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=9bebc5fe01e3531c8c73aa34b89a2fd0&ads.content_rating=TVPG&ads.tags=cat-spanish-language&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=latv&ads.rdid=67a4e34f-bc00-53a7-808e-817453df25bc&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.131+Mobile+Safari%2F537.36&is_lat=1&bmodel=bm1&content=9bebc5fe01e3531c8c73aa34b89a2fd0&platform=web&tags=cat-spanish-language&coppa=false&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVPG&studio_id=latv&channel_id=151908&channelStore=us
+#EXTINF:-1 group-title="Roku",Mega Noticias
+https://cf3117976be944aaab50ee68f7f9f49f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_MegaNoticias/playlist.m3u8?ads.wurl_channel=925&ads.wurl_name=MegaNoticias&ads.coppa=false&ads.bmodel=bm1&ads.channelStore=us&ads.content=8770402770a15ac484d8bf8e93ad6265&ads.content_rating=TVG&ads.tags=cat-spanish-language&ads.content_type=livefeed&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=ROKU_ADS_CONTENT_GENRE&ads.is_lat=1&ads.platform=web&ads.studio_id=pctv&ads.rdid=67a4e34f-bc00-53a7-808e-817453df25bc&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28Linux%3B+Android+6.0%3B+Nexus+5+Build%2FMRA58N%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.131+Mobile+Safari%2F537.36&is_lat=1&bmodel=bm1&content=8770402770a15ac484d8bf8e93ad6265&platform=web&tags=cat-spanish-language&coppa=false&content_type=livefeed&rdid=67a4e34f-bc00-53a7-808e-817453df25bc&genre=ROKU_ADS_CONTENT_GENRE&content_rating=TVG&studio_id=pctv&channel_id=151908&channelStore=us
+#EXTINF:-1 group-title="Roku",Americateve (Geo)
+https://americateve-rokuus.amagi.tv/hls/amagi_hls_data_americate-america-teve-roku-us/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Euronews Espanol
+https://ec5f22b4355e471ab236a8276c9287d6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_EuronewsSpanish/playlist.m3u8?
+#EXTINF:-1 group-title="Roku",Bein Sports Xtra en Espanol (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-bein-beinespanaol-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",PrendeTV Lo mejor de LigaMX
+https://linear-193.frequency.stream/dist/roku/193/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Power Nation en Espanol
+https://c7748e5c37c34e0ba32a4f9d3e9d47d6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_POWERNATIONenEspanol/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Tastemade Espanol (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees8intl-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",AFV En Espanol
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Juntos
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Love Nature Espanol (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamusa-lovenaturespanish-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Estrella Games (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Sony Canal Competencias
+https://21b6cbc281f94693aefbd7a757edbe01.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_SonyCanalCompetencias-1/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Nosey Escándalos
+https://e30cb01b808c4342a9ce02c606854713.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_NoseyEscandalos/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Sony Canal Comedias
+https://f7d1bba326b547f3b7b89dde06dccafa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_SonyCanalComedias-1/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Sony Canal Novelas
+https://30ce6d2bbb2d4db9aa1802fa364ce6d9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_SonyCanalNovelas-1/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Vive Kanal D Drama (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Cine Club
+https://linear-192.frequency.stream/dist/roku/192/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Cine Romantico
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokucineromantico/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Novelas De Romance
+https://linear-194.frequency.stream/dist/roku/194/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Runtime Español
+https://stream.ads.ottera.tv/playlist.m3u8?&network_id=2218
+#EXTINF:-1 group-title="Roku",Pongalo Novela Club
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunovelaclub/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Novelas de Oro
+https://30ce6d2bbb2d4db9aa1802fa364ce6d9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_SonyCanalNovelas-1/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Novelas en Familia
+https://linear-195.frequency.stream/dist/roku/195/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Moovi Mex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Top Cine
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcine-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Cine Sureño
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Horrify
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrify-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",IHeart Latino Hits
+https://49e1d975e823469a8b94288557c577a0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_LatinoHits_zc9007/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Vevo Reggaeton & Trap (Geo)
+https://na.linear.zype.com/551f8fd6-a43b-851e-7ce8-05629c4c99e3/25463f19-c4d2-4ac0-8feb-f4e206452cdc-roku-channel/live.m3u8
+#EXTINF:-1 group-title="Roku",Vevo Latino (Geo)
+https://na.linear.zype.com/634387d4-169a-45db-a7e3-10e4e02fbd67/a6cb3e12-3ff2-4429-9838-53f9dfa6bacf-roku-channel/live.m3u8
+#EXTINF:-1 group-title="Roku",Latido Music (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00274-vidaprimo-vidaprimo-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Qwest Mix (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmix-rokuca/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Qwest Jazz & Beyond (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-rokuca/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Qwest Classical (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestclassic-rokuca/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Vivaldi TV (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01297-mezzo-vivalditv-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",MTV Block Party
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 group-title="Roku",IHeart The Beat
+https://01fe7f3f042345afb048e5a6e8868bc4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_TheBeat_zc9014/playlist.m3u8
+#EXTINF:-1 group-title="Roku",MTV Biggest Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 group-title="Roku",Vevo pop (Geo)
+https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/f1cc3ec7-2a18-4d28-90f3-dbc1104e6cf1-hls3/live.m3u8
+#EXTINF:-1 group-title="Roku",MTV Yo!
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF:-1 group-title="Roku",Iheart Alternative Radio
+https://2e46ff2398314db988ca73251518f2fa.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_AltRadio_zc9011/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Vevo R&B (Geo)
+https://na.linear.zype.com/6faae100-3b35-4797-bb10-7f804b932d16/a95ef26d-43d5-4572-accb-1d3b676d4e3e-roku-channel/live.m3u8
+#EXTINF:-1 group-title="Roku",Vevo Hip-Hop (Geo)
+https://na.linear.zype.com/52d35886-a8d0-4e05-93ca-3a7d7ef9e086/8c263906-2a6b-456d-88f1-7db550edcf0d-roku-channel/live.m3u8
+#EXTINF:-1 group-title="Roku",Loop Hip-Hop
+https://7b182c79a2684e23be65a9c9164ea167.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHipHop-1/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Country Loop
+https://6b323bdfe7894f099325e4093c88e228.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopCountry-1/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Iheart Country
+https://094e541bbcc641c58e50f91cfffb88c1.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_iHeartCountry_zc9006/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Country Network (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-countrynetwork-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Vevo Country (Geo)
+https://na.linear.zype.com/e92b7406-d2bb-4c1f-aa46-d5575010d9f0/8e0c316e-0f5f-445a-98a6-616e93b87f87-roku-channel/live.m3u8
+#EXTINF:-1 group-title="Roku",Loop Hottest
+https://677bb105987442dd9a12a56145acb359.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHottest-1/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Party Loop
+https://9be4d959fb9946c4b4f9bdfad2df4590.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty-1/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Vevo 2K (Geo)
+https://na.linear.zype.com/26c1e462-824a-4fc9-8a80-764352bf45d4/c03ad8dd-29b0-4ff8-a005-3bee01fd3b73-roku-channel/live.m3u8
+#EXTINF:-1 group-title="Roku",Iheart Classic Rock
+https://d73b4f067ead4cbbac116b10530474df.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_ClassicRockChannel_zc9012/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Vevo 90's (Geo)
+https://na.linear.zype.com/fa0b5352-42cd-4899-ab88-745633e427a3/b6bea188-fb89-4d1e-a82a-be36765c5455-roku-channel/live.m3u8
+#EXTINF:-1 group-title="Roku",Iheart 90's
+https://4e95c2e65c884706a761459ac4dfb167.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_iHeart90s_zc8996/playlist.m3u8
+#EXTINF:-1 group-title="Roku",90's Loop
+https://17c9fa11ce65424ab3e7e06d576b7eb8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop90s-1/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Vevo 80's (Geo)
+https://na.linear.zype.com/7cb77774-2454-b6c3-d9f4-7aa073c19fec/d5464fb0-08e7-4fab-8dd3-6f9fd4a2217e-roku-channel/live.m3u8
+#EXTINF:-1 group-title="Roku",Iheart 80's
+https://b442abec7ffe4df7b62981d982456ad9.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_iHeart80s_zc9010/playlist.m3u8
+#EXTINF:-1 group-title="Roku",80's Loop
+https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Vevo 70's (Geo)
+https://na.linear.zype.com/257c843a-7f56-4b2c-bdcd-63ce5f56e1b7/a3dcf47a-9df4-4254-bce1-0cd569b378c7-roku-channel/live.m3u8
+#EXTINF:-1 group-title="Roku",Conde Neste Traveler (not listed)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokutraveler/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Voyager Documentaries (not listed)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvoyagerdocumentaries/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Roku",MyTime Movie network (not listed)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigm-mytime-rokuus/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Homeful (Canada) (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-homefulcanada-rokuca/playlist.m3u8
+#EXTINF:-1 group-title="Roku",The Design Network (Canada)
+https://thedesignnetwork-tdn-6-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Cinevault 70's (Canada)
+https://gsn-cinevault-70s-2-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Cinevault 80's (Canada)
+https://gsn-cinevault-80s-2-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Cinevault Classics (Canada)
+https://gsn-cinevault-classics-1-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Cinevault Westerns (Canada)
+https://gsn-cinevault-westerns-2-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Asian Crush (Canada)
+https://dmr-asiancrush-1-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Roku",FTF sports (Canada)
+https://elevensports-samsunguk-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Roku",The Red Green show (Canada)
+https://answermedia-theredgreenshow-1-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Roku",NewK Movies (Canada)
+https://newidco-newkmovies-1-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Roku",True Crime now (Canada)
+https://alliantcontent-truecrimenow-1-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Roku",COPS (Canada)
+https://langley-productions-cops-1-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Roku",MagellanTV Now (Canada)
+https://magellantv-1-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Spark TV (Canada)
+https://candlelightmedia-sparklightlove-5-ca.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Demand Africa (Canada) (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00017-theafricachannel-demandafrica-rokuca/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Origin Sports (Canada) (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-originsports-rokuca/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Crimetime (Canada) (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamcanada-crimetime-rokuca/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Haunt TV (Canada) (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-bamcanada-haunttv-rokuca/playlist.m3u8
+#EXTINF:-1 group-title="Roku",So Yummy (Canada) (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00437-firstmedia-soyummyintl-rokuca/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Qwest Classic (Canada) (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestclassic-rokuca/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Qwest Jazz (Canada) (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-rokuca/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Qwest Mix (Canada) (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestmix-rokuca/playlist.m3u8
+#EXTINF:-1 group-title="Roku",The Recount (Canada) (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01288-therecount-therecount-rokuca/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Bein Xtra (Canada) (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-bein-beinxtra-rokuca/playlist.m3u8
+#EXTINF:-1 group-title="Roku",Caught in Providence (Canada) (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-caughtinprovi-rokuca/playlist.m3u8
+#EXTINF:-1 group-title="Roku",FigTree TV (Canada)
+https://canyonproductions-figtreetv-ca.roku.wurl.tv/playlist.m3u8
+############ Redbox #################
+#EXTINF:-1 group-title="Redbox",The Price is Right - Barker Era (Geo)
+https://thepriceisright-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-thepriceisright-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Are we There yet (Geo)
+https://lionsgate-arewethereyet-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-lionsgate-arewethereyet-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",The Red Green channel
+https://446b4f00568042eea80eda81ad95595b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_TheRedGreenChannel/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Baywatch (Geo)
+https://baywatch-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-baywatch-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Family Feud
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Game Show Central
+https://890f34d0fe9b4c13b4fea89b53b849cf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_GameShowCentral/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Buzzr (Geo)
+https://buzzr-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-buzzr-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Wu Tang Collection TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgoldenmediawutangcollection/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Showtime at the Apollo (Geo)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Caught in Providence
+https://amg00353-lionsgate-caughtinprovidence-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-lionsgate-caughtinprovidence-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",The Bob Ross Channel (Geo)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbobross/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",MST3K
+https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Electric Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxelectricnow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",The Pet Collective
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Failarmy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Cops
+https://8e5a51fd84df4fd4bd64dd49cc9ccb75.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_COPS/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Unsolved Mysteries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Divorce Court
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdivorcecourt/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Forensic Files
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxforensicfiles/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Court TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcourttv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Reelz Channel
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Law & Crime
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxlawandcrime/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Caught in Providence
+https://amg00353-lionsgate-caughtinprovidence-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-lionsgate-caughtinprovidence-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",TMZ
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Nosey
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Real nosey
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxrealnosey/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Accu Weather
+https://accuweather-redbox.amagi.tv/hls/amagi_hls_data_accuweath-accuweather-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",YahooFinance (Geo)
+https://yahoo-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-yahoofinance/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Cheddar
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Newsy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnewsy/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Boston 25 News (Geo)
+https://amg00327-boston-25-news-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-boston25-news-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Kiro (Geo)
+https://amg00327-kiro-seattle-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-kiro-seattle-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Bloomberg Television
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",CBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",USA today
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Wired
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Now This
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",BNC GO
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxblacknewschannel/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Cinevault Westerns
+https://7590bb52ed354228b7fafee823374cbd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_CinevaultWesterns/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Redbox War and Westerns
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Dust (Geo)
+https://gunpowder-dust-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-dust-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Wu Tang Collection TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgoldenmediawutangcollection/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Xumo Free Westerns
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxxumowesterns/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Retro Crush
+https://9001a893b2b043ab9cac1390d3c4fd14.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_RetroCrush/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Hi-Yah
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",FilmRise Sci-Fi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Redbox Free movies
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Redbox Rewind
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Redbox Romance (Geo)
+https://holiday-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-holiday/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Redbox War and Westerns
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Redbox Faith and Family (Geo)
+https://sci-fi-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-sci-fi/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Hallmark Movies & More
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcrownmediahallmarkmovies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Crackle PG 13 (Geo)
+https://cracklepg13-redbox.amagi.tv/hls/amagi_hls_data_crackleAA-crackle-pg13-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",MovieSphere (Geo)
+https://moviesphere-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-moviesphere-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Gravitas Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Filmrise Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Made in Hollywood
+https://13be15d3afd947ee922bc0f8a55f522d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_MadeInHollywood/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Xumo Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxxumofreemovies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",PopcornFlix (Geo)
+https://popcornflix-redbox.amagi.tv/hls/amagi_hls_data_crackleAA-popcornflix-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",CineLife
+https://magnolia-redbox.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Filmhub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Maverick Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Magellan TV Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Chicken Soup for the Soul (Geo)
+https://chickensoup-redbox.amagi.tv/hls/amagi_hls_data_crackleAA-chickensoup-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Cine Romantico
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxuptvcineromantico/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Alter
+https://amg00219-gunpowder-alter-redbox.amagi.tv/hls/amagi_hls_data_gunpowder-alter-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",World Poker Tour
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",PAC 12
+https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Impact Wrestling
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxanthemsportsimpactwrestling/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Unbeaten
+https://inverleigh-unbeaten-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-inverleigh-unbeaten-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Glory Kickboxing
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Bein Sports Xtra (Geo)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbeinsports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Nitro Circus
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Hard Knocks Fighting Championship
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Fight Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfightnetwork/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Outdoor America
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Outside TV+
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",America's Test Kitchen (Geo)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Tastemade
+https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Bon Appetit
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Architectural Digest
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",So Yummy!
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",The Design Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Hungry
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Comedy Dynamics (Geo)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomedydynamics/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",LOL Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxlolcomedy/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Just For Laughs Gags
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjustforlaughsgags/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",FailArmy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Chive TV (Geo)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",The Pet collective
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",People are Awesome
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Funny Or Die (Geo)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",DryBar Comedy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdrybar/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Cinevault 80's
+https://974e6936323b42fcb0553ebb0a9f3e52.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_Cinevault80s/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Cinevault 70's
+https://3357912395d4453bb8e0e934e0b4f54a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_Cinevault70s/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Johnny Carson TV
+https://johnnycarson-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-johnnycarson-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",The Best of Carol Burnett
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbestofcarolburnettshow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",American Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",FilmRise Classic TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Shout! Factory TV
+https://shoutfactory-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-shoutfactorytv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",The Archive
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthearchive/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Baby Shark TV
+https://7a730d80a1554e0b9c0bd604f276c552.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_BabySharkTV/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Toon Goggles
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Pocket watch
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Battery Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Kabillion
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",FilmRise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Happy Kids
+https://6490c4f30f3848f78e657d20f022d6ed.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_HappyKidsTV/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Lego Channel
+https://d4e4b47f05724d05814819ba38a5408a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_TheLEGOChannel/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Dove Channel (Geo)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdovenow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Trinity Broadcasting Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtrinitybroadcastingnetwork/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Vevo Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Stingray Soul Storm
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Stingray Everything 80's
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayeverything80s/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Vevo 80s
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Stingray Classic Rock
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Stingray Hit List
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Latido Music
+https://latidomusic-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-latidomusic-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Stingray Naturescape
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Stingray Hot Country
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Stingray Greatest Hits
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Baeble Music
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Tastemade Travel
+https://tastemadetravel-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-tarvel-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Go Traveler
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Xumo Travel and Lifestyle TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxxumotravellifestyle/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Complex
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Fuse (Geo)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Circle TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",AXS TV Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxaxstv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Journy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Weatherspy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",GQ
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Vanity Fair
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdovenow/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Glamour
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Vogue
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",WSB Now Atlanta (Geo)
+https://amg00327-wsb-now-atlanta-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wsb-now-atlanta-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",WPXI Now Pittsburgh (Geo)
+https://amg00327-wpxi-now-pittsburgh-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wpxi-now-pittsburgh-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",WHIO Dayton (Geo)
+https://amg00273-whio-dayton-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-whio-dayton-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",WFTV 9 Orlando (Geo)
+https://amg00327-wftv-9-orlando-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wftv-9-orlando-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Action News Jax (Geo)
+https://amg00327-action-news-jax-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-action-news-jax-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Kiro (Geo)
+https://amg00327-kiro-seattle-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-kiro-seattle-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",WSOC Channel 9 (Geo)
+https://amg00327-wsoc-channel-9-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wsoc-channel-9-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",FOX 13 Memphis (Geo)
+https://fox13-memphis-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-fox13-memphis-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Boston 25 News (Geo)
+https://amg00327-boston-25-news-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-boston25-news-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Fox 23 Tulsa (Geo)
+https://fox23-tulsa-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-fox23-tulsa-redbox/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Sony Canal Novelas
+https://8111cdb914be41de9a96651a8a8d5a5c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Sony Canal Comedias
+https://b987e5dd92fa4a0cb7c2f7d3f266b6c3.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_SonyCanalComedias/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Cine Romantico
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxuptvcineromantico/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Redbox",Tastemade En Espanol (Geo)
+https://tm-es16us-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tm-es16us-redbox/CDN/playlist.m3u8
 ################################################
 #EXTINF:-1 tvg-id="1Plus1.ua" tvg-logo="https://i.imgur.com/eJXfMh0.png" group-title="Ukraine",1+1 (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ/live
@@ -7346,7 +8717,7 @@ https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
 https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive10.us" tvg-logo="https://od.lk/s/MF8yMjk3NjU0OTJf/ABCNewsLive_2021_200x200.png" group-title="News",ABC News Live 10 (720p)
 https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
-#EXTINF:-1 tvg-id="WABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="Undefined",ABC News New York NY (WABC-TV) (720p)
+#EXTINF:-1 tvg-id="WABCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="News",ABC News New York NY (WABC-TV) (720p)
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",ABC Tallahassee FL (WTXL-TV1) (720p) [Not 24/7]
 https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/playlist.m3u8
