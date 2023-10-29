@@ -21,7 +21,9 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/News_12_Networks_2019.svg" group-title="News",News 12 New York
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-News12.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg" group-title="News",CNN
-https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+http://213.254.12.7/cnn/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg" group-title="News",CNN
+http://89.254.128.5:22280/cnn/video.m3u8
 ########## New York Local Channels ##########
 #EXTINF:-1 tvg-id="Fox Sports"  group-title="New York",MSNBC
 http://190.122.96.187:8888/http/005
