@@ -12,6 +12,8 @@ https://dai.google.com/linear/hls/pa/event/7f3Wv6f7QEKfQna22jHqLQ/stream/875b84b
 ############# News ##############
 #EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CBS_News_New_York.svg" group-title="News",CBS News New York
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
+#EXTINF:-1 tvg-id="CBSNews" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/CBS_News_2020.svg/revision/latest" group-title="News",CBS News
+https://www.cbsnews.com/common/video/cbsn_header_prod.m3u8
 #EXTINF:-1 tvg-name="NBC News" tvg-logo="https://i.imgur.com/v48mMRT.png" tvg-id="NBCNewsNow.us" group-title="News",NBC News
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ECi85Nr.png" group-title="News",Fox 5 New York (WNYW)
