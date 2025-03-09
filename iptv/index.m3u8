@@ -1,10 +1,4 @@
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/unitedstatespremium1.xml,https://www.bevy.be/bevyfiles/unitedstatespremium2.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://www.bevy.be/bevyfiles/unitedstatespremium5.xml"
-#EXTINF:-1 group-title="Sports",Commanders vs Eagles
-https://qw-fx-sports.dlt.qwilted-cds.cqloud.com/qsig=eyJleHAiOjE3MzgwMTA5MDAsImtpZCI6MSwicmd4IjoiXC8uKiIsInR5cCI6InJnbSJ9.XCDqFQ3KrGki5KCv6dwbTKQmYQCSnSLrJNQnNrbJViM/live/tx001-uw2/csm/live/637001219/4.m3u8;jsessionid=D8CAE6F23AB4502BF806D4308F8A77F4.csm-e-cefoxausw2live416-048e06e2184c5239a.tls1.yospace.com?CMCD=sid=826263710694832269&yo.aas=true&yo.pk=true&yo.ap=/qsig=eyJleHAiOjE3MzgwMTA5MDAsImtpZCI6MSwicmd4IjoiXC8uKiIsInR5cCI6InJnbSJ9.XCDqFQ3KrGki5KCv6dwbTKQmYQCSnSLrJNQnNrbJViM/live/&ad_env=1&_fw_ae=nomvpd&_fw_did=27527ea3-59b4-d4b5-de4b-a6c22c445644&_fw_did_android_id=&_fw_did_google_advertising_id=&_fw_did_idfa=&_fw_is_lat=0&_fw_nielsen_app_id=P5CFA3B51-3361-481F-B75D-D119A71FF616&_fw_seg=&_fw_us_privacy=1YNN&_fw_vcid2=516429%3A151d9af7-8449-4308-b1ae-281e2b0aefff&ad=fw_prod&ad.csid=fsapp%2Fwebdesktop%2Flive%2Ffox&ad.flags=+slcb+sltp+qtcb+emcr+fbad+dtrd+vicb&ad.metr=7&ad.prof=516429%3Ayospace_foxsports_webdesktop_live&bu=sports&caid=EP000031285145&cdn=qw&exp=1737924559&fnl-affiliate=WFTX&fs-affiliate=WFTX&is_lat=0&kuid=&mcl_region=uw2&thumbsray=0&traceid=watch-watch-AFhcjkcXoX1S&yo.ai=33904&yo.av=4&yo.lpa=dur&yo.pbr=true&yo.pdt=sync&yo.po=-4&yo.pst=true&yo.t.pr=1500&yo.ug=33904&yo.up=/qsig=eyJleHAiOjE3MzgwMTA5MDAsImtpZCI6MSwicmd4IjoiXC8uKiIsInR5cCI6InJnbSJ9.XCDqFQ3KrGki5KCv6dwbTKQmYQCSnSLrJNQnNrbJViM/live/tx001-uw2/&ss.exp=20250127154820&ss.sig=c1b23b3b38b8e9fcb7b8d7e921bbb2e041e53c51&externalId=tx001-uw2
-#EXTINF:-1 group-title="Sports",CBS Sports HQ Live
-https://dai.google.com/linear/hls/pa/event/9Lq0ERvoSR-z9AwvFS-xYA/stream/8f617255-bf76-4fc9-b6bf-941a921155bb:MRN2/master.m3u8?CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22f3b0375d-db91-41d8-9247-0883c14e5274%22%2Csu
-#EXTINF:-1 group-title="Sports",CBS Sports Golazo
-https://dai.google.com/linear/hls/pa/event/7f3Wv6f7QEKfQna22jHqLQ/stream/875b84bc-fc24-4fa0-a28f-d42ca908f770:TUL/master.m3u8?CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22f553aab0-4140-48f4-b4b5-fba26c52ecf2%22%2Csu
 ############# News ##############
 #EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/CBS_News_New_York.svg" group-title="News",CBS News New York
 https://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
@@ -21,9 +15,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/News_12_Networks_2019.svg" group-title="News",News 12 New York
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-News12.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg" group-title="News",CNN
-http://213.254.12.7/cnn/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg" group-title="News",CNN
-http://89.254.128.5:22280/cnn/video.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 ########## New York Local Channels ##########
 ########## Weather ##########
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/The_Weather_Channel_%282005%29.svg" group-title="Weather",The Weather Channel
